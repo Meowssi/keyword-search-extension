@@ -13,11 +13,16 @@
         "https://t.me/s/thefreebieguy?q=",
         "https://lp.deals/?s=",
         "https://www.myvipon.com/promotion/index?search=",
-        "https://www.ebay.com/sch/i.html?_dkr=1&iconV2Request=true&_blrs=recall_filtering&_ssn=bullseye_deals&store_name=bullseyedeal&_oac=1&_nkw=",
-        "https://www.ebay.com/e/daily-deals/24-rw36-apac-main?_kwdomcat=6000,11450,26395&_bkw=",
         "https://www.buydig.com/shop/search.aspx?kwd=",
         "https://www.samsclub.com/s/",
         "https://www.costco.com/CatalogSearch?dept=All&keyword=",
         "https://www.walgreens.com/search/results.jsp?Ntt="
-  ]
+  ],
+  "special_urls": {
+    "ebay (Daily Deals Search)": "https://www.ebay.com/deals/sch?_from=R40&_trksid=p2344380.m570.l1313&_nkw={search_term}&_sacat=-1&_sop=",
+    "ebay (All Site Search)": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw={search_term}&_sacat=0",
+    "bdf": "https://slickdeals.net/admin/product-catalog/best-deal-finder/?nameFilter={search_term}&offerPriceMinFilter=&offerPriceMaxFilter=&percentAboveAveragePriceMinFilter=10&percentBelowHighPriceFilter=",
+    "google": "https://www.google.com/search?q={search_term}+price+drop",
+    "sd": "https://slickdeals.net/newsearch.php?forumchoice%5B%5D=4&forumchoice%5B%5D=9&forumchoice%5B%5D=10&forumchoice%5B%5D=13&forumchoice%5B%5D=25&forumchoice%5B%5D=30&forumchoice%5B%5D=38&forumchoice%5B%5D=39&forumchoice%5B%5D=41&forumchoice%5B%5D=44&forumchoice%5B%5D=53&forumchoice%5B%5D=54&forumchoice%5B%5D=71&q={search_term}&firstonly=1"
+  }
 }
