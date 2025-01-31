@@ -28,7 +28,7 @@
   "categories": [
     {"name": "Clothes", "urls": ["https://www.edealinfo.com/"]},
     {"name": "Computers", "urls": [
-      "https://example.com/computers/search?q=",
+      "https://www.edealinfo.com/",
       "https://example-pc-store.com/search?term="
     ]},
     {"name": "Electronics", "urls": [
