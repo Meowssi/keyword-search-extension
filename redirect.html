@@ -1,28 +1,27 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <script>
-        fetch('https://meowssi.github.io/keyword-search-extension/urls.json?t=' + Date.now())
-            .then(response => response.json())
-            .then(data => {
-                const categories = data.categories.map(c => c.name);
-                const hashCategory = decodeURIComponent(window.location.hash.substring(1));
-                
-                if (categories.includes(hashCategory)) {
-                    window.location.replace(`chrome-extension://ljjbcgocncjcpmahgejhaafcdklihkga/searchPage.html#${hashCategory}`);
-                } else {
-                    document.body.innerHTML = `
-                        <h2>Invalid category: ${hashCategory}</h2>
-                        <p>Valid categories: ${categories.join(', ')}</p>
-                    `;
-                }
-            })
-            .catch(error => {
-                document.body.innerHTML = "Error loading categories. Try again later.";
-            });
-    </script>
-</head>
-<body>
-    Loading categories...
-</body>
-</html>
+fetch('https://meowssi.github.io/keyword-search-extension/urls.json?t=' + Date.now())
+    .then(response => {
+        console.log('Response Status:', response.status); // Should be 200
+        return response.json();
+    })
+    .then(data => {
+        console.log('Fetched Data:', data); // Log full data
+        const categories = data.categories.map(c => c.name);
+        console.log('Categories:', categories); // Log extracted categories
+        const hashCategory = decodeURIComponent(window.location.hash.substring(1));
+        console.log('Hash Category:', hashCategory); // Log hash from URL
+
+        if (categories.includes(hashCategory)) {
+            console.log('Valid category. Redirecting...');
+            window.location.replace(`chrome-extension://ljjbcgocncjcpmahgejhaafcdklihkga/searchPage.html#${hashCategory}`);
+        } else {
+            console.error('Invalid category:', hashCategory);
+            document.body.innerHTML = `
+                <h2>Invalid category: ${hashCategory}</h2>
+                <p>Valid categories: ${categories.join(', ')}</p>
+            `;
+        }
+    })
+    .catch(error => {
+        console.error('Fetch Error:', error);
+        document.body.innerHTML = "Error loading categories. Try again later.";
+    });
