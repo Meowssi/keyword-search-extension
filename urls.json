@@ -22,8 +22,8 @@
     "https://www.reddit.com/r/buildapcsales/search/?q={search_term}&type=posts&sort=new",
     "https://www.facebook.com/groups/945733940520558/search/?q=",
     "https://x.com/search?q=from%3AFatKidDeals%20{search_term}&src=typed_query",
-    "https://x.com/search?q=from%3AElectroDeals1%20{search_term}&src=typed_query",
-  ]
+    "https://x.com/search?q=from%3AElectroDeals1%20{search_term}&src=typed_query"
+  ],
   "special_urls": {
     "ebay (Daily Deals Search)": "https://www.ebay.com/deals/sch?_from=R40&_trksid=p2344380.m570.l1313&_nkw={search_term}&_sacat=-1&_sop=",
     "ebay (All Site Search)": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw={search_term}&_sacat=0",
