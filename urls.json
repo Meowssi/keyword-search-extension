@@ -21,8 +21,10 @@
   "coupon_search_urls": [
     "https://www.reddit.com/r/buildapcsales/search/?q={search_term}&type=posts&sort=new",
     "https://www.facebook.com/groups/945733940520558/search/?q=",
+    "https://www.facebook.com/groups/1322699425474716/search/?q=",
     "https://x.com/search?q=from%3AFatKidDeals%20{search_term}&src=typed_query",
-    "https://x.com/search?q=from%3AElectroDeals1%20{search_term}&src=typed_query&f=live"
+    "https://x.com/search?q=from%3AElectroDeals1%20{search_term}&src=typed_query&f=live",
+    "https://www.promocajita.com/search?q={search_term}&filter=nuevo"
   ],
   "special_urls": {
     "ebay (Daily Deals Search)": "https://www.ebay.com/deals/sch?_from=R40&_trksid=p2344380.m570.l1313&_nkw={search_term}&_sacat=-1&_sop=",
