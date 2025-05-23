@@ -6,8 +6,20 @@
       "active": true,
       "buttons": [
         {
-          "name": "Memorial Deals - Amazon",
-          "url": "https://www.amazon.com/s?k=memorial+day+deals"
+          "name": "Mattresses",
+          "url": [ 
+            "https://www.google.com/search?q=Mattresses%20price%20drop%20promo",
+            "https://www.google.com/search?q=Queen%20mattress%20price%20drop%20promo",
+            "https://www.google.com/search?q=King%20mattress%20price%20drop%20promo",
+            "https://www.google.com/search?q=Memory%20foam%20mattress%20price%20drop%20promo",
+            "https://www.google.com/search?q=Twin%20mattress%20price%20drop%20promo",
+            "https://www.google.com/search?q=Full%20mattress%20price%20drop%20promo",
+            "https://www.google.com/search?q=Hybrid%20mattress%20price%20drop%20promo",
+            "https://www.google.com/search?q=Latex%20mattress%20price%20drop%20promo",
+            "https://www.google.com/search?q=Innerspring%20mattress%20price%20drop%20promo",
+            "https://www.google.com/search?q=Adjustable%20bed%20base%20price%20drop%20promo",
+            "https://www.google.com/search?q=Cooling%20mattress%20price%20drop%20promo"
+          ]
         },
         {
           "name": "Walmart Memorial Savings",
