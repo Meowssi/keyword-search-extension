@@ -5,8 +5,15 @@
       "active": true,
       "buttons": [
         {
+          "name": "(Memorial Day)",
+          "urls": [
+            "https://www.google.com/search?q=Best%20Memorial%20Day%20sales%202025",
+            "https://www.google.com/search?q=Memorial%20Day%20weekend%20deals"
+          ]
+        },
+        {
           "name": "Mattresses",
-          "urls": [ 
+          "urls": [
             "https://www.google.com/search?q=Mattresses%20price%20drop%20promo",
             "https://www.google.com/search?q=Queen%20mattress%20price%20drop%20promo",
             "https://www.google.com/search?q=King%20mattress%20price%20drop%20promo",
@@ -21,8 +28,420 @@
           ]
         },
         {
-          "name": "Walmart Memorial Savings",
-          "url": "https://www.walmart.com/search?q=memorial+day+deals"
+          "name": "Furniture",
+          "urls": [
+            "https://www.google.com/search?q=Furniture%20price%20drop%20promo",
+            "https://www.google.com/search?q=Sofa%20price%20drop%20promo",
+            "https://www.google.com/search?q=Couch%20price%20drop%20promo",
+            "https://www.google.com/search?q=Table%20price%20drop%20promo",
+            "https://www.google.com/search?q=Sideboard%20price%20drop%20promo",
+            "https://www.google.com/search?q=Furniture%20price%20drop%20promo",
+            "https://www.google.com/search?q=Bed%20price%20drop%20promo",
+            "https://www.google.com/search?q=Desk%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dining%20table%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coffee%20table%20price%20drop%20promo",
+            "https://www.google.com/search?q=Recliner%20chair%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Appliances",
+          "urls": [
+            "https://www.google.com/search?q=Appliances%20price%20drop%20promo",
+            "https://www.google.com/search?q=Air%20fryer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Microwave%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dishwasher%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coffee%20maker%20price%20drop%20promo",
+            "https://www.google.com/search?q=Rice%20cooker%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dehumidifier%20price%20drop%20promo",
+            "https://www.google.com/search?q=Vacuum%20cleaner%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blender%20price%20drop%20promo",
+            "https://www.google.com/search?q=Fan%20price%20drop%20promo",
+            "https://www.google.com/search?q=Toaster%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Refrigerator",
+          "urls": [
+            "https://www.google.com/search?q=Refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=French%20door%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Side-by-side%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Bottom%20freezer%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Top%20freezer%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Compact%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Energy-efficient%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ice%20maker%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Water%20dispenser%20refrigerator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stainless%20steel%20refrigerator%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Washer Dryers",
+          "urls": [
+            "https://www.google.com/search?q=Washer%20Dryers%20price%20drop%20promo",
+            "https://www.google.com/search?q=Top-load%20washer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Front-load%20washer%20price%20drop%20promo",
+            "https://www.google.com/search?q=High-efficiency%20washer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Portable%20washer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stackable%20washer%20dryer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Gas%20dryer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Electric%20dryer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dryer%20vent%20price%20drop%20promo",
+            "https://www.google.com/search?q=Washer%20drum%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dryer%20lint%20trap%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Home Decor",
+          "urls": [
+            "https://www.google.com/search?q=Home%20Decor%20price%20drop%20promo",
+            "https://www.google.com/search?q=Wall%20art%20price%20drop%20promo",
+            "https://www.google.com/search?q=Area%20rugs%20price%20drop%20promo",
+            "https://www.google.com/search?q=Throw%20pillows%20price%20drop%20promo",
+            "https://www.google.com/search?q=Curtains%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lamps%20price%20drop%20promo",
+            "https://www.google.com/search?q=Vases%20price%20drop%20promo",
+            "https://www.google.com/search?q=Mirrors%20price%20drop%20promo",
+            "https://www.google.com/search?q=Wall%20clocks%20price%20drop%20promo",
+            "https://www.google.com/search?q=Candles%20price%20drop%20promo",
+            "https://www.google.com/search?q=Planters%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "TV's",
+          "urls": [
+            "https://www.google.com/search?q=TV's%20price%20drop%20promo",
+            "https://www.google.com/search?q=4K%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=OLED%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=LED%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=QLED%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=Curved%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ultra%20HD%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=HDR%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=55-inch%20TV%20price%20drop%20promo",
+            "https://www.google.com/search?q=65-inch%20TV%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Grills",
+          "urls": [
+            "https://www.google.com/search?q=Grills%20price%20drop%20promo",
+            "https://www.google.com/search?q=Gas%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=BBQ%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Electric%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Charcoal%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Portable%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Kamado%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smoker%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Propane%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Outdoor%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Camping%20grill%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Patio Furniture",
+          "urls": [
+            "https://www.google.com/search?q=Patio%20Furniture%20price%20drop%20promo",
+            "https://www.google.com/search?q=Outdoor%20dining%20set%20price%20drop%20promo",
+            "https://www.google.com/search?q=Adirondack%20chair%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lounge%20chair%20price%20drop%20promo",
+            "https://www.google.com/search?q=Chaise%20lounge%20price%20drop%20promo",
+            "https://www.google.com/search?q=Outdoor%20sofa%20price%20drop%20promo",
+            "https://www.google.com/search?q=Bistro%20set%20price%20drop%20promo",
+            "https://www.google.com/search?q=Garden%20bench%20price%20drop%20promo",
+            "https://www.google.com/search?q=Patio%20umbrella%20price%20drop%20promo",
+            "https://www.google.com/search?q=Fire%20pit%20table%20price%20drop%20promo",
+            "https://www.google.com/search?q=Outdoor%20coffee%20table%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Lawn Mowers",
+          "urls": [
+            "https://www.google.com/search?q=Lawn%20Mowers%20price%20drop%20promo",
+            "https://www.google.com/search?q=Push%20lawn%20mower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Self-propelled%20lawn%20mower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Electric%20lawn%20mower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Gas%20lawn%20mower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Cordless%20lawn%20mower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Battery-powered%20lawn%20mower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Riding%20lawn%20mower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Zero-turn%20mower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lawn%20mower%20blades%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lawn%20mower%20parts%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Camping Gear",
+          "urls": [
+            "https://www.google.com/search?q=Camping%20Gear%20price%20drop%20promo",
+            "https://www.google.com/search?q=Camping%20stove%20price%20drop%20promo",
+            "https://www.google.com/search?q=Sleeping%20pad%20price%20drop%20promo",
+            "https://www.google.com/search?q=Camp%20lantern%20price%20drop%20promo",
+            "https://www.google.com/search?q=Portable%20cooler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Camping%20cookware%20price%20drop%20promo",
+            "https://www.google.com/search?q=Camping%20chair%20price%20drop%20promo",
+            "https://www.google.com/search?q=Tent%20price%20drop%20promo",
+            "https://www.google.com/search?q=Hammock%20price%20drop%20promo",
+            "https://www.google.com/search?q=Sleeping%20bag%20price%20drop%20promo",
+            "https://www.google.com/search?q=Camping%20grill%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Outdoor Gear",
+          "urls": [
+            "https://www.google.com/search?q=Outdoor%20Gear%20price%20drop%20promo",
+            "https://www.google.com/search?q=Hiking%20boots%20price%20drop%20promo",
+            "https://www.google.com/search?q=Hiking%20backpack%20price%20drop%20promo",
+            "https://www.google.com/search?q=Climbing%20harness%20price%20drop%20promo",
+            "https://www.google.com/search?q=Trekking%20poles%20price%20drop%20promo",
+            "https://www.google.com/search?q=Trail%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Waterproof%20jacket%20price%20drop%20promo",
+            "https://www.google.com/search?q=Base%20layer%20clothing%20price%20drop%20promo",
+            "https://www.google.com/search?q=Headlamp%20price%20drop%20promo",
+            "https://www.google.com/search?q=Insulated%20water%20bottle%20price%20drop%20promo",
+            "https://www.google.com/search?q=Multi-tool%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "BBQ",
+          "urls": [
+            "https://www.google.com/search?q=BBQ%20price%20drop%20promo",
+            "https://www.google.com/search?q=Grill%20press%20price%20drop%20promo",
+            "https://www.google.com/search?q=Meat%20injector%20price%20drop%20promo",
+            "https://www.google.com/search?q=Grill%20rotisserie%20price%20drop%20promo",
+            "https://www.google.com/search?q=BBQ%20gloves%20price%20drop%20promo",
+            "https://www.google.com/search?q=Grill%20light%20price%20drop%20promo",
+            "https://www.google.com/search?q=BBQ%20apron%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smoker%20box%20price%20drop%20promo",
+            "https://www.google.com/search?q=Grill%20mat%20price%20drop%20promo",
+            "https://www.google.com/search?q=BBQ%20thermometer%20price%20drop%20promo",
+            "https://www.google.com/search?q=BBQ%20skewers%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Pool Supplies",
+          "urls": [
+            "https://www.google.com/search?q=Pool%20Supplies%20price%20drop%20promo",
+            "https://www.google.com/search?q=Pool%20skimmer%20net%20price%20drop%20promo",
+            "https://www.google.com/search?q=Pool%20brush%20price%20drop%20promo",
+            "https://www.google.com/search?q=Pool%20vacuum%20price%20drop%20promo",
+            "https://www.google.com/search?q=Water%20test%20kit%20price%20drop%20promo",
+            "https://www.google.com/search?q=Chlorine%20tablets%20price%20drop%20promo",
+            "https://www.google.com/search?q=Pool%20shock%20price%20drop%20promo",
+            "https://www.google.com/search?q=Algaecide%20price%20drop%20promo",
+            "https://www.google.com/search?q=Pool%20cover%20price%20drop%20promo",
+            "https://www.google.com/search?q=Floating%20chlorinator%20price%20drop%20promo",
+            "https://www.google.com/search?q=Pool%20thermometer%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Laptops",
+          "urls": [
+            "https://www.google.com/search?q=Laptops%20price%20drop%20promo",
+            "https://www.google.com/search?q=Gaming%20laptop%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ultrabook%20price%20drop%20promo",
+            "https://www.google.com/search?q=2-in-1%20laptop%20price%20drop%20promo",
+            "https://www.google.com/search?q=Touchscreen%20laptop%20price%20drop%20promo",
+            "https://www.google.com/search?q=Business%20laptop%20price%20drop%20promo",
+            "https://www.google.com/search?q=Student%20laptop%20price%20drop%20promo",
+            "https://www.google.com/search?q=Budget%20laptop%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lightweight%20laptop%20price%20drop%20promo",
+            "https://www.google.com/search?q=High-performance%20laptop%20price%20drop%20promo",
+            "https://www.google.com/search?q=Chromebook%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Smartphones",
+          "urls": [
+            "https://www.google.com/search?q=Smartphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Unlocked%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dual%20SIM%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=5G%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=Refurbished%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=Waterproof%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=Foldable%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=Rugged%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=Compact%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=Budget%20smartphone%20price%20drop%20promo",
+            "https://www.google.com/search?q=Gaming%20smartphone%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Tablets",
+          "urls": [
+            "https://www.google.com/search?q=Tablets%20price%20drop%20promo",
+            "https://www.google.com/search?q=Android%20tablet%20price%20drop%20promo",
+            "https://www.google.com/search?q=Drawing%20tablet%20price%20drop%20promo",
+            "https://www.google.com/search?q=Reading%20tablet%20price%20drop%20promo",
+            "https://www.google.com/search?q=Keyboard%20tablet%20price%20drop%20promo",
+            "https://www.google.com/search?q=Kids%20tablet%20price%20drop%20promo",
+            "https://www.google.com/search?q=Student%20tablet%20price%20drop%20promo",
+            "https://www.google.com/search?q=Budget%20tablet%20price%20drop%20promo",
+            "https://www.google.com/search?q=Tablet%20case%20price%20drop%20promo",
+            "https://www.google.com/search?q=10-inch%20tablet%20price%20drop%20promo",
+            "https://www.google.com/search?q=Wi-Fi%20tablet%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Cameras",
+          "urls": [
+            "https://www.google.com/search?q=Cameras%20price%20drop%20promo",
+            "https://www.google.com/search?q=Digital%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=DSLR%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=Mirrorless%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=Compact%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=Point-and-shoot%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=Action%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=Film%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=Instant%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=SLR%20camera%20price%20drop%20promo",
+            "https://www.google.com/search?q=Professional%20camera%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Headphones",
+          "urls": [
+            "https://www.google.com/search?q=Headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Noise-cancelling%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Bluetooth%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Over-ear%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=In-ear%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Wired%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Sports%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Studio%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Gaming%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Wireless%20earbuds%20price%20drop%20promo",
+            "https://www.google.com/search?q=Sweatproof%20headphones%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Gaming Consoles",
+          "urls": [
+            "https://www.google.com/search?q=Gaming%20Consoles%20price%20drop%20promo",
+            "https://www.google.com/search?q=PlayStation%205%20price%20drop%20promo",
+            "https://www.google.com/search?q=Xbox%20Series%20X%20price%20drop%20promo",
+            "https://www.google.com/search?q=Nintendo%20Switch%20OLED%20price%20drop%20promo",
+            "https://www.google.com/search?q=Nintendo%20Switch%202%20price%20drop%20promo",
+            "https://www.google.com/search?q=PlayStation%20VR%20price%20drop%20promo",
+            "https://www.google.com/search?q=Xbox%20Series%20S%20price%20drop%20promo",
+            "https://www.google.com/search?q=Nintendo%20Switch%20Lite%20price%20drop%20promo",
+            "https://www.google.com/search?q=Xbox%20Series%20X%20accessories%20price%20drop%20promo",
+            "https://www.google.com/search?q=PlayStation%205%20controller%20price%20drop%20promo",
+            "https://www.google.com/search?q=Nintendo%20Switch%20accessories%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Smart Home",
+          "urls": [
+            "https://www.google.com/search?q=Smart%20Home%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20light%20bulbs%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20speakers%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20thermostats%20price%20drop%20promo",
+            "https://www.google.com/search?q=Home%20security%20systems%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20door%20locks%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20plugs%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20home%20hubs%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20door%20cameras%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20home%20sensors%20price%20drop%20promo",
+            "https://www.google.com/search?q=Smart%20air%20purifiers%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Clothing",
+          "urls": [
+            "https://www.google.com/search?q=Clothing%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20linen%20shirts%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20graphic%20tees%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20summer%20dresses%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20polo%20shirts%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20tank%20tops%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20cargo%20shorts%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20swimwear%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20swim%20trunks%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20sandals%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20sandals%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Shoes",
+          "urls": [
+            "https://www.google.com/search?q=Shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20canvas%20slip-ons%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20espadrilles%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20boat%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20wedge%20sandals%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20flat%20sandals%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20slide%20sandals%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20leather%20sandals%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20platform%20sandals%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Activewear",
+          "urls": [
+            "https://www.google.com/search?q=Activewear%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20workout%20set%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20running%20shorts%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20sports%20bra%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20moisture-wicking%20shirt%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20high-waisted%20leggings%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20athletic%20shorts%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20active%20tops%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20breathable%20tees%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20biker%20shorts%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20joggers%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Swimwear",
+          "urls": [
+            "https://www.google.com/search?q=Swimwear%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20one-piece%20swimsuits%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20board%20shorts%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20bikini%20sets%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20swim%20trunks%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20high-waisted%20swimsuits%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20rash%20guards%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20cover-up%20dresses%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20speedos%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20tankinis%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20swim%20briefs%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Accessories",
+          "urls": [
+            "https://www.google.com/search?q=Accessories%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20straw%20hats%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20sunglasses%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20beach%20bags%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20baseball%20caps%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20sun%20visors%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20flip-flops%20price%20drop%20promo",
+            "https://www.google.com/search?q=Beach%20towels%20price%20drop%20promo",
+            "https://www.google.com/search?q=Men%E2%80%99s%20sun%20hats%20price%20drop%20promo",
+            "https://www.google.com/search?q=Cooling%20towels%20price%20drop%20promo",
+            "https://www.google.com/search?q=Women%E2%80%99s%20sunglasses%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Designer Products",
+          "urls": [
+            "https://www.google.com/search?q=Designer%20Products%20price%20drop%20promo",
+            "https://www.google.com/search?q=Designer%20Handbags%20price%20drop%20promo",
+            "https://www.google.com/search?q=Designer%20Footwear%20price%20drop%20promo",
+            "https://www.google.com/search?q=Luxury%20Watches%20price%20drop%20promo",
+            "https://www.google.com/search?q=High-End%20Jewelry%20price%20drop%20promo",
+            "https://www.google.com/search?q=Designer%20Apparel%20price%20drop%20promo",
+            "https://www.google.com/search?q=Luxury%20Sunglasses%20price%20drop%20promo",
+            "https://www.google.com/search?q=Designer%20Outerwear%20price%20drop%20promo",
+            "https://www.google.com/search?q=Luxury%20Accessories%20price%20drop%20promo",
+            "https://www.google.com/search?q=Designer%20Perfumes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Designer%20Activewear%20price%20drop%20promo"
+          ]
         }
       ]
     },
