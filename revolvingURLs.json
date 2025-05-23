@@ -1,13 +1,12 @@
 {
   "currentHoliday": "Memorial Day",
-
   "holidays": {
     "Memorial Day": {
       "active": true,
       "buttons": [
         {
           "name": "Mattresses",
-          "url": [ 
+          "urls": [ 
             "https://www.google.com/search?q=Mattresses%20price%20drop%20promo",
             "https://www.google.com/search?q=Queen%20mattress%20price%20drop%20promo",
             "https://www.google.com/search?q=King%20mattress%20price%20drop%20promo",
