@@ -1,0 +1,32 @@
+{
+  "currentHoliday": "Memorial Day",
+
+  "holidays": {
+    "Memorial Day": {
+      "active": true,
+      "buttons": [
+        {
+          "name": "Memorial Deals - Amazon",
+          "url": "https://www.amazon.com/s?k=memorial+day+deals"
+        },
+        {
+          "name": "Walmart Memorial Savings",
+          "url": "https://www.walmart.com/search?q=memorial+day+deals"
+        }
+      ]
+    },
+    "Father's Day": {
+      "active": false,
+      "buttons": [
+        {
+          "name": "Father’s Day Amazon Picks",
+          "url": "https://www.amazon.com/s?k=fathers+day+gifts"
+        },
+        {
+          "name": "Lowes Dad Tools",
+          "url": "https://www.lowes.com/search?searchTerm=fathers+day+tools"
+        }
+      ]
+    }
+  }
+}
