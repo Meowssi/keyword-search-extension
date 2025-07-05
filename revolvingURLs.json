@@ -1090,13 +1090,443 @@
             "https://www.google.com/search?q=DeWalt%20brushless%20price%20drop%20promo",
             "https://www.google.com/search?q=DeWalt%20cordless%20price%20drop%20promo"
           ]
+        },
+        {
+          "name": "Adidas",
+          "urls": [
+            "https://www.google.com/search?q=adidas%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20men%E2%80%99s%20sandal%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20women%E2%80%99s%20sandal%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20men%E2%80%99s%20shorts%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20women%E2%80%99s%20shorts%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20men%E2%80%99s%20t-shirt%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20women%E2%80%99s%20t-shirt%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20men%27s%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20women%27s%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20hat%20price%20drop%20promo",
+            "https://www.google.com/search?q=adidas%20duffle%20bag%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Brooks",
+          "urls": [
+            "https://www.google.com/search?q=Brooks%20men%27s%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20women%27s%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20men%27s%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20women%27s%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20men%27s%20athletic%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20women%27s%20athletic%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20ghost%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20glycerin%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20adrenaline%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=Brooks%20hyperion%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Anker",
+          "urls": [
+            "https://www.google.com/search?q=Anker%20charger%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20power%20bank%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20cable%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20earbuds%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20speaker%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20wireless%20charger%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20car%20charger%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20USB%20hub%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=Anker%20wall%20charger%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Ryobi",
+          "urls": [
+            "https://www.google.com/search?q=Ryobi%20drill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20impact%20driver%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20saw%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20sander%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20battery%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20charger%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20tool%20bag%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20pressure%20washer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20blower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ryobi%20trimmer%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Craftsman",
+          "urls": [
+            "https://www.google.com/search?q=Craftsman%20drill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20impact%20driver%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20saw%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20sander%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20battery%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20charger%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20trimmer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20work%20light%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20blower%20price%20drop%20promo",
+            "https://www.google.com/search?q=Craftsman%20wrench%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "New Balance",
+          "urls": [
+            "https://www.google.com/search?q=New%20Balance%20men%27s%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20women%27s%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20men%27s%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20women%27s%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20men%27s%20walking%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20women%27s%20walking%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20574%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20990%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20Fresh%20Foam%20price%20drop%20promo",
+            "https://www.google.com/search?q=New%20Balance%20trail%20running%20shoes%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Dyson",
+          "urls": [
+            "https://www.google.com/search?q=Dyson%20vacuum%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20cordless%20vacuum%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20pet%20vacuum%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20upright%20vacuum%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20refurbished%20vacuum%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20Airwrap%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20hair%20dryer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20fan%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20air%20purifier%20price%20drop%20promo",
+            "https://www.google.com/search?q=Dyson%20ball%20vacuum%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Yeti",
+          "urls": [
+            "https://www.google.com/search?q=Yeti%20hard%20cooler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20soft%20cooler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20wheeled%20cooler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20tumbler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20rambler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20water%20bottle%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20tundra%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20hopper%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20travel%20mug%20price%20drop%20promo",
+            "https://www.google.com/search?q=Yeti%20lunch%20bag%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "JBL",
+          "urls": [
+            "https://www.google.com/search?q=JBL%20speaker%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20soundbar%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20wireless%20speaker%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20portable%20speaker%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20wireless%20headphones%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20earbuds%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20outdoor%20speaker%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20gaming%20headset%20price%20drop%20promo",
+            "https://www.google.com/search?q=JBL%20ANC%20headphones%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Coleman",
+          "urls": [
+            "https://www.google.com/search?q=Coleman%20cooler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20tent%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20lantern%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20sleeping%20bag%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20chair%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20stove%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20lantern%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20water%20jug%20price%20drop%20promo",
+            "https://www.google.com/search?q=Coleman%20hammock%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Weber",
+          "urls": [
+            "https://www.google.com/search?q=Weber%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20gas%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20charcoal%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20pellet%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20kettle%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20grill%20cover%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20portable%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20grill%20tool%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20smoker%20price%20drop%20promo",
+            "https://www.google.com/search?q=Weber%20propane%20grill%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Blackstone",
+          "urls": [
+            "https://www.google.com/search?q=Blackstone%20griddles%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20gas%20griddles%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20portable%20griddles%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20griddle%20accessories%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20griddle%20covers%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20flat%20top%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20propane%20griddles%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20cooking%20tools%20price%20drop%20promo",
+            "https://www.google.com/search?q=Blackstone%20seasoning%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "On Shoes",
+          "urls": [
+            "https://www.google.com/search?q=On%20men%27s%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20women%27s%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20men%27s%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20women%27s%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20men%27s%20walking%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20women%27s%20walking%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20men%27s%20trail%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20women%27s%20trail%20running%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20men%27s%20athletic%20shoes%20price%20drop%20promo",
+            "https://www.google.com/search?q=On%20women%27s%20athletic%20shoes%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "EGO",
+          "urls": [
+            "https://www.google.com/search?q=EGO%20lawn%20mowers%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20leaf%20blowers%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20string%20trimmers%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20hedge%20trimmers%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20chainsaws%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20battery%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20tools%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20outdoor%20power%20equipment%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20pole%20price%20drop%20promo",
+            "https://www.google.com/search?q=EGO%20cordless%20tools%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Scotts",
+          "urls": [
+            "https://www.google.com/search?q=Scotts%20lawn%20fertilizer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20grass%20seed%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20weed%20control%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20lawn%20spreader%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20mulch%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20lawn%20food%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20fertilizer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20weed%20and%20feed%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20turf%20builder%20price%20drop%20promo",
+            "https://www.google.com/search?q=Scotts%20patch%20repair%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Lifetime",
+          "urls": [
+            "https://www.google.com/search?q=Lifetime%20basketball%20hoop%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20folding%20table%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20outdoor%20furniture%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20storage%20shed%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20picnic%20table%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20sports%20equipment%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20workbench%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20utility%20cart%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20kayak%20price%20drop%20promo",
+            "https://www.google.com/search?q=Lifetime%20deck%20box%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Stanley",
+          "urls": [
+            "https://www.google.com/search?q=Stanley%20tumbler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20water%20bottle%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20cup%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20travel%20mug%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20thermos%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20cooler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20wine%20tumbler%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20flask%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20iceflow%20price%20drop%20promo",
+            "https://www.google.com/search?q=Stanley%20quencher%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Milwaukee",
+          "urls": [
+            "https://www.google.com/search?q=Milwaukee%20drill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20impact%20driver%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20saw%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20sander%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20battery%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20charger%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20tool%20set%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20work%20light%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20power%20tool%20price%20drop%20promo",
+            "https://www.google.com/search?q=Milwaukee%20cordless%20price%20drop%20promo"
+          ]
+        },
+        {
+          "name": "Ninja",
+          "urls": [
+            "https://www.google.com/search?q=Ninja%20blender%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20air%20fryer%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20coffee%20maker%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20food%20processor%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20pressure%20cooker%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20indoor%20grill%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20foodie%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20smoothie%20maker%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20cookware%20price%20drop%20promo",
+            "https://www.google.com/search?q=Ninja%20appliance%20price%20drop%20promo"
+          ]
         }
       ],
       "stores": [
         {
           "name": "Amazon",
           "urls": [
-            "https://www.amazon.com/Sales-Deals-Sports/b/?ie=UTF8&node=10805321&ref_=sv_sv_so_sando_10&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25223375251%252F706814011%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522"
+            "https://www.amazon.com/Sales-Deals-Sports/b/?ie=UTF8&node=10805321&ref_=sv_sv_so_sando_10&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25223375251%252F706814011%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522",
+            "https://www.amazon.com/Sales-Deals-Sports/b/?ie=UTF8&node=10805321&ref_=sv_sv_so_sando_10&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25223375301%252F3407731%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522",
+            "https://www.amazon.com/Sales-Deals-Sports/b/?ie=UTF8&node=10805321&ref_=sv_sv_so_sando_10&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25223375251%252F706813011%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522",
+            "https://www.amazon.com/Sales-Deals-Sports/b/?ie=UTF8&node=10805321&ref_=sv_sv_so_sando_10&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25223375251%252F10971181011%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522",
+            "https://www.amazon.com/b?node=120868611011&pd_rd_w=HHEO4&content-id=amzn1.sym.a25427b8-ca6b-4ce0-809a-7b66b495011f&pf_rd_p=a25427b8-ca6b-4ce0-809a-7b66b495011f&pf_rd_r=FEXRNJ3PP4M93TJ0NZCN&pd_rd_wg=9UZcs&pd_rd_r=ad119058-bd04-4d7a-a260-45d326c43970&bubble-id=lawn-garden",
+            "https://www.amazon.com/b/ref=AF_l0_dt_nav_1?pf_rd_r=2XEPRSWBN47Q5NTNDT48&pf_rd_p=84617d8c-6a4b-43c1-958e-56b45dc3b6f7&pf_rd_m=A2R2RITDJNW1Q6&pf_rd_s=merchandised-search-3&pf_rd_t=&pf_rd_i=7141123011&node=9538491011&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25227141123011%252F7147441011%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522",
+            "https://www.amazon.com/b/ref=AF_l0_dt_nav_1?pf_rd_r=2XEPRSWBN47Q5NTNDT48&pf_rd_p=84617d8c-6a4b-43c1-958e-56b45dc3b6f7&pf_rd_m=A2R2RITDJNW1Q6&pf_rd_s=merchandised-search-3&pf_rd_t=&pf_rd_i=7141123011&node=9538491011&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25227141124011%252F7147440011%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522",
+            "https://www.amazon.com/gp/goldbox?bubble-id=grocery",
+            "https://www.amazon.com/gp/goldbox?bubble-id=deals-collection-summer-favorites",
+            "https://www.amazon.com/gp/goldbox?bubble-id=pet-supplies"
+          ]
+        },
+        {
+          "name": "Walmart",
+          "urls": [
+            "https://www.walmart.com/shop/savings/patio-and-garden?povid=Savings_25SummerSavings_Facet_PatioGarden&facet=retailer_type%3AWalmart",
+            "https://www.walmart.com/shop/savings/sports-and-outdoors?povid=Savings_25SummerSavings_Facet_SportsOutdoors&facet=retailer_type%3AWalmart",
+            "https://www.walmart.com/shop/savings/clothing-and-accessories/mens?povid=ApparelNav_SAVINGS_FashionSavings_Shop_Pills_Sav_Mens&facet=retailer_type%3AWalmart",
+            "https://www.walmart.com/shop/savings/clothing-and-accessories/womens?povid=ApparelNav_SAVINGS_FashionSavings_Shop_Pills_Sav_Womens&facet=retailer_type%3AWalmart",
+            "https://www.walmart.com/shop/savings/electronics/headphones-speakers-and-video?povid=ETS_tech_facet_techsavings_headphonesandspeakerssavings_savings&facet=retailer_type%3AWalmart",
+            "https://www.walmart.com/shop/savings/electronics/tvs?povid=ETS_tech_facet_techsavings_tvsavings_savings&facet=retailer_type%3AWalmart",
+            "https://www.walmart.com/shop/savings/home-improvement?POVID=Hardlines_Editorial_HomeImprovement_HomeImprovement_LHN_HomeImprovement1072864&facet=retailer_type%3AWalmart",
+            "https://www.walmart.com/shop/deals/clearance?povid=Savings_25SummerSavings_Facet_Clearance&facet=retailer_type%3AWalmart",
+            "https://www.walmart.com/shop/deals"
+          ]
+        },
+        {
+          "name": "Home Depot",
+          "urls": [
+            "https://www.homedepot.com/SpecialBuy/SpecialBuyOfTheDay",
+            "https://www.homedepot.com/b/Special-Buys/N-5yc1vZ1z11ao3",
+            "https://www.homedepot.com/c/Savings_Center",
+            "https://www.homedepot.com/b/Outdoors-Outdoor-Cooking-Grills/Special-Values/N-5yc1vZbxazZ7?NCNI-5",
+            "https://www.homedepot.com/b/Tool-Savings/N-5yc1vZ1z1zuqf?catStyle=ShowProducts",
+            "https://www.homedepot.com/b/Outdoors/Special-Values/N-5yc1vZbx82Z7",
+            "https://www.homedepot.com/c/appliance-sales",
+            "https://www.homedepot.com/b/Heating-Venting-Cooling-Air-Conditioners/Special-Values/N-5yc1vZc4meZ7?NCNI-5",
+            "https://www.homedepot.com/b/Outdoors-Outdoor-Heating-Fire-Pits/Special-Values/N-5yc1vZc6naZ7?NCNI-5",
+            "https://www.homedepot.com/b/Heating-Venting-Cooling-Fans/Special-Values/N-5yc1vZc4lwZ7?NCNI-5"
+          ]
+        },
+        {
+          "name": "Best Buy",
+          "urls": [
+            "https://www.bestbuy.com/top-deals",
+            "https://www.bestbuy.com/site/misc/deal-of-the-day/pcmcat248000050016.c?id=pcmcat248000050016",
+            "https://www.bestbuy.com/site/outlet-refurbished-clearance/clearance-electronics/pcmcat748300666044.c?id=pcmcat748300666044",
+            "https://www.bestbuy.com/site/all-electronics-on-sale/all-tv-home-theater-on-sale/pcmcat1690836748285.c?id=pcmcat1690836748285",
+            "https://www.bestbuy.com/site/all-electronics-on-sale/all-audio-on-sale/pcmcat1690896188531.c?id=pcmcat1690896188531",
+            "https://www.bestbuy.com/site/all-electronics-on-sale/all-outdoor-living-on-sale/pcmcat1690897999431.c?id=pcmcat1690897999431",
+            "https://www.bestbuy.com/site/all-home-furniture-office-on-sale/tools-garage-on-sale/pcmcat1720710108977.c?id=pcmcat1720710108977",
+            "https://www.bestbuy.com/site/all-electronics-on-sale/all-wearable-technology-on-sale/pcmcat1690897435393.c?id=pcmcat1690897435393",
+            "https://www.bestbuy.com/site/all-electronics-on-sale/all-health-wellness-fitness-on-sale/pcmcat1690897564372.c?id=pcmcat1690897564372",
+            "https://www.bestbuy.com/site/all-appliances-on-sale/heating-cooling-air-quality-on-sale/pcmcat1637009444004.c?id=pcmcat1637009444004"
+          ]
+        },
+        {
+          "name": "REI",
+          "urls": [
+            "https://www.rei.com/promotions/fourth-of-july-sale",
+            "https://www.rei.com/h/deals",
+            "https://www.rei.com/outlet",
+            "https://www.rei.com/c/camping-and-hiking/f/scd-deals",
+            "https://www.rei.com/s/mens-deals",
+            "https://www.rei.com/s/womens-deals",
+            "https://www.rei.com/c/running/f/scd-deals",
+            "https://www.rei.com/c/watersports/f/scd-deals"
+          ]
+        },
+        {
+          "name": "Target",
+          "urls": [
+            "https://www.target.com/c/fourth-of-july/-/N-94xggZakkos?moveTo=product-list-grid",
+            "https://www.target.com/c/top-deals/-/N-4xw74",
+            "https://www.target.com/c/men-s-clothing-deals/-/N-g23gm",
+            "https://www.target.com/c/shoe-sale/men/-/N-4slznZq7xor?type=products",
+            "https://www.target.com/c/sports-outdoors-deals/-/N-54uxx",
+            "https://www.target.com/c/grocery-deals/-/N-k4uyq",
+            "https://www.target.com/c/electronics-deals/-/N-556x9",
+            "https://www.target.com/c/patio-sale/-/N-4ua8f",
+            "https://www.target.com/deals/outdoor-living-garden/5xtq9",
+            "https://www.target.com/deals/electronics/5xtg6",
+            "https://www.target.com/c/clearance/-/N-5q0ga"
+          ]
+        },
+        {
+          "name": "eBay",
+          "urls": [
+            "https://www.ebay.com/deals",
+            "https://www.ebay.com/b/Sales-Events/bn_7115049177",
+            "https://internal.slickdeals.tools/deal-hunters/coupon-feed?q=ebay",
+            "https://www.ebay.com/deals/fashion",
+            "https://www.ebay.com/deals/tech",
+            "https://www.ebay.com/deals/sporting-goods",
+            "https://www.ebay.com/deals/home-garden",
+            "https://www.ebay.com/deals/automotive",
+            "https://www.ebay.com/b/Brand-Outlet/bn_7115532402"
+          ]
+        },
+        {
+          "name": "Macy's",
+          "urls": [
+            "https://www.macys.com/shop/sale/today-only-flash-sale?id=160842",
+            "https://www.macys.com/shop/sale/mens-sale/Price_discount_range/70_PERCENT_%20off%20%26%20more?id=9559",
+            "https://www.macys.com/shop/mens-clothing/shop-all-mens-shoes/Price_discount_range/50_PERCENT_%20off%20%26%20more?id=55822",
+            "https://www.macys.com/shop/mens-clothing/all-mens-clothing/Price_discount_range/60_PERCENT_%20off%20%26%20more?id=197651",
+            "https://www.macys.com/shop/luggage/all-luggage/Price_discount_range/60_PERCENT_%20off%20%26%20more?id=76877",
+            "https://www.macys.com/shop/womens-clothing/Price_discount_range/70_PERCENT_%20off%20%26%20more?id=118",
+            "https://www.macys.com/shop/womens-clothing/all-womens-shoes/Price_discount_range/50_PERCENT_%20off%20%26%20more?id=56233",
+            "https://www.macys.com/shop/womens-clothing/all-womens-clothing/Price_discount_range/60_PERCENT_%20off%20%26%20more?id=188851",
+            "https://www.macys.com/shop/shop-all-for-the-home/Price_discount_range/70_PERCENT_%20off%20%26%20more?id=173142",
+            "https://www.macys.com/shop/kitchen/shop-all-kitchen/Price_discount_range/60_PERCENT_%20off%20%26%20more?id=291559",
+            "https://www.macys.com/shop/bedding/all-bedding/Price_discount_range/70_PERCENT_%20off%20%26%20more?id=20919",
+            "https://www.macys.com/shop/shop-all-bath/Price_discount_range/60_PERCENT_%20off%20%26%20more?id=60241"
+          ]
+        },
+        {
+          "name": "Dick's Sporting Goods",
+          "urls": [
+            "https://www.dickssportinggoods.com/f/sale",
+            "https://www.dickssportinggoods.com/f/outdoor-sale",
+            "https://www.dickssportinggoods.com/f/fitness-sale",
+            "https://www.dickssportinggoods.com/f/hydration-sale",
+            "https://www.dickssportinggoods.com/f/mens-sale-footwear",
+            "https://www.dickssportinggoods.com/f/womens-sale-footwear",
+            "https://www.dickssportinggoods.com/f/mens-sale-apparel",
+            "https://www.dickssportinggoods.com/f/womens-sale-apparel",
+            "https://www.dickssportinggoods.com/f/clearance-apparel-gear-footwear"
+          ]
+        },
+        {
+          "name": "Kohl's",
+          "urls": [
+            "https://www.kohls.com/catalog/sale.jsp?CN=Promotions:Clearance+Promotions:Sale&BL=y&cc=sale-HZ1-saleclearance&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/sale-for-the-home-home-decor.jsp?CN=Promotions:Sale+Activity:For%20the%20Home+Department:Home%20Decor+CouponEligible:Eligible&BL=y&S=1&PPP=48&pfm=browse%20refine&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/sale-for-the-home-bedding.jsp?CN=Promotions:Sale+Activity:For%20the%20Home+Department:Bedding+CouponEligible:Eligible&BL=y&S=1&PPP=48&pfm=browse%20refine&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/sale-for-the-home-kitchen-dining.jsp?CN=Promotions:Sale+Activity:For%20the%20Home+Department:Kitchen%20%26%20Dining+CouponEligible:Eligible&BL=y&S=1&PPP=48&pfm=browse%20refine&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/sale-for-the-home-luggage-suitcases.jsp?CN=Promotions:Sale+Activity:For%20the%20Home+Department:Luggage%20%26%20Suitcases+CouponEligible:Eligible&BL=y&S=1&PPP=48&pfm=browse%20refine&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/sale-storage-cleaning.jsp?CN=Promotions:Sale+Department:Storage%20%26%20Cleaning+CouponEligible:Eligible&BL=y&icid=homeCEsale-vn-storagecleaning&pfm=browse%20P13N_control%20Visual%20Nav&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/sale-mens.jsp?CN=Promotions:Sale+Gender:Mens+CouponEligible:Eligible&BL=y&BST=5505898&icid=SaleCE-VN3-Men&pfm=browse%20Visual%20Nav%20Visual%20Nav%20refine%20P13N_control%20Visual%20Nav&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/sale-womens.jsp?CN=Promotions:Sale+Gender:Womens+CouponEligible:Eligible&BL=y&BST=5831853&icid=SaleCE-VN2-Women&pfm=undefined&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/sale-shoes.jsp?CN=Promotions:Sale+Department:Shoes+CouponEligible:Eligible&BL=y&BST=5879114&icid=SaleCE-VN5-Shoes&pfm=undefined&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/catalog/clearance.jsp?CN=Promotions:Clearance&cc=sale-TN2.0-S-Clearance-ShopAll&kls_sbp=29424722515039861821007175429046305089",
+            "https://www.kohls.com/sale-event/todays-deals.jsp?icid=ft-shop-k-coups",
+            "https://www.kohls.com/feature/sale-alert.jsp?icid=ft-shop-15-email-signup"
           ]
         }
       ]
