@@ -772,7 +772,7 @@
     },
     "July 4th": {
       "active": true,
-      "buttons": [
+      "categories": [
         {
           "name": "Lawn & Garden Care",
           "urls": [
@@ -1071,6 +1071,32 @@
             "https://www.google.com/search?q=digital%20camera%20price%20drop%20promo",
             "https://www.google.com/search?q=dash%20camera%20price%20drop%20promo",
             "https://www.google.com/search?q=mini%20projector%20price%20drop%20promo"
+          ]
+        }
+      ],
+      "brands": [
+        {
+          "name": "DeWalt",
+          "urls": [
+            "https://www.google.com/search?q=DeWalt%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20drill%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20impact%20driver%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20saw%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20sander%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20battery%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20charger%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20tool%20bag%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20work%20light%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20brushless%20price%20drop%20promo",
+            "https://www.google.com/search?q=DeWalt%20cordless%20price%20drop%20promo"
+          ]
+        }
+      ],
+      "stores": [
+        {
+          "name": "Amazon",
+          "urls": [
+            "https://www.amazon.com/Sales-Deals-Sports/b/?ie=UTF8&node=10805321&ref_=sv_sv_so_sando_10&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25223375251%252F706814011%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522"
           ]
         }
       ]
