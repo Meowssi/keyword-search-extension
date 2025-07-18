@@ -1293,12 +1293,34 @@
           "name": "Michael's",
           "urls": [
             "https://www.michaels.com/shop/holidays-occasions/back-to-school-supplies",
-            "https://www.michaels.com/shop/holidays-occasions/back-to-school-supplies/back-to-class-decor"
+            "https://www.michaels.com/shop/holidays-occasions/back-to-school-supplies/back-to-class-decor",
+            "https://www.michaels.com/shop/storage?ways=sale",
+            "https://www.michaels.com/shop/office-supplies?ways=sale",
+            "https://www.michaels.com/shop/art-supplies/drawing-supplies?ways=sale"
           ]
         },
         {
           "name": "Staples",
-          "urls": ["https://www.staples.com/School-Supplies/cat_SC350235"]
+          "urls": [
+            "https://www.staples.com/School-Supplies/cat_SC350235",
+            "https://www.staples.com/deals/office-supply-deals/BI1278393",
+            "https://www.staples.com/deals/Chair-and-Furniture-Deals/BI1278392",
+            "https://www.staples.com/deals/Electronics-Deals/BI1278390",
+            "https://www.staples.com/deals/Clearance-Deals/BI1278394",
+            "https://www.staples.com/sbd/cre/coupons"
+          ]
+        },
+        {
+          "name": "Office Depot",
+          "urls": [
+            "https://www.officedepot.com/b/dynamic/brg_dyn_ziafchp49b/dynamicId=brg_dyn_ziafchp49b?promo_name=homepage&promo_id=homepage_test&promo_creative=bts_hero1_position",
+            "https://www.officedepot.com/l/deal-center/office-supplies-deals",
+            "https://www.officedepot.com/b/school-supplies/Featured_Items--On_Sale/N-502600",
+            "https://www.officedepot.com/l/deal-center/furniture-deals",
+            "https://www.officedepot.com/l/deal-center/pc-deals",
+            "https://www.officedepot.com/l/deal-center/printer-deals",
+            "https://www.officedepot.com/b/electronics/Featured_Items--On_Sale/N-9021"
+          ]
         },
         {
           "name": "Target",
@@ -1319,7 +1341,16 @@
         {
           "name": "eBay",
           "urls": [
-            "https://www.ebay.com/str/bullseyedeal?_soffType=CodedCouponOffer&_soffid=14942590704&_tab=sales&_trksid=p2047675.m2197"
+            "https://www.ebay.com/str/bullseyedeal?_soffType=CodedCouponOffer&_soffid=14942590704&_tab=sales&_trksid=p2047675.m2197",
+            "https://www.ebay.com/str/adidas",
+            "https://www.ebay.com/str/joesnewbalanceoutlet",
+            "https://www.ebay.com/str/ankeroutletstore?_trksid=p4429486.m3561.l161211",
+            "https://www.ebay.com/str/crocsoutlet?_trksid=p4429486.m3561.l161210",
+            "https://www.ebay.com/str/hanesbrandsoutlet?_trksid=p4429486.m3561.l161211",
+            "https://www.ebay.com/str/lenovo",
+            "https://www.ebay.com/str/logitech?_trksid=p4429486.m3561.l161211",
+            "https://www.ebay.com/str/theofficialpumastore?_trksid=p4429486.m3561.l161211",
+            "https://www.ebay.com/str/wd?_trksid=p4429486.m3561.l161211"
           ]
         },
         {
