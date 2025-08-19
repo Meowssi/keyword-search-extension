@@ -4912,7 +4912,7 @@
       ]
     },
     "4th of July": {
-      "active": false,
+      "active": true,
       "categories": [
         {
           "name": "Lawn & Garden Care",
