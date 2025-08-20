@@ -24,11 +24,11 @@
           "url": "https://dealsea.com/"
         },
         {
-          "label": "Home",
+          "label": "BeFrugal",
           "url": "https://www.befrugal.com/home/"
         },
         {
-          "label": "Products",
+          "label": "Brickseek",
           "url": "https://brickseek.com/products?deal_rating=1&hours_since_price_change=24&sort=savings_percent"
         },
         {
@@ -36,7 +36,7 @@
           "url": "https://www.gottadeal.com/"
         },
         {
-          "label": "Online Deals",
+          "label": "Krazy Coupon Lady",
           "url": "https://thekrazycouponlady.com/deals/online-deals"
         },
         {
@@ -56,7 +56,7 @@
           "url": "https://www.dealsofamerica.com/"
         },
         {
-          "label": "PLACEHOLDER",
+          "label": "Deal Moon",
           "url": "https://www.dealmoon.com/en"
         },
         {
@@ -72,19 +72,19 @@
           "url": "https://keepa.com/#!deals"
         },
         {
-          "label": "Top Drops",
+          "label": "CCC Top Drops",
           "url": "https://camelcamelcamel.com/top_drops"
         },
         {
-          "label": "Popular",
+          "label": "CCC Popular Deals",
           "url": "https://camelcamelcamel.com/popular"
         },
         {
-          "label": "Salesaholicgroup",
+          "label": "Salesaholic Facebook Page",
           "url": "https://www.facebook.com/groups/salesaholicgroup"
         },
         {
-          "label": "Minionrundeals",
+          "label": "MinionRunDeals Facebook Page",
           "url": "https://www.facebook.com/MINIONRUNDEALS?_rdr"
         },
         {
@@ -100,11 +100,11 @@
           "url": "https://www.dealam.com/"
         },
         {
-          "label": "Today Deals",
+          "label": "Deals Today",
           "url": "https://deals.today.com/"
         },
         {
-          "label": "Shakeit",
+          "label": "Dealigg",
           "url": "https://www.dealigg.com/shakeit.php"
         }
       ]
@@ -113,99 +113,95 @@
       "name": "Apparel",
       "urls": [
         {
-          "label": "Women",
+          "label": "Hip2Save - Women's",
           "url": "https://hip2save.com/sales-deals/women/"
         },
         {
-          "label": "Shoes",
+          "label": "Hip2Save - Shoes",
           "url": "https://hip2save.com/sales-deals/shoes/"
         },
         {
-          "label": "Men's",
+          "label": "Hip2Save - Men's",
           "url": "https://hip2save.com/sales-deals/mens/"
         },
         {
-          "label": "Plus Size Clothing",
+          "label": "Hip2Save - Plus Size",
           "url": "https://hip2save.com/sales-deals/plus-size-clothing/"
         },
         {
-          "label": "Clothing Accessories",
+          "label": "Deal News - Clothing Accessories",
           "url": "https://www.dealnews.com/c202/Clothing-Accessories/?sort=time"
         },
         {
-          "label": "Women",
+          "label": "Brad's Deals - Women's",
           "url": "https://www.bradsdeals.com/categories/women/deals"
         },
         {
-          "label": "Men",
+          "label": "Brad's Deals - Men",
           "url": "https://www.bradsdeals.com/categories/men/deals"
         },
         {
-          "label": "Women's Shoes",
+          "label": "Brad's Deals - Women's Shoes",
           "url": "https://www.bradsdeals.com/shop/feeds/womens-shoes"
         },
         {
-          "label": "Men's Shoes",
+          "label": "Brad's Deals - Men's Shoes",
           "url": "https://www.bradsdeals.com/shop/feeds/mens-shoes"
         },
         {
-          "label": "Apparel Deals",
+          "label": "Dan's Deals - Apparel Deals",
           "url": "https://www.dansdeals.com/category/shopping-deals/apparel-deals/"
         },
         {
-          "label": "Fashion",
+          "label": "Deal Sea - Fashion",
           "url": "https://dealsea.com/fashion/b?node=3301"
         },
         {
-          "label": "Just Added",
+          "label": "BeFrugal - Clothing",
           "url": "https://www.befrugal.com/deals/clothing/just-added/"
         },
         {
-          "label": "Products",
+          "label": "Brickseek Apparel",
           "url": "https://brickseek.com/products?deal_rating=1&category=1&sort=savings_percent&types=1"
         },
         {
-          "label": "Products",
-          "url": "https://brickseek.com/products?deal_rating=1&category=12&sort=savings_percent&types=1"
-        },
-        {
-          "label": "Apparel",
+          "label": "Krazy Coupon Lady - Apparel",
           "url": "https://thekrazycouponlady.com/deals/apparel"
         },
         {
-          "label": "Shoes",
+          "label": "Krazy Coupon Lady - Shoes",
           "url": "https://thekrazycouponlady.com/deals/shoes"
         },
         {
-          "label": "Footwear",
+          "label": "eDealInfo - Footwear",
           "url": "https://www.edealinfo.com/deals/categories/footwear.php"
         },
         {
-          "label": "Apparel",
+          "label": "eDealInfo - Apparel",
           "url": "https://www.edealinfo.com/deals/categories/apparelsandaccessories.php"
         },
         {
-          "label": "Lingeries",
+          "label": "eDealInfo - Lingeries",
           "url": "https://www.edealinfo.com/deals/categories/lingeries.php"
         },
         {
-          "label": "Clothing Shoes",
+          "label": "eDealInfo - Clothing & Shoes",
           "url": "https://www.techbargains.com/categories/clothing-shoes"
         },
         {
-          "label": "Shoes Deals",
+          "label": "Deals of America - Shoes Deals",
           "url": "https://www.dealsofamerica.com/shoes-deals.php"
         },
         {
-          "label": "Apparel Deals",
+          "label": "Deals of America - Apparel Deals",
           "url": "https://www.dealsofamerica.com/apparel-deals.php"
         },
         {
-          "label": "Apparel",
+          "label": "Ben's Bargains - Apparel",
           "url": "https://bensbargains.com/c/apparel/new/"
         },
         {
-          "label": "Keepa",
+          "label": "Keepa - Clothing",
           "url": "https://keepa.com/#!deals/%7B%22page%22%3A0%2C%22domainId%22%3A%221%22%2C%22excludeCategories%22%3A%5B%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D%2C%22includeCategories%22%3A%5B%5B%5D%2C%5B7141123011%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D%2C%22priceTypes%22%3A%5B0%5D%2C%22deltaRange%22%3A%5B0%2C2147483647%5D%2C%22deltaPercentRange%22%3A%5B20%2C2147483647%5D%2C%22salesRankRange%22%3A%5B-1%2C-1%5D%2C%22currentRange%22%3A%5B500%2C40000%5D%2C%22minRating%22%3A-1%2C%22isLowest%22%3Afalse%2C%22isLowest90%22%3Afalse%2C%22isLowestOffer%22%3Afalse%2C%22isOutOfStock%22%3Afalse%2C%22titleSearch%22%3A%22%22%2C%22isRangeEnabled%22%3Atrue%2C%22isFilterEnabled%22%3Atrue%2C%22filterErotic%22%3Atrue%2C%22singleVariation%22%3Atrue%2C%22hasReviews%22%3Afalse%2C%22isPrimeExclusive%22%3Afalse%2C%22mustHaveAmazonOffer%22%3Afalse%2C%22mustNotHaveAmazonOffer%22%3Afalse%2C%22sortType%22%3A4%2C%22dateRange%22%3A1%2C%22warehouseConditions%22%3A%5B2%2C3%2C4%2C5%5D%2C%22settings%22%3A%7B%22viewTyp%22%3A0%7D%2C%22perPage%22%3A150%7D"
         }
       ]
