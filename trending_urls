@@ -1,0 +1,12 @@
+{
+  "trending": [
+    { "name": "Labor Day Deals", "urls": [
+      ["Google Shopping", "https://www.google.com/search?q={{query}}&tbm=shop"],
+      ["Slickdeals", "https://slickdeals.net/newsearch.php?src=SearchBarV2&q={{query}}"]
+    ], "query": "grills" },
+    { "name": "Back to School Tech", "urls": [
+      "https://www.bestbuy.com/site/searchpage.jsp?st={{query}}",
+      "https://www.target.com/s?searchTerm={{query}}"
+    ], "query": "laptop" }
+  ]
+}
