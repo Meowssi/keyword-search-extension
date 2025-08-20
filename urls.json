@@ -24,7 +24,7 @@
           "url": "https://dealsea.com/"
         },
         {
-          "label": "BeFrugal",
+          "label": "Be Frugal",
           "url": "https://www.befrugal.com/home/"
         },
         {
@@ -92,7 +92,7 @@
           "url": "https://tommydeals.com/"
         },
         {
-          "label": "Jungle.Deals",
+          "label": "Jungle Deals",
           "url": "https://www.jungle.deals/"
         },
         {
@@ -157,7 +157,7 @@
           "url": "https://dealsea.com/fashion/b?node=3301"
         },
         {
-          "label": "BeFrugal - Clothing",
+          "label": "Be Frugal - Clothing",
           "url": "https://www.befrugal.com/deals/clothing/just-added/"
         },
         {
@@ -210,23 +210,23 @@
       "name": "Baby",
       "urls": [
         {
-          "label": "Baby",
+          "label": "Hip2Save - Baby",
           "url": "https://hip2save.com/sales-deals/baby/"
         },
         {
-          "label": "Kids",
+          "label": "Hip2Save - Kids",
           "url": "https://hip2save.com/sales-deals/kids/"
         },
         {
-          "label": "Kids Baby",
+          "label": "Brad's Deals - Kids Baby",
           "url": "https://www.bradsdeals.com/categories/kids-baby/deals"
         },
         {
-          "label": "Family Deals",
+          "label": "Dan's Deals Family Deals",
           "url": "https://www.dansdeals.com/category/shopping-deals/family-deals/"
         },
         {
-          "label": "Just Added",
+          "label": "Be Frugal - Just Added",
           "url": "https://www.befrugal.com/deals/baby,-kids-toys/just-added/"
         },
         {
@@ -234,15 +234,15 @@
           "url": "https://brickseek.com/products?deal_rating=1&category=4&sort=savings_percent&types=1"
         },
         {
-          "label": "Baby Deals",
+          "label": "Krazy Coupon Lady - Baby Deals",
           "url": "https://thekrazycouponlady.com/deals/baby-deals"
         },
         {
-          "label": "Babieskids",
+          "label": "eDealInfo - Babies & Kids",
           "url": "https://www.edealinfo.com/deals/categories/babieskids.php"
         },
         {
-          "label": "Kids Baby",
+          "label": "Ben's Bargains - Kids Baby",
           "url": "https://bensbargains.com/c/kids-baby/new/"
         },
         {
@@ -255,43 +255,43 @@
       "name": "Camera/Drones",
       "urls": [
         {
-          "label": "Cameras & Camcorders",
+          "label": "eDealInfo - Cameras & Camcorders",
           "url": "https://www.edealinfo.com/deals/categories/cameraandcamcorder.php"
         },
         {
-          "label": "Binocular",
+          "label": "eDealInfo - Binocular",
           "url": "https://www.edealinfo.com/deals/categories/binocular.php"
         },
         {
-          "label": "Sportsandactioncameras",
+          "label": "eDealInfo - Sportsactioncameras",
           "url": "https://www.edealinfo.com/deals/categories/sportsandactioncameras.php"
         },
         {
-          "label": "Telescope",
+          "label": "eDealInfo - Telescope",
           "url": "https://www.edealinfo.com/deals/categories/telescope.php"
         },
         {
-          "label": "Drones",
+          "label": "eDealInfo - Drones",
           "url": "https://www.edealinfo.com/deals/categories/drones.php"
         },
         {
-          "label": "Photoandvideoaccessories",
+          "label": "eDealInfo - Photo & Video Accessories",
           "url": "https://www.edealinfo.com/deals/categories/photoandvideoaccessories.php"
         },
         {
-          "label": "Drones",
+          "label": "Tech Bargains - Drones",
           "url": "https://www.techbargains.com/categories/drones"
         },
         {
-          "label": "Cameras Camcorders",
+          "label": "Tech Bargains - Cameras Camcorders",
           "url": "https://www.techbargains.com/categories/cameras-camcorders"
         },
         {
-          "label": "Dash Cams",
+          "label": "Tech Bargains - Dash Cams",
           "url": "https://www.techbargains.com/categories/dash-cams"
         },
         {
-          "label": "Digital Camera Deals",
+          "label": "Deals of America - Digital Camera Deals",
           "url": "https://www.dealsofamerica.com/digital-camera-deals.php"
         }
       ]
@@ -300,15 +300,15 @@
       "name": "Computers/Electronics: eDealInfo",
       "urls": [
         {
-          "label": "Gadgetsaccessories",
+          "label": "Gadgets & Accessories",
           "url": "https://www.edealinfo.com/deals/categories/gadgetsaccessories.php"
         },
         {
-          "label": "Securitysurveillance",
+          "label": "Security & Surveillance",
           "url": "https://www.edealinfo.com/deals/categories/securitysurveillance.php"
         },
         {
-          "label": "Powerprotection",
+          "label": "Power Protection",
           "url": "https://www.edealinfo.com/deals/categories/powerprotection.php"
         },
         {
@@ -324,19 +324,19 @@
           "url": "https://www.edealinfo.com/deals/categories/headphones.php"
         },
         {
-          "label": "Portableaudioandaccessories",
+          "label": "Portable Audio & Accessories",
           "url": "https://www.edealinfo.com/deals/categories/portableaudioandaccessories.php"
         },
         {
-          "label": "Computeraccessories",
+          "label": "Computer Accessories",
           "url": "https://www.edealinfo.com/deals/categories/computeraccessories.php"
         },
         {
-          "label": "Externalharddrive",
+          "label": "External Hard Drives",
           "url": "https://www.edealinfo.com/deals/categories/externalharddrive.php"
         },
         {
-          "label": "Monitor",
+          "label": "Monitors",
           "url": "https://www.edealinfo.com/deals/categories/monitor.php"
         },
         {
@@ -344,23 +344,23 @@
           "url": "https://www.edealinfo.com/deals/categories/software.php"
         },
         {
-          "label": "Computermemory",
+          "label": "Computer Memory (RAM)",
           "url": "https://www.edealinfo.com/deals/categories/computermemory.php"
         },
         {
-          "label": "Flashdrive",
+          "label": "Flash Drives",
           "url": "https://www.edealinfo.com/deals/categories/flashdrive.php"
         },
         {
-          "label": "Networkattachedstorage",
+          "label": "Network Attached Storage",
           "url": "https://www.edealinfo.com/deals/categories/networkattachedstorage.php"
         },
         {
-          "label": "Computerspeakers",
+          "label": "Computer Speakers",
           "url": "https://www.edealinfo.com/deals/categories/computerspeakers.php"
         },
         {
-          "label": "Internalharddrive",
+          "label": "Internal Hard Drives",
           "url": "https://www.edealinfo.com/deals/categories/internalharddrive.php"
         },
         {
@@ -368,15 +368,15 @@
           "url": "https://www.edealinfo.com/deals/categories/networking.php"
         },
         {
-          "label": "Cellphone",
+          "label": "Cellphones",
           "url": "https://www.edealinfo.com/deals/categories/cellphone.php"
         },
         {
-          "label": "Portablepowerbank",
+          "label": "Portable Power Banks",
           "url": "https://www.edealinfo.com/deals/categories/portablepowerbank.php"
         },
         {
-          "label": "Wearabletech",
+          "label": "Wearable Tech",
           "url": "https://www.edealinfo.com/deals/categories/wearabletech.php"
         },
         {
@@ -384,27 +384,27 @@
           "url": "https://www.edealinfo.com/deals/categories/tablets.php"
         },
         {
-          "label": "Cellphoneandtabletaccessories",
+          "label": "Cellphones & Tablet Accessories",
           "url": "https://www.edealinfo.com/deals/categories/cellphoneandtabletaccessories.php"
         },
         {
-          "label": "Cameraandcamcorder",
+          "label": "Cameras & Camcorders",
           "url": "https://www.edealinfo.com/deals/categories/cameraandcamcorder.php"
         },
         {
-          "label": "Binocular",
+          "label": "Binoculars",
           "url": "https://www.edealinfo.com/deals/categories/binocular.php"
         },
         {
-          "label": "Digitalphotoframe",
+          "label": "Digital Photo Frames",
           "url": "https://www.edealinfo.com/deals/categories/digitalphotoframe.php"
         },
         {
-          "label": "Sportsandactioncameras",
+          "label": "Sports & Action Cameras",
           "url": "https://www.edealinfo.com/deals/categories/sportsandactioncameras.php"
         },
         {
-          "label": "Telescope",
+          "label": "Telescopes",
           "url": "https://www.edealinfo.com/deals/categories/telescope.php"
         },
         {
@@ -412,11 +412,11 @@
           "url": "https://www.edealinfo.com/deals/categories/drones.php"
         },
         {
-          "label": "Digitalmemory",
+          "label": "Digital Memory (SD)",
           "url": "https://www.edealinfo.com/deals/categories/digitalmemory.php"
         },
         {
-          "label": "Photoandvideoaccessories",
+          "label": "Photo & Video Accessories",
           "url": "https://www.edealinfo.com/deals/categories/photoandvideoaccessories.php"
         }
       ]
@@ -425,7 +425,7 @@
       "name": "Computers/Electronics: TechBargains",
       "urls": [
         {
-          "label": "Computers",
+          "label": "TechComputers",
           "url": "https://www.techbargains.com/categories/computers"
         },
         {
@@ -465,7 +465,7 @@
           "url": "https://www.techbargains.com/categories/software"
         },
         {
-          "label": "Printers Scanners",
+          "label": "Printers & Scanners",
           "url": "https://www.techbargains.com/categories/printers-scanners"
         },
         {
@@ -473,11 +473,11 @@
           "url": "https://www.techbargains.com/categories/computer-accessories"
         },
         {
-          "label": "Keyboards Mice",
+          "label": "Keyboards & Mice",
           "url": "https://www.techbargains.com/categories/keyboards-mice"
         },
         {
-          "label": "SSD Solid State Drives",
+          "label": "Solid State Drives",
           "url": "https://www.techbargains.com/categories/ssd-solid-state-drives"
         },
         {
@@ -501,7 +501,7 @@
           "url": "https://www.techbargains.com/categories/audio-components"
         },
         {
-          "label": "Cameras Camcorders",
+          "label": "Cameras & Camcorders",
           "url": "https://www.techbargains.com/categories/cameras-camcorders"
         },
         {
@@ -521,7 +521,7 @@
           "url": "https://www.techbargains.com/categories/power-bank"
         },
         {
-          "label": "Home Theater TV Accessories",
+          "label": "Home Theater & TV Accessories",
           "url": "https://www.techbargains.com/categories/home-theater-tv-accessories"
         },
         {
@@ -533,7 +533,7 @@
           "url": "https://www.techbargains.com/categories/robot-vacuum"
         },
         {
-          "label": "Sound Bar",
+          "label": "Sound Bars",
           "url": "https://www.techbargains.com/categories/sound-bar"
         },
         {
@@ -559,46 +559,46 @@
       "urls": [
         {
           "label": "Computers",
-          "url": "https://bensbargains.com/c/computers/new/"
+          "url": "Ben's Bargains - https://bensbargains.com/c/computers/new/"
         },
         {
-          "label": "Computer Accessories",
+          "label": "Ben's Bargains - Computer Accessories",
           "url": "https://bensbargains.com/c/computer-accessories/new/"
         },
         {
-          "label": "Computer Components",
+          "label": "Ben's Bargains - Computer Components",
           "url": "https://bensbargains.com/c/computer-components/new/"
         },
         {
-          "label": "Electronics Tech",
+          "label": "Ben's Bargains - Electronics Tech",
           "url": "https://bensbargains.com/c/electronics-tech/new/"
         },
         {
-          "label": "Home Theater",
+          "label": "Ben's Bargains - Home Theater",
           "url": "https://bensbargains.com/c/home-theater/new/"
         },
         {
-          "label": "Laptop Deals",
+          "label": "Deals of America - Laptop Deals",
           "url": "https://www.dealsofamerica.com/laptop-deals.php"
         },
         {
-          "label": "Lcd TV Deals",
+          "label": "Deals of America - LCD TV Deals",
           "url": "https://www.dealsofamerica.com/lcd-tv-deals.php"
         },
         {
-          "label": "Tablet PC",
+          "label": "Deals of America - Tablet PC",
           "url": "https://www.dealsofamerica.com/tablet-pc.php"
         },
         {
-          "label": "Digital Camera Deals",
+          "label": "Deals of America - Digital Camera Deals",
           "url": "https://www.dealsofamerica.com/digital-camera-deals.php"
         },
         {
-          "label": "Desktop Deals",
+          "label": "Deals of America - Desktop Deals",
           "url": "https://www.dealsofamerica.com/desktop-deals.php"
         },
         {
-          "label": "Keepa",
+          "label": "Keepa - Electronics",
           "url": "https://keepa.com/#!deals/%7B%22page%22%3A0%2C%22domainId%22%3A%221%22%2C%22excludeCategories%22%3A%5B%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D%2C%22includeCategories%22%3A%5B%5B%5D%2C%5B172282%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D%2C%22priceTypes%22%3A%5B0%5D%2C%22deltaRange%22%3A%5B0%2C2147483647%5D%2C%22deltaPercentRange%22%3A%5B20%2C2147483647%5D%2C%22salesRankRange%22%3A%5B-1%2C-1%5D%2C%22currentRange%22%3A%5B500%2C40000%5D%2C%22minRating%22%3A-1%2C%22isLowest%22%3Afalse%2C%22isLowest90%22%3Afalse%2C%22isLowestOffer%22%3Afalse%2C%22isOutOfStock%22%3Afalse%2C%22titleSearch%22%3A%22%22%2C%22isRangeEnabled%22%3Atrue%2C%22isFilterEnabled%22%3Atrue%2C%22filterErotic%22%3Atrue%2C%22singleVariation%22%3Atrue%2C%22hasReviews%22%3Afalse%2C%22isPrimeExclusive%22%3Afalse%2C%22mustHaveAmazonOffer%22%3Afalse%2C%22mustNotHaveAmazonOffer%22%3Afalse%2C%22sortType%22%3A4%2C%22dateRange%22%3A1%2C%22warehouseConditions%22%3A%5B2%2C3%2C4%2C5%5D%2C%22settings%22%3A%7B%22viewTyp%22%3A0%7D%2C%22perPage%22%3A150%7D"
         }
       ]
@@ -607,39 +607,39 @@
       "name": "Deals of the Day",
       "urls": [
         {
-          "label": "Deal Of The Day",
+          "label": "Best Buy - Deal Of The Day",
           "url": "https://www.bestbuy.com/site/misc/deal-of-the-day/pcmcat248000050016.c?id=pcmcat248000050016"
         },
         {
-          "label": "Electronics Deals",
+          "label": "Target - Electronics Deals",
           "url": "https://www.target.com/c/electronics-deals/-/N-556x9"
         },
         {
-          "label": "Toy Deals",
+          "label": "Target - Toy Deals",
           "url": "https://www.target.com/c/toy-deals/-/N-55fjf"
         },
         {
-          "label": "Home Sale",
+          "label": "Target - Home Sale",
           "url": "https://www.target.com/c/home-sale/-/N-4u97i"
         },
         {
-          "label": "Clothing Sale",
+          "label": "Target - Clothing Sale",
           "url": "https://www.target.com/c/clothing-sale/-/N-4slzs"
         },
         {
-          "label": "Grocery Deals",
+          "label": "Target - Grocery Deals",
           "url": "https://www.target.com/c/grocery-deals/-/N-k4uyq"
         },
         {
-          "label": "Specialbuyoftheday",
+          "label": "Home Depot - Special Buy of the Day",
           "url": "https://www.homedepot.com/SpecialBuy/SpecialBuyOfTheDay"
         },
         {
-          "label": "Daily Deals",
+          "label": "Lowe's - Daily Deals",
           "url": "https://www.lowes.com/l/savings/daily-deals"
         },
         {
-          "label": "Deals",
+          "label": "eBay - Deals",
           "url": "https://www.ebay.com/deals"
         }
       ]
@@ -648,47 +648,47 @@
       "name": "Groceries",
       "urls": [
         {
-          "label": "Groceries",
+          "label": "Hip2Save - Groceries",
           "url": "https://hip2save.com/sales-deals/groceries/"
         },
         {
-          "label": "Groceries",
+          "label": "Deal News - Groceries",
           "url": "https://www.dealnews.com/c214/Home-Garden/Food-Drink/Groceries/?sort=time"
         },
         {
-          "label": "Food Drink",
+          "label": "Brad's Deals - Food & Drink",
           "url": "https://www.bradsdeals.com/categories/food-drink/deals"
         },
         {
-          "label": "Food",
+          "label": "Dan's Deals - Food",
           "url": "https://www.dansdeals.com/category/shopping-deals/food/"
         },
         {
-          "label": "Coffee",
+          "label": "Dan's Deals - Coffee",
           "url": "https://www.dansdeals.com/category/shopping-deals/coffee/"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Groceries",
           "url": "https://brickseek.com/products?deal_rating=1&category=12&sort=savings_percent&types=1"
         },
         {
-          "label": "Food",
+          "label": "Krazy Coupon Lady - Food",
           "url": "https://thekrazycouponlady.com/coupons/food"
         },
         {
-          "label": "Foodgroceries",
+          "label": "eDealInfo - Groceries",
           "url": "https://www.edealinfo.com/deals/categories/foodgroceries.php"
         },
         {
-          "label": "Food Restaurants",
+          "label": "Tech Bargains - Food Restaurants",
           "url": "https://www.techbargains.com/categories/food-restaurants"
         },
         {
-          "label": "Grocery Essentials",
+          "label": "Ben's Bargains - Grocery Essentials",
           "url": "https://bensbargains.com/c/grocery-essentials/new/"
         },
         {
-          "label": "Keepa",
+          "label": "Keepa - Food",
           "url": "https://keepa.com/#!deals/%7B%22page%22%3A0%2C%22domainId%22%3A%221%22%2C%22excludeCategories%22%3A%5B%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D%2C%22includeCategories%22%3A%5B%5B%5D%2C%5B16310101%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D%2C%22priceTypes%22%3A%5B0%5D%2C%22deltaRange%22%3A%5B0%2C2147483647%5D%2C%22deltaPercentRange%22%3A%5B20%2C2147483647%5D%2C%22salesRankRange%22%3A%5B-1%2C-1%5D%2C%22currentRange%22%3A%5B500%2C40000%5D%2C%22minRating%22%3A-1%2C%22isLowest%22%3Afalse%2C%22isLowest90%22%3Afalse%2C%22isLowestOffer%22%3Afalse%2C%22isOutOfStock%22%3Afalse%2C%22titleSearch%22%3A%22%22%2C%22isRangeEnabled%22%3Atrue%2C%22isFilterEnabled%22%3Atrue%2C%22filterErotic%22%3Atrue%2C%22singleVariation%22%3Atrue%2C%22hasReviews%22%3Afalse%2C%22isPrimeExclusive%22%3Afalse%2C%22mustHaveAmazonOffer%22%3Afalse%2C%22mustNotHaveAmazonOffer%22%3Afalse%2C%22sortType%22%3A4%2C%22dateRange%22%3A1%2C%22warehouseConditions%22%3A%5B2%2C3%2C4%2C5%5D%2C%22settings%22%3A%7B%22viewTyp%22%3A0%7D%2C%22perPage%22%3A150%7D"
         }
       ]
@@ -697,11 +697,11 @@
       "name": "Headphones",
       "urls": [
         {
-          "label": "Headphones",
+          "label": "eDealInfo - Headphones",
           "url": "https://www.edealinfo.com/deals/categories/headphones.php"
         },
         {
-          "label": "Headphones",
+          "label": "Tech Bargains - Headphones",
           "url": "https://www.techbargains.com/categories/headphones"
         }
       ]
@@ -710,15 +710,15 @@
       "name": "Home Improvement",
       "urls": [
         {
-          "label": "Home Improvement",
+          "label": "Deal News - Home Improvement",
           "url": "https://www.dealnews.com/c862/Home-Garden/Home-Improvement/?sort=time"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Home Improvement",
           "url": "https://brickseek.com/products?deal_rating=1&category=10&sort=savings_percent&types=1"
         },
         {
-          "label": "Homeimprovement",
+          "label": "eDealInfo - Home Improvement",
           "url": "https://www.edealinfo.com/deals/categories/homeimprovement.php"
         }
       ]
@@ -727,75 +727,75 @@
       "name": "Home Theater/TV",
       "urls": [
         {
-          "label": "Homeaudio",
+          "label": "eDealInfo - Home Audio",
           "url": "https://www.edealinfo.com/deals/categories/homeaudio.php"
         },
         {
-          "label": "Hometheatersystem",
+          "label": "eDealInfo - Home Theater System",
           "url": "https://www.edealinfo.com/deals/categories/hometheatersystem.php"
         },
         {
-          "label": "Hometheaterreceiver",
+          "label": "eDealInfo - Home Theater Receiver",
           "url": "https://www.edealinfo.com/deals/categories/hometheaterreceiver.php"
         },
         {
-          "label": "Mediaplayer",
+          "label": "eDealInfo - Media Player",
           "url": "https://www.edealinfo.com/deals/categories/mediaplayer.php"
         },
         {
-          "label": "Projector",
+          "label": "eDealInfo - Projector",
           "url": "https://www.edealinfo.com/deals/categories/projector.php"
         },
         {
-          "label": "Televisionaccessories",
+          "label": "eDealInfo - TV Accessories",
           "url": "https://www.edealinfo.com/deals/categories/televisionaccessories.php"
         },
         {
-          "label": "Hometheaterspeaker",
+          "label": "eDealInfo - Home Theater Speaker",
           "url": "https://www.edealinfo.com/deals/categories/hometheaterspeaker.php"
         },
         {
-          "label": "Televisions",
+          "label": "eDealInfo - Televisions",
           "url": "https://www.edealinfo.com/deals/categories/televisions.php"
         },
         {
-          "label": "Projectoraccessories",
+          "label": "eDealInfo - Projector Accessories",
           "url": "https://www.edealinfo.com/deals/categories/projectoraccessories.php"
         },
         {
-          "label": "Sound Bar",
+          "label": "Tech Bargains - Sound Bar",
           "url": "https://www.techbargains.com/categories/sound-bar"
         },
         {
-          "label": "Tvs",
+          "label": "Krazy Coupon Lady - TVs",
           "url": "https://thekrazycouponlady.com/deals/tvs"
         },
         {
-          "label": "Portableaudioandaccessories",
+          "label": "eDealInfo - Portable Audio & Accessories",
           "url": "https://www.edealinfo.com/deals/categories/portableaudioandaccessories.php"
         },
         {
-          "label": "Audiospeakerandaccessories",
+          "label": "eDealInfo - Audio Speaker & Accessories",
           "url": "https://www.edealinfo.com/deals/categories/audiospeakerandaccessories.php"
         },
         {
-          "label": "Projectors",
+          "label": "Tech Bargains - Projectors",
           "url": "https://www.techbargains.com/categories/projectors"
         },
         {
-          "label": "Home Theater TV Accessories",
+          "label": "Tech Bargains - Home Theater TV Accessories",
           "url": "https://www.techbargains.com/categories/home-theater-tv-accessories"
         },
         {
-          "label": "Home Theater",
+          "label": "Ben's Bargains - Home Theater",
           "url": "https://bensbargains.com/c/home-theater/new/"
         },
         {
-          "label": "TV Home Theater",
+          "label": "Tech Bargains - TV Home Theater",
           "url": "https://www.techbargains.com/categories/tv-home-theater"
         },
         {
-          "label": "Lcd TV Deals",
+          "label": "Deals of America - LCD TV Deals",
           "url": "https://www.dealsofamerica.com/lcd-tv-deals.php"
         }
       ]
@@ -804,67 +804,67 @@
       "name": "Health and Beauty",
       "urls": [
         {
-          "label": "Cheap Makeup",
+          "label": "Hip2Save - Cheap Makeup",
           "url": "https://hip2save.com/sales-deals/cheap-makeup/"
         },
         {
-          "label": "Health Beauty",
+          "label": "Deal News - Health Beauty",
           "url": "https://www.dealnews.com/c756/Health-Beauty/?sort=time"
         },
         {
-          "label": "Health Beauty",
+          "label": "Brad's Deals - Health & Beauty",
           "url": "https://www.bradsdeals.com/categories/health-beauty/deals"
         },
         {
-          "label": "Just Added",
+          "label": "Be Frugal - Just Added",
           "url": "https://www.befrugal.com/deals/beauty/just-added/"
         },
         {
-          "label": "Products",
+          "label": "Brick Seek",
           "url": "https://brickseek.com/products?deal_rating=1&category=5&sort=savings_percent&types=1"
         },
         {
-          "label": "Beautycosmetics",
+          "label": "eDealInfo - Beauty & Cosmetics",
           "url": "https://www.edealinfo.com/deals/categories/beautycosmetics.php"
         },
         {
-          "label": "Healthcare",
+          "label": "eDealInfo - Healthcare",
           "url": "https://www.edealinfo.com/deals/categories/healthcare.php"
         },
         {
-          "label": "Shavinghaircare",
+          "label": "eDealInfo - Shaving & Hair Care",
           "url": "https://www.edealinfo.com/deals/categories/shavinghaircare.php"
         },
         {
-          "label": "Eyewearandeyecare",
+          "label": "eDealInfo - Eyewear & Eyecare",
           "url": "https://www.edealinfo.com/deals/categories/eyewearandeyecare.php"
         },
         {
-          "label": "Toothbrushandoralcare",
+          "label": "eDealInfo - Toothbrush & Oral Care",
           "url": "https://www.edealinfo.com/deals/categories/toothbrushandoralcare.php"
         },
         {
-          "label": "Fragrances",
+          "label": "eDealInfo - Fragrances",
           "url": "https://www.edealinfo.com/deals/categories/fragrances.php"
         },
         {
-          "label": "Electricmassagers",
+          "label": "eDealInfo - Electric Massagers",
           "url": "https://www.edealinfo.com/deals/categories/electricmassagers.php"
         },
         {
-          "label": "Vitaminssupplement",
+          "label": "eDealInfo - Vitamins & Supplements",
           "url": "https://www.edealinfo.com/deals/categories/vitaminssupplement.php"
         },
         {
-          "label": "Health Beauty",
+          "label": "Tech Bargains - Health & Beauty",
           "url": "https://www.techbargains.com/categories/health-beauty"
         },
         {
-          "label": "Massagers",
+          "label": "Tech Bargains - Massagers",
           "url": "https://www.techbargains.com/categories/massagers"
         },
         {
-          "label": "Health Beauty",
+          "label": "Ben's Bargains - Health & Beauty",
           "url": "https://bensbargains.com/c/health-beauty/new/"
         },
         {
@@ -877,87 +877,87 @@
       "name": "Home Goods",
       "urls": [
         {
-          "label": "Home Garden",
+          "label": "Deal News - Home Garden",
           "url": "https://www.dealnews.com/c196/Home-Garden/?sort=time"
         },
         {
-          "label": "Home",
+          "label": "Brad's Deals - Home",
           "url": "https://www.bradsdeals.com/categories/home/deals"
         },
         {
-          "label": "Small Kitchen Appliances",
+          "label": "Brad's Deals - Small Kitchen Appliances",
           "url": "https://www.bradsdeals.com/categories/home/small-kitchen-appliances/deals"
         },
         {
-          "label": "Kitchen",
+          "label": "Dan's Deals - Kitchen",
           "url": "https://www.dansdeals.com/category/shopping-deals/kitchen/"
         },
         {
-          "label": "Just Added",
+          "label": "Be Frugal - Just Added",
           "url": "https://www.befrugal.com/deals/home-garden/just-added/"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Home Goods & Furniture",
           "url": "https://brickseek.com/products?deal_rating=1&category=9&sort=savings_percent&types=1"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Household Essentials",
           "url": "https://brickseek.com/products?deal_rating=1&category=8&sort=savings_percent&types=1"
         },
         {
-          "label": "Home",
+          "label": "Krazy Coupon Lady - Home",
           "url": "https://thekrazycouponlady.com/deals/home"
         },
         {
-          "label": "Air Fryer",
+          "label": "Krazy Coupon Lady - Air Fryer",
           "url": "https://thekrazycouponlady.com/deals/air-fryer"
         },
         {
-          "label": "Bedding",
+          "label": "Krazy Coupon Lady - Bedding",
           "url": "https://thekrazycouponlady.com/deals/bedding"
         },
         {
-          "label": "Vacuums",
+          "label": "Krazy Coupon Lady - Vacuums",
           "url": "https://thekrazycouponlady.com/deals/vacuums"
         },
         {
-          "label": "Homefurniture",
+          "label": "eDealInfo - Home Furniture",
           "url": "https://www.edealinfo.com/deals/categories/homefurniture.php"
         },
         {
-          "label": "Kitchenhouseware",
+          "label": "eDealInfo - Kitchen & Houseware",
           "url": "https://www.edealinfo.com/deals/categories/kitchenhouseware.php"
         },
         {
-          "label": "Householdsupplies",
+          "label": "eDealInfo - Household Supplies",
           "url": "https://www.edealinfo.com/deals/categories/householdsupplies.php"
         },
         {
-          "label": "Vacuumsfloorcare",
+          "label": "eDealInfo - Vacuums & Floor Care",
           "url": "https://www.edealinfo.com/deals/categories/vacuumsfloorcare.php"
         },
         {
-          "label": "Appliances Kitchen",
+          "label": "Tech Bargains - Appliances & Kitchen",
           "url": "https://www.techbargains.com/categories/appliances-kitchen"
         },
         {
-          "label": "Furniture",
+          "label": "Tech Bargains - Furniture",
           "url": "https://www.techbargains.com/categories/furniture"
         },
         {
-          "label": "Bed Bath",
+          "label": "Tech Bargains - Bed & Bath",
           "url": "https://www.techbargains.com/categories/bed-bath"
         },
         {
-          "label": "Kitchen Deals",
+          "label": "Deals of America - Kitchen Deals",
           "url": "https://www.dealsofamerica.com/kitchen-deals.php"
         },
         {
-          "label": "Furniture Deals",
+          "label": "Deals of America - Furniture Deals",
           "url": "https://www.dealsofamerica.com/furniture-deals.php"
         },
         {
-          "label": "Home Garden Tools",
+          "label": "Ben's Bargains - Home Garden Tools",
           "url": "https://bensbargains.com/c/home-garden-tools/new/"
         },
         {
@@ -965,7 +965,7 @@
           "url": "https://keepa.com/#!deals/%7B%22page%22%3A0%2C%22domainId%22%3A%221%22%2C%22excludeCategories%22%3A%5B%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D%2C%22includeCategories%22%3A%5B%5B%5D%2C%5B1055398%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D%2C%22priceTypes%22%3A%5B0%5D%2C%22deltaRange%22%3A%5B0%2C2147483647%5D%2C%22deltaPercentRange%22%3A%5B20%2C2147483647%5D%2C%22salesRankRange%22%3A%5B-1%2C-1%5D%2C%22currentRange%22%3A%5B500%2C40000%5D%2C%22minRating%22%3A-1%2C%22isLowest%22%3Afalse%2C%22isLowest90%22%3Afalse%2C%22isLowestOffer%22%3Afalse%2C%22isOutOfStock%22%3Afalse%2C%22titleSearch%22%3A%22%22%2C%22isRangeEnabled%22%3Atrue%2C%22isFilterEnabled%22%3Atrue%2C%22filterErotic%22%3Atrue%2C%22singleVariation%22%3Atrue%2C%22hasReviews%22%3Afalse%2C%22isPrimeExclusive%22%3Afalse%2C%22mustHaveAmazonOffer%22%3Afalse%2C%22mustNotHaveAmazonOffer%22%3Afalse%2C%22sortType%22%3A4%2C%22dateRange%22%3A1%2C%22warehouseConditions%22%3A%5B2%2C3%2C4%2C5%5D%2C%22settings%22%3A%7B%22viewTyp%22%3A0%7D%2C%22perPage%22%3A150%7D"
         },
         {
-          "label": "Robot Vacuum",
+          "label": "Tech Bargains - Robot Vacuums",
           "url": "https://www.techbargains.com/categories/robot-vacuum"
         }
       ]
@@ -974,31 +974,31 @@
       "name": "Luggage/Bags",
       "urls": [
         {
-          "label": "Luggage",
+          "label": "Hip2Save - Luggage",
           "url": "https://hip2save.com/sales-deals/luggage/"
         },
         {
-          "label": "Luggage Travel Gear",
+          "label": "Deal News - Luggage Travel Gear",
           "url": "https://www.dealnews.com/c287/Clothing-Accessories/Luggage-Travel-Gear/?sort=time"
         },
         {
-          "label": "Luggage",
+          "label": "Dan's Deals - Luggage",
           "url": "https://www.dansdeals.com/category/shopping-deals/luggage/"
         },
         {
-          "label": "Handbagsandwallets",
+          "label": "eDealInfo - Handbags & Wallets",
           "url": "https://www.edealinfo.com/deals/categories/handbagsandwallets.php"
         },
         {
-          "label": "Backpacks",
+          "label": "eDealInfo - Backpacks",
           "url": "https://www.edealinfo.com/deals/categories/backpacks.php"
         },
         {
-          "label": "Luggageandtravelgear",
+          "label": "eDealInfo - Luggage & Travelgear",
           "url": "https://www.edealinfo.com/deals/categories/luggageandtravelgear.php"
         },
         {
-          "label": "Men's Wallets Bags",
+          "label": "Ben's Bargains - Men's Wallets & Bags",
           "url": "https://bensbargains.com/c/mens-wallets-bags/new/"
         }
       ]
@@ -1007,43 +1007,43 @@
       "name": "Outdoors/Garden",
       "urls": [
         {
-          "label": "Home Garden",
+          "label": "Deal News - Home Garden",
           "url": "https://www.dealnews.com/c196/Home-Garden/?sort=time"
         },
         {
-          "label": "Patio Lawn Garden",
+          "label": "Brad's Deals - Patio Lawn Garden",
           "url": "https://www.bradsdeals.com/categories/patio-lawn-garden/deals"
         },
         {
-          "label": "Just Added",
+          "label": "Be Frugal - Just Added",
           "url": "https://www.befrugal.com/deals/home-garden/just-added/"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Garden & Outdoor",
           "url": "https://brickseek.com/products?deal_rating=1&category=15&sort=savings_percent&types=1"
         },
         {
-          "label": "Outdoor",
+          "label": "Krazy Coupon Lady - Outdoor",
           "url": "https://thekrazycouponlady.com/deals/outdoor"
         },
         {
-          "label": "Gardenandoutdoor",
+          "label": "eDealInfo - Garden & Outdoor",
           "url": "https://www.edealinfo.com/deals/categories/gardenandoutdoor.php"
         },
         {
-          "label": "Home Garden",
+          "label": "Tech Bargains - Home Garden",
           "url": "https://www.techbargains.com/categories/home-garden"
         },
         {
-          "label": "Home And Garden Deals",
+          "label": "Deals of America - Home & Garden Deals",
           "url": "https://www.dealsofamerica.com/home-and-garden-deals.php"
         },
         {
-          "label": "Patio Garden",
+          "label": "Ben's Bargains - Patio Garden",
           "url": "https://bensbargains.com/c/patio-garden/new/"
         },
         {
-          "label": "Generators",
+          "label": "eDealInfo - Generators",
           "url": "https://www.edealinfo.com/deals/categories/generators.php"
         }
       ]
@@ -1052,27 +1052,27 @@
       "name": "Pet",
       "urls": [
         {
-          "label": "Pet Food Supplies Dog Cat",
+          "label": "Hip2Save - Pet Food Supplies Dog Cat",
           "url": "https://hip2save.com/sales-deals/pet-food-supplies-dog-cat/"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Pet",
           "url": "https://brickseek.com/products?deal_rating=1&category=16&sort=savings_percent&types=1"
         },
         {
-          "label": "Pet",
+          "label": "Krazy Coupon Lady - Pet",
           "url": "https://thekrazycouponlady.com/coupons/pet"
         },
         {
-          "label": "Petsupplies",
+          "label": "eDealInfo - Pet Supplies",
           "url": "https://www.edealinfo.com/deals/categories/petsupplies.php"
         },
         {
-          "label": "Pets",
+          "label": "Tech Bargains - Pets",
           "url": "https://www.techbargains.com/categories/pets"
         },
         {
-          "label": "Pets",
+          "label": "Ben's Bargains - Pets",
           "url": "https://bensbargains.com/c/pets/new/"
         },
         {
@@ -1085,31 +1085,31 @@
       "name": "Sporting Goods",
       "urls": [
         {
-          "label": "Sports Fitness",
+          "label": "Deal News - Sports Fitness",
           "url": "https://www.dealnews.com/c211/Sports-Fitness/?sort=time"
         },
         {
-          "label": "Just Added",
+          "label": "Be Frugal - Just Added",
           "url": "https://www.befrugal.com/deals/sports-outdoors/just-added/"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Sporting Goods",
           "url": "https://brickseek.com/products?deal_rating=1&category=17&sort=savings_percent&types=1"
         },
         {
-          "label": "Sportinggoods",
+          "label": "eDealInfo - Sporting Goods",
           "url": "https://www.edealinfo.com/deals/categories/sportinggoods.php"
         },
         {
-          "label": "Fitness",
+          "label": "eDealInfo - Fitness",
           "url": "https://www.edealinfo.com/deals/categories/fitness.php"
         },
         {
-          "label": "Sporting Goods",
+          "label": "Tech Bargains - Sporting Goods",
           "url": "https://www.techbargains.com/categories/sporting-goods"
         },
         {
-          "label": "Sports Fitness Outdoors",
+          "label": "Ben's Bargains - Sports Fitness Outdoors",
           "url": "https://bensbargains.com/c/sports-fitness-outdoors/new/"
         },
         {
@@ -1122,23 +1122,23 @@
       "name": "Tools",
       "urls": [
         {
-          "label": "Just Added",
+          "label": "Be Frugal - Just Added",
           "url": "https://www.befrugal.com/deals/tools/just-added/"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Tools",
           "url": "https://brickseek.com/products?deal_rating=1&category=18&sort=savings_percent&types=1"
         },
         {
-          "label": "Toolshardware",
+          "label": "eDealInfo - Tools & Hardware",
           "url": "https://www.edealinfo.com/deals/categories/toolshardware.php"
         },
         {
-          "label": "Tools",
+          "label": "Tech Bargains - Tools",
           "url": "https://www.techbargains.com/categories/tools"
         },
         {
-          "label": "Tools",
+          "label": "Ben's Bargains - Tools",
           "url": "https://bensbargains.com/c/tools/new/"
         },
         {
@@ -1151,35 +1151,35 @@
       "name": "Toy & Games",
       "urls": [
         {
-          "label": "Toys",
+          "label": "Hip2Save - Toys",
           "url": "https://hip2save.com/sales-deals/toys/"
         },
         {
-          "label": "Gaming Toys",
+          "label": "Deal News - Gaming Toys",
           "url": "https://www.dealnews.com/c186/Gaming-Toys/?sort=time"
         },
         {
-          "label": "Products",
+          "label": "Brickseek - Toys & Games",
           "url": "https://brickseek.com/products?deal_rating=1&category=19&sort=savings_percent&types=1"
         },
         {
-          "label": "Toys",
+          "label": "Krazy Coupon Lady - Toys",
           "url": "https://thekrazycouponlady.com/deals/toys"
         },
         {
-          "label": "Toysandgames",
+          "label": "eDealInfo - Toys & Games",
           "url": "https://www.edealinfo.com/deals/categories/toysandgames.php"
         },
         {
-          "label": "Toys And Collectibles",
+          "label": "Tech Bargains - Toys & Collectibles",
           "url": "https://www.techbargains.com/categories/toys-and-collectibles"
         },
         {
-          "label": "Toys Deals",
+          "label": "Deals of America - Toys Deals",
           "url": "https://www.dealsofamerica.com/toys-deals.php"
         },
         {
-          "label": "Kids Baby",
+          "label": "Ben's Bargains - Kids Baby",
           "url": "https://bensbargains.com/c/kids-baby/new/"
         },
         {
@@ -1192,19 +1192,19 @@
       "name": "Video Games",
       "urls": [
         {
-          "label": "Videogames",
+          "label": "eDealInfo - Video Games",
           "url": "https://www.edealinfo.com/deals/categories/videogames.php"
         },
         {
-          "label": "Videogameaccessories",
+          "label": "eDealInfo - Video Game Accessories",
           "url": "https://www.edealinfo.com/deals/categories/videogameaccessories.php"
         },
         {
-          "label": "Videogameconsole",
+          "label": "eDealInfo - Video Game Consoles",
           "url": "https://www.edealinfo.com/deals/categories/videogameconsole.php"
         },
         {
-          "label": "Gaming",
+          "label": "Ben's Bargains - Gaming",
           "url": "https://bensbargains.com/c/gaming/new/"
         },
         {
@@ -1216,7 +1216,7 @@
           "url": "https://isthereanydeal.com/"
         },
         {
-          "label": "GG.deals",
+          "label": "GG.deals (Slickdeals but Video Games)",
           "url": "https://gg.deals/"
         },
         {
@@ -1224,11 +1224,11 @@
           "url": "https://www.dealigg.com/"
         },
         {
-          "label": "Gamebundles",
+          "label": "Reddit - r/Gamebundles",
           "url": "https://www.reddit.com/r/Gamebundles/"
         },
         {
-          "label": "Gamedeals",
+          "label": "Reddit - r/Gamedeals",
           "url": "https://www.reddit.com/r/GameDeals/"
         }
       ]
