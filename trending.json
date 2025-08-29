@@ -4,137 +4,462 @@
     {
       "name": "Sporting Goods",
       "urls": [
-        { "label": "Ebike", "url": "https://www.google.com/search?q=ebike+price+drop" },
-        { "label": "Electric Bike", "url": "https://www.google.com/search?q=electric+bike+price+drop" },
-        { "label": "Scooter", "url": "https://www.google.com/search?q=scooter+price+drop" },
-        { "label": "Electric Scooter", "url": "https://www.google.com/search?q=electric+scooter+price+drop" },
-        { "label": "Tent", "url": "https://www.google.com/search?q=tent+price+drop" },
-        { "label": "Camping Gear", "url": "https://www.google.com/search?q=camping+gear+price+drop" },
-        { "label": "Stanley", "url": "https://www.google.com/search?q=stanley+price+drop" },
-        { "label": "Owala Bottle", "url": "https://www.google.com/search?q=owala+bottle+price+drop" },
-        { "label": "Water Bottle", "url": "https://www.google.com/search?q=water+bottle+price+drop" },
-        { "label": "Insulated Water Bottle", "url": "https://www.google.com/search?q=insulated+water+bottle+price+drop" },
-        { "label": "REI Clothing", "url": "https://www.google.com/search?q=rei+clothing+price+drop" },
-        { "label": "REI Gear", "url": "https://www.google.com/search?q=rei+gear+price+drop" },
-        { "label": "REI Shoes", "url": "https://www.google.com/search?q=rei+shoes+price+drop" }
+        {
+          "label": "Ebike",
+          "url": "https://www.google.com/search?q=ebike+price+drop"
+        },
+        {
+          "label": "Electric Bike",
+          "url": "https://www.google.com/search?q=electric+bike+price+drop"
+        },
+        {
+          "label": "Scooter",
+          "url": "https://www.google.com/search?q=scooter+price+drop"
+        },
+        {
+          "label": "Electric Scooter",
+          "url": "https://www.google.com/search?q=electric+scooter+price+drop"
+        },
+        {
+          "label": "Tent",
+          "url": "https://www.google.com/search?q=tent+price+drop"
+        },
+        {
+          "label": "Camping Gear",
+          "url": "https://www.google.com/search?q=camping+gear+price+drop"
+        },
+        {
+          "label": "Stanley",
+          "url": "https://www.google.com/search?q=stanley+price+drop"
+        },
+        {
+          "label": "Owala Bottle",
+          "url": "https://www.google.com/search?q=owala+bottle+price+drop"
+        },
+        {
+          "label": "Water Bottle",
+          "url": "https://www.google.com/search?q=water+bottle+price+drop"
+        },
+        {
+          "label": "Insulated Water Bottle",
+          "url": "https://www.google.com/search?q=insulated+water+bottle+price+drop"
+        },
+        {
+          "label": "REI Clothing",
+          "url": "https://www.google.com/search?q=rei+clothing+price+drop"
+        },
+        {
+          "label": "REI Gear",
+          "url": "https://www.google.com/search?q=rei+gear+price+drop"
+        },
+        {
+          "label": "REI Shoes",
+          "url": "https://www.google.com/search?q=rei+shoes+price+drop"
+        }
       ]
     },
     {
       "name": "Home & Home Improvement",
       "urls": [
-        { "label": "Mower", "url": "https://www.google.com/search?q=mower+price+drop" },
-        { "label": "Lawn Mower", "url": "https://www.google.com/search?q=lawn+mower+price+drop" },
-        { "label": "Worx Trimmer", "url": "https://www.google.com/search?q=worx+trimmer+price+drop" },
-        { "label": "Lawn Trimmer", "url": "https://www.google.com/search?q=lawn+trimmer+price+drop" },
-        { "label": "Greenworks Tool", "url": "https://www.google.com/search?q=greenworks+tool+price+drop" },
-        { "label": "Garden Hose", "url": "https://www.google.com/search?q=garden+hose+price+drop" },
-        { "label": "Grill", "url": "https://www.google.com/search?q=grill+price+drop" },
-        { "label": "Weber Grill", "url": "https://www.google.com/search?q=weber+grill+price+drop" },
-        { "label": "Electric Smoker", "url": "https://www.google.com/search?q=electric+smoker+price+drop" },
-        { "label": "Freezer", "url": "https://www.google.com/search?q=freezer+price+drop" },
-        { "label": "Refrigerator", "url": "https://www.google.com/search?q=refrigerator+price+drop" },
-        { "label": "Insignia Appliance", "url": "https://www.google.com/search?q=insignia+appliance+price+drop" },
-        { "label": "Kobalt Tool", "url": "https://www.google.com/search?q=kobalt+tool+price+drop" },
-        { "label": "M12 Tools", "url": "https://www.google.com/search?q=m12+tools+price+drop" },
-        { "label": "Ridgid Tool", "url": "https://www.google.com/search?q=ridgid+tool+price+drop" },
-        { "label": "Makita Tool", "url": "https://www.google.com/search?q=makita+tool+price+drop" },
-        { "label": "Hand Axe", "url": "https://www.google.com/search?q=hand+axe+price+drop" },
-        { "label": "Chopping Axe", "url": "https://www.google.com/search?q=chopping+axe+price+drop" },
-        { "label": "Power Tool", "url": "https://www.google.com/search?q=power+tool+price+drop" },
-        { "label": "Tool Set", "url": "https://www.google.com/search?q=tool+set+price+drop" },
-        { "label": "Tower Fan", "url": "https://www.google.com/search?q=tower+fan+price+drop" },
-        { "label": "Ceiling Fan", "url": "https://www.google.com/search?q=ceiling+fan+price+drop" },
-        { "label": "Box Fan", "url": "https://www.google.com/search?q=box+fan+price+drop" }
+        {
+          "label": "Mower",
+          "url": "https://www.google.com/search?q=mower+price+drop"
+        },
+        {
+          "label": "Lawn Mower",
+          "url": "https://www.google.com/search?q=lawn+mower+price+drop"
+        },
+        {
+          "label": "Worx Trimmer",
+          "url": "https://www.google.com/search?q=worx+trimmer+price+drop"
+        },
+        {
+          "label": "Lawn Trimmer",
+          "url": "https://www.google.com/search?q=lawn+trimmer+price+drop"
+        },
+        {
+          "label": "Greenworks Tool",
+          "url": "https://www.google.com/search?q=greenworks+tool+price+drop"
+        },
+        {
+          "label": "Garden Hose",
+          "url": "https://www.google.com/search?q=garden+hose+price+drop"
+        },
+        {
+          "label": "Grill",
+          "url": "https://www.google.com/search?q=grill+price+drop"
+        },
+        {
+          "label": "Weber Grill",
+          "url": "https://www.google.com/search?q=weber+grill+price+drop"
+        },
+        {
+          "label": "Electric Smoker",
+          "url": "https://www.google.com/search?q=electric+smoker+price+drop"
+        },
+        {
+          "label": "Freezer",
+          "url": "https://www.google.com/search?q=freezer+price+drop"
+        },
+        {
+          "label": "Refrigerator",
+          "url": "https://www.google.com/search?q=refrigerator+price+drop"
+        },
+        {
+          "label": "Insignia Appliance",
+          "url": "https://www.google.com/search?q=insignia+appliance+price+drop"
+        },
+        {
+          "label": "Kobalt Tool",
+          "url": "https://www.google.com/search?q=kobalt+tool+price+drop"
+        },
+        {
+          "label": "M12 Tools",
+          "url": "https://www.google.com/search?q=m12+tools+price+drop"
+        },
+        {
+          "label": "Ridgid Tool",
+          "url": "https://www.google.com/search?q=ridgid+tool+price+drop"
+        },
+        {
+          "label": "Makita Tool",
+          "url": "https://www.google.com/search?q=makita+tool+price+drop"
+        },
+        {
+          "label": "Hand Axe",
+          "url": "https://www.google.com/search?q=hand+axe+price+drop"
+        },
+        {
+          "label": "Chopping Axe",
+          "url": "https://www.google.com/search?q=chopping+axe+price+drop"
+        },
+        {
+          "label": "Power Tool",
+          "url": "https://www.google.com/search?q=power+tool+price+drop"
+        },
+        {
+          "label": "Tool Set",
+          "url": "https://www.google.com/search?q=tool+set+price+drop"
+        },
+        {
+          "label": "Tower Fan",
+          "url": "https://www.google.com/search?q=tower+fan+price+drop"
+        },
+        {
+          "label": "Ceiling Fan",
+          "url": "https://www.google.com/search?q=ceiling+fan+price+drop"
+        },
+        {
+          "label": "Box Fan",
+          "url": "https://www.google.com/search?q=box+fan+price+drop"
+        }
       ]
     },
     {
       "name": "Tech & Electronics",
       "urls": [
-        { "label": "Pixel 10", "url": "https://www.google.com/search?q=pixel+10+price+drop" },
-        { "label": "Pixel Phone", "url": "https://www.google.com/search?q=pixel+phone+price+drop" },
-        { "label": "Pixel 10 Pro", "url": "https://www.google.com/search?q=pixel+10+pro+price+drop" },
-        { "label": "Google Phone", "url": "https://www.google.com/search?q=google+phone+price+drop" },
-        { "label": "Google Pixel", "url": "https://www.google.com/search?q=google+pixel+price+drop" },
-        { "label": "Samsung Galaxy", "url": "https://www.google.com/search?q=samsung+galaxy+price+drop" },
-        { "label": "Pixel 9", "url": "https://www.google.com/search?q=pixel+9+price+drop" },
-        { "label": "Google Pixel 10", "url": "https://www.google.com/search?q=google+pixel+10+price+drop" },
-        { "label": "Pixel 9 Pro", "url": "https://www.google.com/search?q=pixel+9+pro+price+drop" },
-        { "label": "iPhone 16 Phone", "url": "https://www.google.com/search?q=iphone+16+phone+price+drop" },
-        { "label": "Pixel 10 Pro XL", "url": "https://www.google.com/search?q=pixel+10+pro+xl+price+drop" },
-        { "label": "EcoFlow Ultra", "url": "https://www.google.com/search?q=ecoflow+ultra+price+drop" },
-        { "label": "Power Station Battery", "url": "https://www.google.com/search?q=power+station+battery+price+drop" },
-        { "label": "Power Bank", "url": "https://www.google.com/search?q=power+bank+price+drop" },
-        { "label": "INIU Charger", "url": "https://www.google.com/search?q=iniu+charger+price+drop" },
-        { "label": "INIU Power Bank", "url": "https://www.google.com/search?q=iniu+power+bank+price+drop" },
-        { "label": "Portable Charger", "url": "https://www.google.com/search?q=portable+charger+price+drop" },
-        { "label": "Wall Charger", "url": "https://www.google.com/search?q=wall+charger+price+drop" },
-        { "label": "Wireless Charger", "url": "https://www.google.com/search?q=wireless+charger+price+drop" },
-        { "label": "Power Station", "url": "https://www.google.com/search?q=power+station+price+drop" }
+        {
+          "label": "Pixel 10",
+          "url": "https://www.google.com/search?q=pixel+10+price+drop"
+        },
+        {
+          "label": "Pixel Phone",
+          "url": "https://www.google.com/search?q=pixel+phone+price+drop"
+        },
+        {
+          "label": "Pixel 10 Pro",
+          "url": "https://www.google.com/search?q=pixel+10+pro+price+drop"
+        },
+        {
+          "label": "Google Phone",
+          "url": "https://www.google.com/search?q=google+phone+price+drop"
+        },
+        {
+          "label": "Google Pixel",
+          "url": "https://www.google.com/search?q=google+pixel+price+drop"
+        },
+        {
+          "label": "Samsung Galaxy",
+          "url": "https://www.google.com/search?q=samsung+galaxy+price+drop"
+        },
+        {
+          "label": "Pixel 9",
+          "url": "https://www.google.com/search?q=pixel+9+price+drop"
+        },
+        {
+          "label": "Google Pixel 10",
+          "url": "https://www.google.com/search?q=google+pixel+10+price+drop"
+        },
+        {
+          "label": "Pixel 9 Pro",
+          "url": "https://www.google.com/search?q=pixel+9+pro+price+drop"
+        },
+        {
+          "label": "iPhone 16 Phone",
+          "url": "https://www.google.com/search?q=iphone+16+phone+price+drop"
+        },
+        {
+          "label": "Pixel 10 Pro XL",
+          "url": "https://www.google.com/search?q=pixel+10+pro+xl+price+drop"
+        },
+        {
+          "label": "EcoFlow Ultra",
+          "url": "https://www.google.com/search?q=ecoflow+ultra+price+drop"
+        },
+        {
+          "label": "Power Station Battery",
+          "url": "https://www.google.com/search?q=power+station+battery+price+drop"
+        },
+        {
+          "label": "Power Bank",
+          "url": "https://www.google.com/search?q=power+bank+price+drop"
+        },
+        {
+          "label": "INIU Charger",
+          "url": "https://www.google.com/search?q=iniu+charger+price+drop"
+        },
+        {
+          "label": "INIU Power Bank",
+          "url": "https://www.google.com/search?q=iniu+power+bank+price+drop"
+        },
+        {
+          "label": "Portable Charger",
+          "url": "https://www.google.com/search?q=portable+charger+price+drop"
+        },
+        {
+          "label": "Wall Charger",
+          "url": "https://www.google.com/search?q=wall+charger+price+drop"
+        },
+        {
+          "label": "Wireless Charger",
+          "url": "https://www.google.com/search?q=wireless+charger+price+drop"
+        },
+        {
+          "label": "Power Station",
+          "url": "https://www.google.com/search?q=power+station+price+drop"
+        }
       ]
     },
     {
       "name": "Clothing & Accessories",
       "urls": [
-        { "label": "Lululemon Clothing", "url": "https://www.google.com/search?q=lululemon+clothing+price+drop" },
-        { "label": "Men's Sunglasses", "url": "https://www.google.com/search?q=men%27s+sunglasses+price+drop" },
-        { "label": "Women's Sunglasses", "url": "https://www.google.com/search?q=women%27s+sunglasses+price+drop" },
-        { "label": "Women's Shoes", "url": "https://www.google.com/search?q=women%27s+shoes+price+drop" },
-        { "label": "Women's Crocs", "url": "https://www.google.com/search?q=women%27s+crocs+price+drop" },
-        { "label": "Men's Crocs", "url": "https://www.google.com/search?q=men%27s+crocs+price+drop" },
-        { "label": "Women's Socks", "url": "https://www.google.com/search?q=women%27s+socks+price+drop" },
-        { "label": "Men's Socks", "url": "https://www.google.com/search?q=men%27s+socks+price+drop" },
-        { "label": "Men's Shorts", "url": "https://www.google.com/search?q=men%27s+shorts+price+drop" },
-        { "label": "Women's Shorts", "url": "https://www.google.com/search?q=women%27s+shorts+price+drop" },
-        { "label": "Men's Jacket", "url": "https://www.google.com/search?q=men%27s+jacket+price+drop" },
-        { "label": "Women's Jacket", "url": "https://www.google.com/search?q=women%27s+jacket+price+drop" },
-        { "label": "Patagonia Jacket", "url": "https://www.google.com/search?q=patagonia+jacket+price+drop" },
-        { "label": "Men's Wallet", "url": "https://www.google.com/search?q=men%27s+wallet+price+drop" },
-        { "label": "Women's Wallet", "url": "https://www.google.com/search?q=women%27s+wallet+price+drop" },
-        { "label": "Men's Hat", "url": "https://www.google.com/search?q=men%27s+hat+price+drop" },
-        { "label": "Kids Shoes", "url": "https://www.google.com/search?q=kids+shoes+price+drop" },
-        { "label": "New Balance Shoes", "url": "https://www.google.com/search?q=new+balance+shoes+price+drop" },
-        { "label": "Brooks Shoes", "url": "https://www.google.com/search?q=brooks+shoes+price+drop" },
-        { "label": "Men's Running Shoes", "url": "https://www.google.com/search?q=men%27s+running+shoes+price+drop" },
-        { "label": "Women's Running Shoes", "url": "https://www.google.com/search?q=women%27s+running+shoes+price+drop" },
-        { "label": "On Cloud Shoes", "url": "https://www.google.com/search?q=on+cloud+shoes+price+drop" },
-        { "label": "Men's Sneakers", "url": "https://www.google.com/search?q=men%27s+sneakers+price+drop" },
-        { "label": "Women's Sneakers", "url": "https://www.google.com/search?q=women%27s+sneakers+price+drop" },
-        { "label": "Converse Shoes", "url": "https://www.google.com/search?q=converse+shoes+price+drop" },
-        { "label": "Asics Shoes", "url": "https://www.google.com/search?q=asics+shoes+price+drop" },
-        { "label": "Adidas Shorts", "url": "https://www.google.com/search?q=adidas+shorts+price+drop" }
+        {
+          "label": "Lululemon Clothing",
+          "url": "https://www.google.com/search?q=lululemon+clothing+price+drop"
+        },
+        {
+          "label": "Men's Sunglasses",
+          "url": "https://www.google.com/search?q=men%27s+sunglasses+price+drop"
+        },
+        {
+          "label": "Women's Sunglasses",
+          "url": "https://www.google.com/search?q=women%27s+sunglasses+price+drop"
+        },
+        {
+          "label": "Women's Shoes",
+          "url": "https://www.google.com/search?q=women%27s+shoes+price+drop"
+        },
+        {
+          "label": "Women's Crocs",
+          "url": "https://www.google.com/search?q=women%27s+crocs+price+drop"
+        },
+        {
+          "label": "Men's Crocs",
+          "url": "https://www.google.com/search?q=men%27s+crocs+price+drop"
+        },
+        {
+          "label": "Women's Socks",
+          "url": "https://www.google.com/search?q=women%27s+socks+price+drop"
+        },
+        {
+          "label": "Men's Socks",
+          "url": "https://www.google.com/search?q=men%27s+socks+price+drop"
+        },
+        {
+          "label": "Men's Shorts",
+          "url": "https://www.google.com/search?q=men%27s+shorts+price+drop"
+        },
+        {
+          "label": "Women's Shorts",
+          "url": "https://www.google.com/search?q=women%27s+shorts+price+drop"
+        },
+        {
+          "label": "Men's Jacket",
+          "url": "https://www.google.com/search?q=men%27s+jacket+price+drop"
+        },
+        {
+          "label": "Women's Jacket",
+          "url": "https://www.google.com/search?q=women%27s+jacket+price+drop"
+        },
+        {
+          "label": "Patagonia Jacket",
+          "url": "https://www.google.com/search?q=patagonia+jacket+price+drop"
+        },
+        {
+          "label": "Men's Wallet",
+          "url": "https://www.google.com/search?q=men%27s+wallet+price+drop"
+        },
+        {
+          "label": "Women's Wallet",
+          "url": "https://www.google.com/search?q=women%27s+wallet+price+drop"
+        },
+        {
+          "label": "Men's Hat",
+          "url": "https://www.google.com/search?q=men%27s+hat+price+drop"
+        },
+        {
+          "label": "Kids Shoes",
+          "url": "https://www.google.com/search?q=kids+shoes+price+drop"
+        },
+        {
+          "label": "New Balance Shoes",
+          "url": "https://www.google.com/search?q=new+balance+shoes+price+drop"
+        },
+        {
+          "label": "Brooks Shoes",
+          "url": "https://www.google.com/search?q=brooks+shoes+price+drop"
+        },
+        {
+          "label": "Men's Running Shoes",
+          "url": "https://www.google.com/search?q=men%27s+running+shoes+price+drop"
+        },
+        {
+          "label": "Women's Running Shoes",
+          "url": "https://www.google.com/search?q=women%27s+running+shoes+price+drop"
+        },
+        {
+          "label": "On Cloud Shoes",
+          "url": "https://www.google.com/search?q=on+cloud+shoes+price+drop"
+        },
+        {
+          "label": "Men's Sneakers",
+          "url": "https://www.google.com/search?q=men%27s+sneakers+price+drop"
+        },
+        {
+          "label": "Women's Sneakers",
+          "url": "https://www.google.com/search?q=women%27s+sneakers+price+drop"
+        },
+        {
+          "label": "Converse Shoes",
+          "url": "https://www.google.com/search?q=converse+shoes+price+drop"
+        },
+        {
+          "label": "Asics Shoes",
+          "url": "https://www.google.com/search?q=asics+shoes+price+drop"
+        },
+        {
+          "label": "Adidas Shorts",
+          "url": "https://www.google.com/search?q=adidas+shorts+price+drop"
+        }
       ]
     },
     {
       "name": "Computers & Printers",
       "urls": [
-        { "label": "3D Printer Filament", "url": "https://www.google.com/search?q=3d+printer+filament+price+drop" },
-        { "label": "Bambu Printer", "url": "https://www.google.com/search?q=bambu+printer+price+drop" },
-        { "label": "Anycubic Printer", "url": "https://www.google.com/search?q=anycubic+printer+price+drop" },
-        { "label": "Mini PC", "url": "https://www.google.com/search?q=mini+pc+price+drop" },
-        { "label": "Gaming PC", "url": "https://www.google.com/search?q=gaming+pc+price+drop" },
-        { "label": "PC", "url": "https://www.google.com/search?q=pc+price+drop" },
-        { "label": "Mac Mini", "url": "https://www.google.com/search?q=mac+mini+price+drop" },
-        { "label": "Mac Computer", "url": "https://www.google.com/search?q=mac+computer+price+drop" },
-        { "label": "Minisforum Mini PC", "url": "https://www.google.com/search?q=minisforum+mini+pc+price+drop" }
+        {
+          "label": "3D Printer Filament",
+          "url": "https://www.google.com/search?q=3d+printer+filament+price+drop"
+        },
+        {
+          "label": "Bambu Printer",
+          "url": "https://www.google.com/search?q=bambu+printer+price+drop"
+        },
+        {
+          "label": "Anycubic Printer",
+          "url": "https://www.google.com/search?q=anycubic+printer+price+drop"
+        },
+        {
+          "label": "Mini PC",
+          "url": "https://www.google.com/search?q=mini+pc+price+drop"
+        },
+        {
+          "label": "Gaming PC",
+          "url": "https://www.google.com/search?q=gaming+pc+price+drop"
+        },
+        {
+          "label": "PC",
+          "url": "https://www.google.com/search?q=pc+price+drop"
+        },
+        {
+          "label": "Mac Mini",
+          "url": "https://www.google.com/search?q=mac+mini+price+drop"
+        },
+        {
+          "label": "Mac Computer",
+          "url": "https://www.google.com/search?q=mac+computer+price+drop"
+        },
+        {
+          "label": "Minisforum Mini PC",
+          "url": "https://www.google.com/search?q=minisforum+mini+pc+price+drop"
+        }
       ]
     },
     {
       "name": "Auto",
       "urls": [
-        { "label": "Tire Inflator", "url": "https://www.google.com/search?q=tire+inflator+price+drop" },
-        { "label": "Tire Pressure Monitor", "url": "https://www.google.com/search?q=tire+pressure+monitor+price+drop" },
-        { "label": "Tires", "url": "https://www.google.com/search?q=tires+price+drop" },
-        { "label": "All Season Tire", "url": "https://www.google.com/search?q=all+season+tire+price+drop" }
+        {
+          "label": "Tire Inflator",
+          "url": "https://www.google.com/search?q=tire+inflator+price+drop"
+        },
+        {
+          "label": "Tire Pressure Monitor",
+          "url": "https://www.google.com/search?q=tire+pressure+monitor+price+drop"
+        },
+        {
+          "label": "Tires",
+          "url": "https://www.google.com/search?q=tires+price+drop"
+        },
+        {
+          "label": "All Season Tire",
+          "url": "https://www.google.com/search?q=all+season+tire+price+drop"
+        }
       ]
     },
     {
       "name": "Health & Beauty",
       "urls": [
-        { "label": "Flosser", "url": "https://www.google.com/search?q=flosser+price+drop" },
-        { "label": "Water Flosser", "url": "https://www.google.com/search?q=water+flosser+price+drop" },
-        { "label": "Floss Picks", "url": "https://www.google.com/search?q=floss+picks+price+drop" },
-        { "label": "Dental Floss", "url": "https://www.google.com/search?q=dental+floss+price+drop" },
-        { "label": "Rechargeable Flosser", "url": "https://www.google.com/search?q=rechargeable+flosser+price+drop" }
+        {
+          "label": "Flosser",
+          "url": "https://www.google.com/search?q=flosser+price+drop"
+        },
+        {
+          "label": "Water Flosser",
+          "url": "https://www.google.com/search?q=water+flosser+price+drop"
+        },
+        {
+          "label": "Floss Picks",
+          "url": "https://www.google.com/search?q=floss+picks+price+drop"
+        },
+        {
+          "label": "Dental Floss",
+          "url": "https://www.google.com/search?q=dental+floss+price+drop"
+        },
+        {
+          "label": "Rechargeable Flosser",
+          "url": "https://www.google.com/search?q=rechargeable+flosser+price+drop"
+        }
+      ]
+    },
+    {
+      "name": "Cell Phone Plans & Services",
+      "urls": [
+        { "label": "T-Mobile", "url": "https://www.t-mobile.com/" },
+        { "label": "Verizon", "url": "https://www.verizon.com/" },
+        { "label": "Tracfone", "url": "https://www.tracfone.com/home" }
+      ]
+    },
+    {
+      "name": "Fast Food",
+      "urls": [
+        { "label": "Chipotle", "url": "https://thefreebieguy.com/?s=chipotle" },
+        {
+          "label": "Starbucks",
+          "url": "https://thefreebieguy.com/?s=starbucks"
+        },
+        {
+          "label": "Panda Express",
+          "url": "https://thefreebieguy.com/?s=panda+express"
+        }
       ]
     }
   ]
