@@ -361,6 +361,10 @@
       "name": "Computers & Printers",
       "urls": [
         {
+          "label": "3D Printers",
+          "url": "https://www.google.com/search?q=3d+printers+price+drop"
+        },
+        {
           "label": "3D Printer Filament",
           "url": "https://www.google.com/search?q=3d+printer+filament+price+drop"
         },
