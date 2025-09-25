@@ -1,7 +1,7 @@
 {
   "holidays": {
     "Back to School": {
-      "active": true,
+      "active": false,
       "categories": [
         {
           "name": "Laptops",
@@ -7151,7 +7151,7 @@
       ]
     },
     "Labor Day": {
-      "active": true,
+      "active": false,
       "categories": [
         {
           "name": "Activewear",
