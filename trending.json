@@ -1,223 +1,20 @@
 {
-  "week": 39,
+  "week": 40,
   "trending": [
-    {
-      "name": "Bags & Luggage",
-      "urls": [
-        {
-          "label": "Checked Luggage",
-          "url": "https://www.google.com/search?q=Checked+Luggage+price+drop"
-        },
-        {
-          "label": "Hard Shell Checked Luggage",
-          "url": "https://www.google.com/search?q=Hard+Shell+Checked+Luggage+price+drop"
-        },
-        {
-          "label": "Soft Side Checked Luggage",
-          "url": "https://www.google.com/search?q=Soft+Side+Checked+Luggage+price+drop"
-        },
-        {
-          "label": "Spinner Checked Luggage",
-          "url": "https://www.google.com/search?q=Spinner+Checked+Luggage+price+drop"
-        },
-        {
-          "label": "Wheeled Duffel",
-          "url": "https://www.google.com/search?q=Wheeled+Duffel+price+drop"
-        },
-        {
-          "label": "Expandable Checked Luggage",
-          "url": "https://www.google.com/search?q=Expandable+Checked+Luggage+price+drop"
-        },
-        {
-          "label": "Checked Luggage Set",
-          "url": "https://www.google.com/search?q=Checked+Luggage+Set+price+drop"
-        },
-        {
-          "label": "Osprey Backpack",
-          "url": "https://www.google.com/search?q=Osprey+Backpack+price+drop"
-        },
-        {
-          "label": "Osprey Bag",
-          "url": "https://www.google.com/search?q=Osprey+Bag+price+drop"
-        },
-        {
-          "label": "Osprey Hiking Pack",
-          "url": "https://www.google.com/search?q=Osprey+Hiking+Pack+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "Home & Home Improvement",
-      "urls": [
-        {
-          "label": "Air Conditioner",
-          "url": "https://www.google.com/search?q=Air+Conditioner+price+drop"
-        },
-        {
-          "label": "Portable Air Conditioner",
-          "url": "https://www.google.com/search?q=Portable+Air+Conditioner+price+drop"
-        },
-        {
-          "label": "Window Air Conditioner",
-          "url": "https://www.google.com/search?q=Window+Air+Conditioner+price+drop"
-        },
-        {
-          "label": "Solar Panel",
-          "url": "https://www.google.com/search?q=Solar+Panel+price+drop"
-        },
-        {
-          "label": "Renogy Solar Panel",
-          "url": "https://www.google.com/search?q=Renogy+Solar+Panel+price+drop"
-        },
-        {
-          "label": "Ecoflow Solar Panel",
-          "url": "https://www.google.com/search?q=Ecoflow+Solar+Panel+price+drop"
-        },
-        {
-          "label": "Jackery Solar Panel",
-          "url": "https://www.google.com/search?q=Jackery+Solar+Panel+price+drop"
-        },
-        {
-          "label": "Anker Solar Panel",
-          "url": "https://www.google.com/search?q=Anker+Solar+Panel+price+drop"
-        },
-        {
-          "label": "Dishwasher",
-          "url": "https://www.google.com/search?q=Dishwasher+price+drop"
-        },
-        {
-          "label": "Stainless Steel Dishwasher",
-          "url": "https://www.google.com/search?q=Stainless+Steel+Dishwasher+price+drop"
-        },
-        {
-          "label": "Smart Diswasher",
-          "url": "https://www.google.com/search?q=Smart+Diswasher+price+drop"
-        },
-        {
-          "label": "Greenworks Lawn Tool",
-          "url": "https://www.google.com/search?q=Greenworks+Lawn+Tool+price+drop"
-        },
-        {
-          "label": "Greenworks Trimmer",
-          "url": "https://www.google.com/search?q=Greenworks+Trimmer+price+drop"
-        },
-        {
-          "label": "Greenworks Leaf Blower",
-          "url": "https://www.google.com/search?q=Greenworks+Leaf+Blower+price+drop"
-        },
-        {
-          "label": "Greenworks Mower",
-          "url": "https://www.google.com/search?q=Greenworks+Mower+price+drop"
-        },
-        {
-          "label": "Greenworks Saw",
-          "url": "https://www.google.com/search?q=Greenworks+Saw+price+drop"
-        },
-        {
-          "label": "Greenworks Pressure Washer",
-          "url": "https://www.google.com/search?q=Greenworks+Pressure+Washer+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "Phones",
-      "urls": [
-        {
-          "label": "Unlocked iPhone 17 Pro Max",
-          "url": "https://www.google.com/search?q=Unlocked+iPhone+17+Pro+Max+price+drop"
-        },
-        {
-          "label": "Unlocked iPhone 17 Pro",
-          "url": "https://www.google.com/search?q=Unlocked+iPhone+17+Pro+price+drop"
-        },
-        {
-          "label": "Unlocked iPhone 13",
-          "url": "https://www.google.com/search?q=Unlocked+iPhone+13+price+drop"
-        },
-        {
-          "label": "Unlocked iPhone 17",
-          "url": "https://www.google.com/search?q=Unlocked+iPhone+17+price+drop"
-        },
-        {
-          "label": "Unlocked iPhone 16",
-          "url": "https://www.google.com/search?q=Unlocked+iPhone+16+price+drop"
-        },
-        {
-          "label": "Unlocked Samsung Galaxy",
-          "url": "https://www.google.com/search?q=Unlocked+Samsung+Galaxy+price+drop"
-        },
-        {
-          "label": "Unlocked iPhone",
-          "url": "https://www.google.com/search?q=Unlocked+iPhone+price+drop"
-        },
-        {
-          "label": "Unlocked Pixel 10",
-          "url": "https://www.google.com/search?q=Unlocked+Pixel+10+price+drop"
-        },
-        {
-          "label": "YYWireless eBay",
-          "url": "https://www.ebay.com/str/bayshinestore"
-        },
-        {
-          "label": "Cellfee eBay",
-          "url": "https://www.ebay.com/str/cellfeee?_trksid=p3671980.m570.l113337"
-        },
-        {
-          "label": "Guaranteecellular eBay",
-          "url": "https://www.ebay.com/str/guaranteecellular?_trksid=p4429486.m3561.l161211"
-        },
-        {
-          "label": "DirectAuth eBay",
-          "url": "https://www.ebay.com/str/directauth"
-        },
-        {
-          "label": "Amazing Wireless eBay",
-          "url": "https://www.ebay.com/str/amazingwireless"
-        },
-        {
-          "label": "A4C eBay",
-          "url": "https://www.ebay.com/str/a4c"
-        },
-        {
-          "label": "Vipoutlet eBay",
-          "url": "https://www.ebay.com/str/vipoutlet/Cell-Phone-Accessories/_i.html?store_cat=5912047&_trksid=p4429486.m3561.l161211"
-        }
-      ]
-    },
     {
       "name": "Computers",
       "urls": [
         {
-          "label": "Chromebook",
-          "url": "https://www.google.com/search?q=Chromebook+price+drop"
+          "label": "Gaming Desktop",
+          "url": "https://www.google.com/search?q=Gaming+Desktop+price+drop"
         },
         {
-          "label": "Google Chromebook",
-          "url": "https://www.google.com/search?q=Google+Chromebook+price+drop"
+          "label": "Mini PC",
+          "url": "https://www.google.com/search?q=Mini+PC+price+drop"
         },
         {
-          "label": "Acer Chromebook",
-          "url": "https://www.google.com/search?q=Acer+Chromebook+price+drop"
-        },
-        {
-          "label": "Samsung Chromebook",
-          "url": "https://www.google.com/search?q=Samsung+Chromebook+price+drop"
-        },
-        {
-          "label": "Hp Chromebook",
-          "url": "https://www.google.com/search?q=Hp+Chromebook+price+drop"
-        },
-        {
-          "label": "Lenovo Chromebook",
-          "url": "https://www.google.com/search?q=Lenovo+Chromebook+price+drop"
-        },
-        {
-          "label": "Mac Mini",
-          "url": "https://www.google.com/search?q=Mac+Mini+price+drop"
-        },
-        {
-          "label": "Mini Pc",
-          "url": "https://www.google.com/search?q=Mini+Pc+price+drop"
+          "label": "Laptop",
+          "url": "https://www.google.com/search?q=Laptop+price+drop"
         },
         {
           "label": "Gaming Laptop",
@@ -228,8 +25,8 @@
           "url": "https://www.google.com/search?q=Touchscreen+Laptop+price+drop"
         },
         {
-          "label": "Hp Laptop",
-          "url": "https://www.google.com/search?q=Hp+Laptop+price+drop"
+          "label": "HP Laptop",
+          "url": "https://www.google.com/search?q=HP+Laptop+price+drop"
         },
         {
           "label": "Dell Laptop",
@@ -264,99 +61,38 @@
           "url": "https://www.google.com/search?q=Ryzen+5+Laptop+price+drop"
         },
         {
-          "label": "MacBook Air",
-          "url": "https://www.google.com/search?q=MacBook+Air+price+drop"
+          "label": "5080 Video Card",
+          "url": "https://www.google.com/search?q=5080+Video+Card+price+drop"
         },
         {
-          "label": "8TB Hard Drive",
-          "url": "https://www.google.com/search?q=8TB+Hard+Drive+price+drop"
+          "label": "5070 Video Card",
+          "url": "https://www.google.com/search?q=5070+Video+Card+price+drop"
         },
         {
-          "label": "8TB SSD",
-          "url": "https://www.google.com/search?q=8TB+SSD+price+drop"
+          "label": "5090 Video Card",
+          "url": "https://www.google.com/search?q=5090+Video+Card+price+drop"
         },
         {
           "label": "NVMe SSD",
           "url": "https://www.google.com/search?q=NVMe+SSD+price+drop"
         },
         {
-          "label": "External Hard Drive",
-          "url": "https://www.google.com/search?q=External+Hard+Drive+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "3d Printers",
-      "urls": [
-        {
-          "label": "3d Printer Filament",
-          "url": "https://www.google.com/search?q=3d+Printer+Filament+price+drop"
+          "label": "1TB NVMe SSD",
+          "url": "https://www.google.com/search?q=1TB+NVMe+SSD+price+drop"
         },
         {
-          "label": "Pla Filament",
-          "url": "https://www.google.com/search?q=Pla+Filament+price+drop"
+          "label": "2TB NVMe SSD",
+          "url": "https://www.google.com/search?q=2TB+NVMe+SSD+price+drop"
         },
         {
-          "label": "Abs Filament",
-          "url": "https://www.google.com/search?q=Abs+Filament+price+drop"
-        },
-        {
-          "label": "Petg Filament",
-          "url": "https://www.google.com/search?q=Petg+Filament+price+drop"
-        },
-        {
-          "label": "3d Printer",
-          "url": "https://www.google.com/search?q=3d+Printer+price+drop"
-        },
-        {
-          "label": "Prusa 3d Printer",
-          "url": "https://www.google.com/search?q=Prusa+3d+Printer+price+drop"
-        },
-        {
-          "label": "Bambu 3d Printer",
-          "url": "https://www.google.com/search?q=Bambu+3d+Printer+price+drop"
-        },
-        {
-          "label": "Anycubic 3d Printer",
-          "url": "https://www.google.com/search?q=Anycubic+3d+Printer+price+drop"
-        },
-        {
-          "label": "Creality 3d Printer",
-          "url": "https://www.google.com/search?q=Creality+3d+Printer+price+drop"
-        },
-        {
-          "label": "Elegoo 3d Printer",
-          "url": "https://www.google.com/search?q=Elegoo+3d+Printer+price+drop"
-        },
-        {
-          "label": "Flashforge 3d Printer",
-          "url": "https://www.google.com/search?q=Flashforge+3d+Printer+price+drop"
+          "label": "Oled Monitor",
+          "url": "https://www.google.com/search?q=Oled+Monitor+price+drop"
         }
       ]
     },
     {
       "name": "Tech & Electronics",
       "urls": [
-        {
-          "label": "Phone Charger",
-          "url": "https://www.google.com/search?q=Phone+Charger+price+drop"
-        },
-        {
-          "label": "USB C Charger",
-          "url": "https://www.google.com/search?q=USB+C+Charger+price+drop"
-        },
-        {
-          "label": "Charger Block",
-          "url": "https://www.google.com/search?q=Charger+Block+price+drop"
-        },
-        {
-          "label": "Portable Charger",
-          "url": "https://www.google.com/search?q=Portable+Charger+price+drop"
-        },
-        {
-          "label": "Power Bank",
-          "url": "https://www.google.com/search?q=Power+Bank+price+drop"
-        },
         {
           "label": "Iniu Powerbank",
           "url": "https://www.google.com/search?q=Iniu+Powerbank+price+drop"
@@ -370,12 +106,44 @@
           "url": "https://www.google.com/search?q=Iniu+Wireless+Charger+price+drop"
         },
         {
-          "label": "AirPods Pro",
-          "url": "https://www.google.com/search?q=AirPods+Pro+price+drop"
+          "label": "Portable Charger",
+          "url": "https://www.google.com/search?q=Portable+Charger+price+drop"
         },
         {
-          "label": "Akg Headphones",
-          "url": "https://www.google.com/search?q=Akg+Headphones+price+drop"
+          "label": "Power Bank",
+          "url": "https://www.google.com/search?q=Power+Bank+price+drop"
+        },
+        {
+          "label": "Power Station",
+          "url": "https://www.google.com/search?q=Power+Station+price+drop"
+        },
+        {
+          "label": "Oupes Power Station",
+          "url": "https://www.google.com/search?q=Oupes+Power+Station+price+drop"
+        },
+        {
+          "label": "Oupes Solar Generator",
+          "url": "https://www.google.com/search?q=Oupes+Solar+Generator+price+drop"
+        },
+        {
+          "label": "Soundbar",
+          "url": "https://www.google.com/search?q=Soundbar+price+drop"
+        },
+        {
+          "label": "2.1Ch Soundbar",
+          "url": "https://www.google.com/search?q=2.1Ch+Soundbar+price+drop"
+        },
+        {
+          "label": "5.1Ch Soundbar",
+          "url": "https://www.google.com/search?q=5.1Ch+Soundbar+price+drop"
+        },
+        {
+          "label": "Soundbar With Subwoofer",
+          "url": "https://www.google.com/search?q=Soundbar+With+Subwoofer+price+drop"
+        },
+        {
+          "label": "AKG Headphones",
+          "url": "https://www.google.com/search?q=AKG+Headphones+price+drop"
         },
         {
           "label": "Projector",
@@ -386,8 +154,8 @@
           "url": "https://www.google.com/search?q=Laser+Projector+price+drop"
         },
         {
-          "label": "Led Projector",
-          "url": "https://www.google.com/search?q=Led+Projector+price+drop"
+          "label": "LED Projector",
+          "url": "https://www.google.com/search?q=LED+Projector+price+drop"
         },
         {
           "label": "4K Projector",
@@ -396,6 +164,230 @@
         {
           "label": "1080p Projector",
           "url": "https://www.google.com/search?q=1080p+Projector+price+drop"
+        },
+        {
+          "label": "Renogy Battery",
+          "url": "https://www.google.com/search?q=Renogy+Battery+price+drop"
+        },
+        {
+          "label": "Lithium Solar Battery",
+          "url": "https://www.google.com/search?q=Lithium+Solar+Battery+price+drop"
+        },
+        {
+          "label": "Garmin Smart Watch",
+          "url": "https://www.google.com/search?q=Garmin+Smart+Watch+price+drop"
+        },
+        {
+          "label": "Garmin Forerunner",
+          "url": "https://www.google.com/search?q=Garmin+Forerunner+price+drop"
+        },
+        {
+          "label": "Garmin Fenix",
+          "url": "https://www.google.com/search?q=Garmin+Fenix+price+drop"
+        },
+        {
+          "label": "Garmin Instinct",
+          "url": "https://www.google.com/search?q=Garmin+Instinct+price+drop"
+        }
+      ]
+    },
+    {
+      "name": "Home & Home Improvement",
+      "urls": [
+        {
+          "label": "Dishwasher",
+          "url": "https://www.google.com/search?q=Dishwasher+price+drop"
+        },
+        {
+          "label": "Stainless Steel Dishwasher",
+          "url": "https://www.google.com/search?q=Stainless+Steel+Dishwasher+price+drop"
+        },
+        {
+          "label": "Smart Diswasher",
+          "url": "https://www.google.com/search?q=Smart+Diswasher+price+drop"
+        },
+        {
+          "label": "Solar Panel",
+          "url": "https://www.google.com/search?q=Solar+Panel+price+drop"
+        },
+        {
+          "label": "Renogy Solar Panel",
+          "url": "https://www.google.com/search?q=Renogy+Solar+Panel+price+drop"
+        },
+        {
+          "label": "Ecoflow Solar Panel",
+          "url": "https://www.google.com/search?q=Ecoflow+Solar+Panel+price+drop"
+        },
+        {
+          "label": "Jackery Solar Panel",
+          "url": "https://www.google.com/search?q=Jackery+Solar+Panel+price+drop"
+        },
+        {
+          "label": "Anker Solar Panel",
+          "url": "https://www.google.com/search?q=Anker+Solar+Panel+price+drop"
+        },
+        {
+          "label": "Desk",
+          "url": "https://www.google.com/search?q=Desk+price+drop"
+        },
+        {
+          "label": "Gaming Desk",
+          "url": "https://www.google.com/search?q=Gaming+Desk+price+drop"
+        },
+        {
+          "label": "Standing Desk",
+          "url": "https://www.google.com/search?q=Standing+Desk+price+drop"
+        },
+        {
+          "label": "Writing Desk",
+          "url": "https://www.google.com/search?q=Writing+Desk+price+drop"
+        },
+        {
+          "label": "L-Shaped Desk",
+          "url": "https://www.google.com/search?q=L-Shaped+Desk+price+drop"
+        },
+        {
+          "label": "Rgb Desk",
+          "url": "https://www.google.com/search?q=Rgb+Desk+price+drop"
+        }
+      ]
+    },
+    {
+      "name": "Phones",
+      "urls": [
+        {
+          "label": "Unlocked iPhone 17 Pro Max",
+          "url": "https://www.google.com/search?q=Unlocked+iPhone+17+Pro+Max+price+drop"
+        },
+        {
+          "label": "Unlocked iPhone 17 Pro",
+          "url": "https://www.google.com/search?q=Unlocked+iPhone+17+Pro+price+drop"
+        },
+        {
+          "label": "Unlocked iPhone 17",
+          "url": "https://www.google.com/search?q=Unlocked+iPhone+17+price+drop"
+        },
+        {
+          "label": "Unlocked iPhone 13",
+          "url": "https://www.google.com/search?q=Unlocked+iPhone+13+price+drop"
+        },
+        {
+          "label": "Unlocked Samsung Galaxy",
+          "url": "https://www.google.com/search?q=Unlocked+Samsung+Galaxy+price+drop"
+        },
+        {
+          "label": "Unlocked iPhone",
+          "url": "https://www.google.com/search?q=Unlocked+iPhone+price+drop"
+        },
+        {
+          "label": "YYWireless eBay",
+          "url": "https://www.ebay.com/str/bayshinestore"
+        },
+        {
+          "label": "Cellfee eBay",
+          "url": "https://www.ebay.com/str/cellfeee?_trksid=p3671980.m570.l113337"
+        },
+        {
+          "label": "Guaranteecellular eBay",
+          "url": "https://www.ebay.com/str/guaranteecellular?_trksid=p4429486.m3561.l161211"
+        },
+        {
+          "label": "DirectAuth eBay",
+          "url": "https://www.ebay.com/str/directauth"
+        },
+        {
+          "label": "Amazing Wireless eBay",
+          "url": "https://www.ebay.com/str/amazingwireless"
+        },
+        {
+          "label": "A4C eBay",
+          "url": "https://www.ebay.com/str/a4c"
+        },
+        {
+          "label": "Vipoutlet eBay",
+          "url": "https://www.ebay.com/str/vipoutlet/Cell-Phone-Accessories/_i.html?store_cat=5912047&_trksid=p4429486.m3561.l161211"
+        }
+      ]
+    },
+    {
+      "name": "Luggage",
+      "urls": [
+        {
+          "label": "Checked Luggage",
+          "url": "https://www.google.com/search?q=Checked+Luggage+price+drop"
+        },
+        {
+          "label": "Hard Shell Checked Luggage",
+          "url": "https://www.google.com/search?q=Hard+Shell+Checked+Luggage+price+drop"
+        },
+        {
+          "label": "Soft Side Checked Luggage",
+          "url": "https://www.google.com/search?q=Soft+Side+Checked+Luggage+price+drop"
+        },
+        {
+          "label": "Spinner Checked Luggage",
+          "url": "https://www.google.com/search?q=Spinner+Checked+Luggage+price+drop"
+        },
+        {
+          "label": "Wheeled Duffel",
+          "url": "https://www.google.com/search?q=Wheeled+Duffel+price+drop"
+        },
+        {
+          "label": "Expandable Checked Luggage",
+          "url": "https://www.google.com/search?q=Expandable+Checked+Luggage+price+drop"
+        },
+        {
+          "label": "Checked Luggage Set",
+          "url": "https://www.google.com/search?q=Checked+Luggage+Set+price+drop"
+        }
+      ]
+    },
+    {
+      "name": "3D Printers",
+      "urls": [
+        {
+          "label": "3D Printer Filament",
+          "url": "https://www.google.com/search?q=3D+Printer+Filament+price+drop"
+        },
+        {
+          "label": "PLA Filament",
+          "url": "https://www.google.com/search?q=PLA+Filament+price+drop"
+        },
+        {
+          "label": "ABS Filament",
+          "url": "https://www.google.com/search?q=ABS+Filament+price+drop"
+        },
+        {
+          "label": "PETG Filament",
+          "url": "https://www.google.com/search?q=PETG+Filament+price+drop"
+        },
+        {
+          "label": "3D Printer",
+          "url": "https://www.google.com/search?q=3D+Printer+price+drop"
+        },
+        {
+          "label": "Prusa 3D Printer",
+          "url": "https://www.google.com/search?q=Prusa+3D+Printer+price+drop"
+        },
+        {
+          "label": "Bambu 3D Printer",
+          "url": "https://www.google.com/search?q=Bambu+3D+Printer+price+drop"
+        },
+        {
+          "label": "Anycubic 3D Printer",
+          "url": "https://www.google.com/search?q=Anycubic+3D+Printer+price+drop"
+        },
+        {
+          "label": "Creality 3D Printer",
+          "url": "https://www.google.com/search?q=Creality+3D+Printer+price+drop"
+        },
+        {
+          "label": "Elegoo 3D Printer",
+          "url": "https://www.google.com/search?q=Elegoo+3D+Printer+price+drop"
+        },
+        {
+          "label": "Flashforge 3D Printer",
+          "url": "https://www.google.com/search?q=Flashforge+3D+Printer+price+drop"
         }
       ]
     },
@@ -425,80 +417,31 @@
         {
           "label": "Razor Scooter",
           "url": "https://www.google.com/search?q=Razor+Scooter+price+drop"
-        },
-        {
-          "label": "Life Vest",
-          "url": "https://www.google.com/search?q=Life+Vest+price+drop"
-        },
-        {
-          "label": "Life Jacket",
-          "url": "https://www.google.com/search?q=Life+Jacket+price+drop"
-        },
-        {
-          "label": "Pickleball Paddle",
-          "url": "https://www.google.com/search?q=Pickleball+Paddle+price+drop"
-        },
-        {
-          "label": "Pickleball Set",
-          "url": "https://www.google.com/search?q=Pickleball+Set+price+drop"
-        },
-        {
-          "label": "Pickleball Balls",
-          "url": "https://www.google.com/search?q=Pickleball+Balls+price+drop"
         }
       ]
     },
     {
-      "name": "Clothing & Accessories",
+      "name": "Drones",
       "urls": [
         {
-          "label": "Brooks Shoes",
-          "url": "https://www.google.com/search?q=Brooks+Shoes+price+drop"
+          "label": "DJI Drone",
+          "url": "https://www.google.com/search?q=DJI+Drone+price+drop"
         },
         {
-          "label": "Brooks Men's Shoes",
-          "url": "https://www.google.com/search?q=Brooks+Men%27s+Shoes+price+drop"
+          "label": "DJI Drone Accessories",
+          "url": "https://www.google.com/search?q=DJI+Drone+Accessories+price+drop"
         },
         {
-          "label": "Brooks Women's Shoes",
-          "url": "https://www.google.com/search?q=Brooks+Women%27s+Shoes+price+drop"
+          "label": "DJI Mavic",
+          "url": "https://www.google.com/search?q=DJI+Mavic+price+drop"
         },
         {
-          "label": "Asics Shoes",
-          "url": "https://www.google.com/search?q=Asics+Shoes+price+drop"
+          "label": "DJI Air",
+          "url": "https://www.google.com/search?q=DJI+Air+price+drop"
         },
         {
-          "label": "Asics Men's Shoes",
-          "url": "https://www.google.com/search?q=Asics+Men%27s+Shoes+price+drop"
-        },
-        {
-          "label": "Asics Women's Shoes",
-          "url": "https://www.google.com/search?q=Asics+Women%27s+Shoes+price+drop"
-        },
-        {
-          "label": "Lululemon WMTM",
-          "url": "https://shop.lululemon.com/c/we-made-too-much/n18mhd"
-        }
-      ]
-    },
-    {
-      "name": "Entertainment",
-      "urls": [
-        {
-          "label": "eReaderIQ Ebook Price Drops",
-          "url": "https://www.ereaderiq.com/drops"
-        },
-        {
-          "label": "BookBub Ebook Deals",
-          "url": "https://www.bookbub.com/ebook-deals?sort=recency"
-        },
-        {
-          "label": "Paramount+",
-          "url": "https://www.google.com/search?q=Paramount%2B+price+drop"
-        },
-        {
-          "label": "Peacock",
-          "url": "https://www.google.com/search?q=Peacock+price+drop"
+          "label": "DJI Mini",
+          "url": "https://www.google.com/search?q=DJI+Mini+price+drop"
         }
       ]
     },
@@ -520,18 +463,43 @@
         {
           "label": "TracFone",
           "url": "https://www.tracfone.com/home"
+        },
+        {
+          "label": "Infimobile Via Amazon",
+          "url": "https://www.amazon.com/s?k=infinix+mobile&rh=n%3A21513212011%2Cp_6%3AA2JAXPB9W5C703&dc&ds=v1%3AzTQBd48EUnlZrCuH8aQFQmqNTMSQCoRtGZbz7zydKgU&crid=32JZB7JNITTNY&qid=1759263963&rnid=2491153011&sprefix=infimobile%2Caps%2C159&ref=sr_nr_p_6_1"
         }
       ]
     },
     {
-      "name": "Amazon",
+      "name": "Streaming Services",
+      "urls": [
+        {
+          "label": "Starz",
+          "url": "https://www.google.com/search?q=starz+subscription+deals+that+went+live+in+the+last+24+hours&sca_esv=f3826a3017f5c801&hl=en&sxsrf=AE3TifNz5J45fmgegHim_jSEa-fC5rqv-A%3A1759264293172&udm=50&source=hp&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZPH5QghoXViUOqdFyhkUfHhA90f6RZnLvcDKUWyhDavFBbFz95fUCRtZA8InbyClGBqM49Q8OnQl7hXsLUbA9H70VAnicGA7PNKoCOJQW_yvbHY-6ZtXXMM9M5ODEPE7xAX_brhOp6cXOZYKxNEtwcFKVZU2MeDQxmVaQEbqbUlOmOOA0ECsVAYwVHBGu1-ITeziCdw&aep=1&ntc=1&sa=X&ved=2ahUKEwizxIqaqoGQAxU2l2oFHfOwD4IQ2J8OegQIDxAE&biw=1707&bih=772&dpr=1.13&mtid=KT7caN3ZF8zoptQPvZG9mQc&mstk=AUtExfCNER6bKTXTAPXMrmpwpyOlTGENeugem5ZeoInakpJI2VbO2eEZn2e69TsBBNWJERnIOKl7e3dlXEAAZsCLEjGz4raj1TXeEBQCMrUHI6pITh-AnakT9tEzFwfKWTj5QgOLHsj03V6U_6Yo-ENNGmUdBSZPnG__zUctM1f6G53EqDUG3TCXQW3tWnsiXgCXu4eRpXJ5jlMwttjnh9joTVJ2I_zPryPMIsNOZyz0ENtyC26kteEkr_yVPB1V4Bpm_TFMrpnr2KJ3lz-dCTMVMlbSHaX61lVpNxCgTavsYpmBEaR59YXmp3urDw8Z4yicmB7N_ZAVWoVksror3ht79_DDw00eDkXX4tusTme6zOSF2DQ9K5BlCFzLs4xrMl3HzhYShhz4m_0muK0GWlzE0GJh8zASsB2meg&csuir=1"
+        },
+        {
+          "label": "Hulu",
+          "url": "https://www.google.com/search?q=hulu+subscription+deals+that+went+live+in+the+last+24+hours&sca_esv=f3826a3017f5c801&hl=en&sxsrf=AE3TifOp8hzgalVi5mWMr8yrcKGLjZAl4g%3A1759264342991&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZPH5QghoXViUOqdFyhkUfHhA90f6RZnLvcDKUWyhDavFBbFz95fUCRtZA8InbyClGFQLhU-pf_AevQiMcMgN2x4_blv0DoeU4-wJYy4_g_giMuLFaYzILeoGH-ACpfU0mx2MoSSsAp4bzsWkD-0SXFRC8rKR7475bXkXU989h_JAmkbpR5Zrv7p75GWBVXP5yyiN1ng&aep=1&ntc=1&sa=X&ved=2ahUKEwj7nuuxqoGQAxUsmmoFHXkoGaoQ2J8OegQIDxAE&biw=1707&bih=772&dpr=1.13&mtid=WT7caP73E7OuptQP0MKYIA&mstk=AUtExfCm8ptyfAn8b6-eKBDLRQALv1HVFQhiwmSWl13LVrFACk60X4Mgb3LdzBCkzvVXCM8uGDABJnnbJRs6FPTSnA5MxFrrfcy5sxbaHI55HyoPdfI9cfE-ftZEdhxKc5Zp_V00J1hU-b_PoqvrJ5JFBA5WxzktftOIA3mEnDW3r_UiX6sZ3T9h4kxLjlpI2VBLnHQWWVzzzJJBBkUbMbLpp1IGzgF2Gj28HaFyS5IGv8fDUDs_nd29HyRBS9nyBJDaUjQSkWO02oZFu3Q1ruYCMGQnRsZQDLWMjJzgm5Y_DeoPcL8PIJO0LoBdJLgcE781BXf2bf9JQa8DvRQbZEZKrAcbW5DaQNBdsceoDojB0JTUqotKYBen9HbFhJCCcWfuOHYU2rQQCMEtvXN6aeOP2NV8VmJ0bf1BmQ&csuir=1"
+        },
+        {
+          "label": "Paramount+",
+          "url": "https://www.google.com/search?q=paramount%2B+subscription+deals+that+went+live+in+the+last+24+hours&sca_esv=f3826a3017f5c801&hl=en&sxsrf=AE3TifNiPSa268NAqpIjQ-qto_32lZkGGA%3A1759264377136&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZPH5QghoXViUOqdFyhkUfHhA90f6RZnLvcDKUWyhDavFBbFz95fUCRtZA8InbyClGFQLhU-pf_AevQiMcMgN2x4_blv0DoeU4-wJYy4_g_giMuLFaYzILeoGH-ACpfU0mx2MoSSsAp4bzsWkD-0SXFRC8rKR7475bXkXU989h_JAmkbpR5Zrv7p75GWBVXP5yyiN1ng&aep=1&ntc=1&sa=X&ved=2ahUKEwiGp4_CqoGQAxWZkmoFHSMYIuYQ2J8OegQIDxAE&biw=1707&bih=772&dpr=1.13&mtid=jT7caJL-CcyiptQPgbu3iAc&mstk=AUtExfDOl5QaoeRxaxdDxtlJXojuJ7XeAQRYZw8bdePZBOVlZu76eU4W4VpRzV6FR5NoahOJjw-_97NS-BSM1l_oWd573vBieoUh4yo03bvA4vhXSpdfQhXRsMSlZ074mtXJg4ptq-2ezjVACB86cUkmXtWoOvK8LaolAssO6jdUCLnb8QPa-Q6wQjtd-PM3CVuUCM0lc_JMgvq9mZSkXrQ_mWEiDRaN2CvqaWwk1krm65qmZgCoXcOQ6PnMZmC6vLvh9IAfWwxDO65cJOYJO5EohnH5kmsXo4IMdFZ39aUS7mmEaiuf0lMDJvh1xZd4P5sPtcfzV2IE-md3Yhnc9_iusexXM2w4DI_rMbE91-BUaTJ2z6iHWB9PAzbHBYPoZI3C8jTGvg38T3tptzhTgwYb3TuK4zyhRicDqw&csuir=1"
+        },
+        {
+          "label": "Peacock",
+          "url": "https://www.google.com/search?q=peacock+subscription+deals+that+went+live+in+the+last+24+hours&sca_esv=f3826a3017f5c801&hl=en&sxsrf=AE3TifP1MCYAlDQojeBemWyo4rzdwmGLYg%3A1759264418903&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZPH5QghoXViUOqdFyhkUfHhA90f6RZnLvcDKUWyhDavFBbFz95fUCRtZA8InbyClGFQLhU-pf_AevQiMcMgN2x4_blv0DoeU4-wJYy4_g_giMuLFaYzILeoGH-ACpfU0mx2MoSSsAp4bzsWkD-0SXFRC8rKR7475bXkXU989h_JAmkbpR5Zrv7p75GWBVXP5yyiN1ng&aep=1&ntc=1&sa=X&ved=2ahUKEwi7xITWqoGQAxXEkyYFHeqbC5kQ2J8OegQIDxAE&biw=1707&bih=772&dpr=1.13&mtid=pT7caKDsDMr9ptQPjZ3hkQU&mstk=AUtExfCUR3buhUbUfdxVlNmwRqe_YvNnfmR_z5mccobl46-dY886K56Px6aWHjakuy7foxUHK1t7N_YCzULxUf_8-4CwO5lkuHCNng8bcqD13kjrFiX-D3pkS6MYWP4ahnfft3jzkQCurKSMWGtQIBYVIy5JhYkxWVyoNaY5SVkQ_b20tPy5qt2HHcy49dXI7AFIMhCfWro8-FnwN7IHsK17BYxAbCIgmyRMC1ihNJGOccBV7EdOscFYiJ8yTcsN-r759lO19pM5rGfElpTju-Osv2IGA4WMFLN3rMyFJJpBnz-TpsxSfF8HN2YuQsqnc6BAwSpjnKgrTmtjvJM_7_b_skkChkAmXJYSoOGutwywVkMZeJ2vYM0OtCCgzBLYZwWgExCjOZ6p_0u2V2t40gXGO4kz4FFHAKEf2g&csuir=1"
+        }
+      ]
+    },
+    {
+      "name": "Stores > Amazon",
       "urls": [
         {
           "label": "Keepa",
           "url": "https://keepa.com/#!deals"
         },
         {
-          "label": "Early PBDD Deals",
+          "label": "Early Pbdd Deals",
           "url": "https://www.amazon.com/primebigdealdays"
         },
         {
@@ -551,12 +519,21 @@
           "url": "https://www.edealinfo.com/deals/merchants/amazon.php"
         },
         {
-          "label": "DealsOfAmerica Amazon",
+          "label": "Dealsofamerica Amazon",
           "url": "https://www.dealsofamerica.com/amazon-deals.php"
         },
         {
           "label": "Bens Bargains Amazon",
           "url": "https://bensbargains.com/s/amazon/new/"
+        }
+      ]
+    },
+    {
+      "name": "Fast Food",
+      "urls": [
+        {
+          "label": "Panera",
+          "url": "https://www.google.com/search?q=panera+deals+that+went+live+in+the+last+24+hours&sca_esv=f3826a3017f5c801&hl=en&sxsrf=AE3TifOnZk7Jy4qWxNqx6vwWtPJd0u9Q2A%3A1759264591107&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZPH5QghoXViUOqdFyhkUfHhA90f6RZnLvcDKUWyhDavFBbFz95fUCRtZA8InbyClGFQLhU-pf_AevQiMcMgN2x4_blv0DoeU4-wJYy4_g_gj5R3t6urNKzJ9ooMkVlKuaAi6ysJ5tmUuILNJ-WW2Bd8PsnLw4-wqfXvBHCxAU9Esse3nzuHEWLOMHsrQZUfXGCx1eFg&aep=1&ntc=1&sa=X&ved=2ahUKEwiXjZOoq4GQAxXYw8kDHSMeMBAQ2J8OegQIERAE&biw=1707&bih=772&dpr=1.13&mtid=Uz_caILVGd-ZwbkP9qnpmAo&mstk=AUtExfBfQyDRz0mcLnY2Q7fwl_msoSmh-OSm15JspCWxjXzdrXYecOME_GveOu6m7yHObxP5-nhXOrYkcYZ3KOlhNpL00SSLkgNQONM6UmNyuhMaZk3oAwks-t6OThGc9CJDTiYqmvkzDmiGifu7vWnBkm6WfbnocIbwniZtDaUWggHAnON6-I0de-tO4-ao1w3c64R34Z3sJMzgeRtp1m6AxC1WQU4fWOcW_AqiY8dVGZAIY2kw8lEDaOZDX8P2ZD4u1-uxyaIbC5oWLMw5BvfuvU-NWh0O0nD-gqNzzJF9bt8OTyw5V95M9ngD8485TH-_w2dadBKSyH8n7HmlqT1jCctoPLrqKa897WAXZaMQXPKNtDqkFbkuTcBdTMOXoKQf4GJiU4tXU_CwrnmwX3_tbRE6dlY9BS2bi6mIRj-6Eh0M4TVgi0O4kQ&csuir=1"
         }
       ]
     }
