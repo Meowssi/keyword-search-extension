@@ -60,7 +60,7 @@
     {
       "name": "Video Games",
       "urls": [
-        { "label": "Game Pass", "url": "PLACEHOLDER" },
+        { "label": "Game Pass", "url": "https://share.google/aimode/dJh3RVjTiIUJHfVkN" },
         { "label": "Xbox Series X Console", "url": "https://www.google.com/search?q=Xbox+Series+X+Console+price+drop" },
         { "label": "Xbox Series S Console", "url": "https://www.google.com/search?q=Xbox+Series+S+Console+price+drop" },
         { "label": "ROG Xbox Ally Pre-Order", "url": "https://www.google.com/search?q=ROG+Xbox+Ally+Pre-Order+price+drop" },
@@ -99,10 +99,10 @@
     {
       "name": "Phone Plans",
       "urls": [
-        { "label": "Visible", "url": "PLACEHOLDER" },
-        { "label": "T-Mobile", "url": "PLACEHOLDER" },
-        { "label": "TracFone", "url": "PLACEHOLDER" },
-        { "label": "Verizon", "url": "PLACEHOLDER" }
+        { "label": "Visible", "url": "https://share.google/aimode/u6znOh1CyZsmfu3Ft" },
+        { "label": "T-Mobile", "url": "https://share.google/aimode/WOHjKi53GgPD8tlFj" },
+        { "label": "TracFone", "url": "https://share.google/aimode/w7zpaPvE66HzuGw8M" },
+        { "label": "Verizon", "url": "https://share.google/aimode/Jo8U0CwQ4ib9Aqj0I" }
       ]
     },
     {
@@ -185,10 +185,10 @@
     {
       "name": "Streaming & Entertainment",
       "urls": [
-        { "label": "Hulu", "url": "PLACEHOLDER" },
-        { "label": "Peacock", "url": "PLACEHOLDER" },
-        { "label": "Fandango", "url": "PLACEHOLDER" },
-        { "label": "Atom Tickets", "url": "PLACEHOLDER" }
+        { "label": "Hulu", "url": "https://share.google/aimode/ZXh91iavuX6Oxuw8L" },
+        { "label": "Peacock", "url": "https://share.google/aimode/ZfNGJYzg2a9NVqqBh" },
+        { "label": "Fandango", "url": "https://share.google/aimode/mSgbb11TgkZenkzuh" },
+        { "label": "Atom Tickets", "url": "https://share.google/aimode/AszwVL2VzdWEE6Hgl" }
       ]
     },
     {
