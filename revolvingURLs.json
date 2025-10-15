@@ -8328,6 +8328,316 @@
       ],
 
       "stores": []
+    },
+    "Halloween": {
+      "active": true,
+      "categories": [
+        {
+          "name": "Halloween Store Pages",
+          "urls": [
+            {
+              "label": "Amazon",
+              "url": "https://www.amazon.com/deals?ref_=nav_cs_gb&bubble-id=halloween"
+            },
+            {
+              "label": "Target",
+              "url": "https://www.target.com/c/halloween-deals/-/N-oejgl"
+            },
+            {
+              "label": "Home Depot",
+              "url": "https://www.homedepot.com/b/Holiday-Decorations-Halloween-Decorations/N-5yc1vZc2ve"
+            },
+            {
+              "label": "Walmart",
+              "url": "https://www.walmart.com/shop/deals/halloween"
+            },
+            {
+              "label": "Lowe's",
+              "url": "https://www.lowes.com/pl/halloween-decorations/on-sale/4294586669-2"
+            },
+            {
+              "label": "eBay",
+              "url": "https://www.ebay.com/b/Halloween/bn_7006482158"
+            },
+            {
+              "label": "Best Buy",
+              "url": "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=pcmcat1628273302525&id=pcat17071&qp=currentoffers_facet%3DCurrent+Deals%7EOn+Sale&st=categoryid%24pcmcat1628273302525"
+            },
+            {
+              "label": "Walgreens",
+              "url": "https://www.walgreens.com/store/c/productlist/N=20001182/1/ShopAll=20001182?ban=FY26_Shop_All"
+            },
+            {
+              "label": "CVS",
+              "url": "https://www.cvs.com/shop/merch/halloween-deals?widgetID=p5konnqp&icid=shop-halloween-nav-halloween-deals"
+            },
+            {
+              "label": "Sam's Club",
+              "url": "https://www.samsclub.com/cp/710115"
+            },
+            {
+              "label": "Oriental Trading",
+              "url": "https://www.orientaltrading.com/sale/halloween-a1-90000+1604+1237-1.fltr"
+            },
+            {
+              "label": "Michaels",
+              "url": "https://www.michaels.com/shop/holidays-occasions/halloween"
+            }
+          ]
+        },
+        {
+          "name": "Deal Sites Halloween Pages",
+          "urls": [
+            {
+              "label": "DealNews Halloween",
+              "url": "https://www.dealnews.com/c544/Store-Events/Halloween-Items/?sort=time"
+            },
+            {
+              "label": "KrazyCouponLady Halloween",
+              "url": "https://thekrazycouponlady.com/deals/halloween"
+            },
+            {
+              "label": "Hip2Save Halloween",
+              "url": "https://hip2save.com/holidays/halloween/"
+            },
+            {
+              "label": "Brad's Deals Halloween",
+              "url": "https://www.bradsdeals.com/shop/feeds/halloween-deals?page=1&sort=starts_at:desc"
+            },
+            {
+              "label": "BrickSeek Seasonal",
+              "url": "https://brickseek.com/products?deal_rating=1&category=20&types=1&sort=last_change"
+            },
+            {
+              "label": "eDealinfo Halloween Decor",
+              "url": "https://www.edealinfo.com/deals/categories/halloweendecor.php"
+            },
+            {
+              "label": "eDealinfo Halloween Costumes",
+              "url": "https://www.edealinfo.com/deals/categories/costumesandaccessories.php"
+            }
+          ]
+        },
+        {
+          "name": "Decor",
+          "urls": [
+            {
+              "label": "Halloween Decorations",
+              "url": "https://www.google.com/search?q=Halloween+Decorations+price+drop"
+            },
+            {
+              "label": "Outdoor Halloween Decorations",
+              "url": "https://www.google.com/search?q=Outdoor+Halloween+Decorations+price+drop"
+            },
+            {
+              "label": "Indoor Halloween Decorations",
+              "url": "https://www.google.com/search?q=Indoor+Halloween+Decorations+price+drop"
+            },
+            {
+              "label": "Halloween Lights",
+              "url": "https://www.google.com/search?q=Halloween+Lights+price+drop"
+            },
+            {
+              "label": "Halloween Inflatables",
+              "url": "https://www.google.com/search?q=Halloween+Inflatables+price+drop"
+            },
+            {
+              "label": "Halloween Yard Decorations",
+              "url": "https://www.google.com/search?q=Halloween+Yard+Decorations+price+drop"
+            },
+            {
+              "label": "Halloween Props",
+              "url": "https://www.google.com/search?q=Halloween+Props+price+drop"
+            },
+            {
+              "label": "Halloween Animatronics",
+              "url": "https://www.google.com/search?q=Halloween+Animatronics+price+drop"
+            },
+            {
+              "label": "Halloween Pumpkins",
+              "url": "https://www.google.com/search?q=Halloween+Pumpkins+price+drop"
+            },
+            {
+              "label": "Halloween Wreaths",
+              "url": "https://www.google.com/search?q=Halloween+Wreaths+price+drop"
+            },
+            {
+              "label": "Halloween Table Decor",
+              "url": "https://www.google.com/search?q=Halloween+Table+Decor+price+drop"
+            },
+            {
+              "label": "Halloween Candles",
+              "url": "https://www.google.com/search?q=Halloween+Candles+price+drop"
+            },
+            {
+              "label": "Halloween Window Decorations",
+              "url": "https://www.google.com/search?q=Halloween+Window+Decorations+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Costumes",
+          "urls": [
+            {
+              "label": "Halloween Costume",
+              "url": "https://www.google.com/search?q=Halloween+Costume+price+drop"
+            },
+            {
+              "label": "Adult Halloween Costume",
+              "url": "https://www.google.com/search?q=Adult+Halloween+Costume+price+drop"
+            },
+            {
+              "label": "Kids Halloween Costume",
+              "url": "https://www.google.com/search?q=Kids+Halloween+Costume+price+drop"
+            },
+            {
+              "label": "Baby Halloween Costume",
+              "url": "https://www.google.com/search?q=Baby+Halloween+Costume+price+drop"
+            },
+            {
+              "label": "Disney Halloween Costume",
+              "url": "https://www.google.com/search?q=Disney+Halloween+Costume+price+drop"
+            },
+            {
+              "label": "Superhero Costume",
+              "url": "https://www.google.com/search?q=Superhero+Costume+price+drop"
+            },
+            {
+              "label": "Witch Costume",
+              "url": "https://www.google.com/search?q=Witch+Costume+price+drop"
+            },
+            {
+              "label": "Vampire Costume",
+              "url": "https://www.google.com/search?q=Vampire+Costume+price+drop"
+            },
+            {
+              "label": "Ghost Costume",
+              "url": "https://www.google.com/search?q=Ghost+Costume+price+drop"
+            },
+            {
+              "label": "Face Paint",
+              "url": "https://www.google.com/search?q=Face+Paint+price+drop"
+            },
+            {
+              "label": "Halloween Wig",
+              "url": "https://www.google.com/search?q=Halloween+Wig+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Candy",
+          "urls": [
+            {
+              "label": "Halloween Candy",
+              "url": "https://www.google.com/search?q=Halloween+Candy+price+drop"
+            },
+            {
+              "label": "Fun Size Candy",
+              "url": "https://www.google.com/search?q=Fun+Size+Candy+price+drop"
+            },
+            {
+              "label": "Assorted Halloween Candy",
+              "url": "https://www.google.com/search?q=Assorted+Halloween+Candy+price+drop"
+            },
+            {
+              "label": "Bulk Halloween Candy",
+              "url": "https://www.google.com/search?q=Bulk+Halloween+Candy+price+drop"
+            },
+            {
+              "label": "Mini Candy Bars",
+              "url": "https://www.google.com/search?q=Mini+Candy+Bars+price+drop"
+            },
+            {
+              "label": "Chocolate Halloween Candy",
+              "url": "https://www.google.com/search?q=Chocolate+Halloween+Candy+price+drop"
+            },
+            {
+              "label": "Gummy Candy",
+              "url": "https://www.google.com/search?q=Gummy+Candy+price+drop"
+            },
+            {
+              "label": "Candy Corn",
+              "url": "https://www.google.com/search?q=Candy+Corn+price+drop"
+            },
+            {
+              "label": "Reese's Halloween Candy",
+              "url": "https://www.google.com/search?q=Reese%27s+Halloween+Candy+price+drop"
+            },
+            {
+              "label": "Snickers Halloween Candy",
+              "url": "https://www.google.com/search?q=Snickers+Halloween+Candy+price+drop"
+            },
+            {
+              "label": "M&M's Halloween Candy",
+              "url": "https://www.google.com/search?q=M%26M%27s+Halloween+Candy+price+drop"
+            },
+            {
+              "label": "Kit Kat Halloween Candy",
+              "url": "https://www.google.com/search?q=Kit+Kat+Halloween+Candy+price+drop"
+            },
+            {
+              "label": "Twix Halloween Candy",
+              "url": "https://www.google.com/search?q=Twix+Halloween+Candy+price+drop"
+            },
+            {
+              "label": "Sour Candy",
+              "url": "https://www.google.com/search?q=Sour+Candy+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Party Supplies",
+          "urls": [
+            {
+              "label": "Halloween Party Supplies",
+              "url": "https://www.google.com/search?q=Halloween+Party+Supplies+price+drop"
+            },
+            {
+              "label": "Halloween Party Decorations",
+              "url": "https://www.google.com/search?q=Halloween+Party+Decorations+price+drop"
+            },
+            {
+              "label": "Halloween Napkins",
+              "url": "https://www.google.com/search?q=Halloween+Napkins+price+drop"
+            },
+            {
+              "label": "Halloween Cups",
+              "url": "https://www.google.com/search?q=Halloween+Cups+price+drop"
+            },
+            {
+              "label": "Halloween Plates",
+              "url": "https://www.google.com/search?q=Halloween+Plates+price+drop"
+            },
+            {
+              "label": "Halloween Cutlery",
+              "url": "https://www.google.com/search?q=Halloween+Cutlery+price+drop"
+            },
+            {
+              "label": "Halloween Tablecloth",
+              "url": "https://www.google.com/search?q=Halloween+Tablecloth+price+drop"
+            },
+            {
+              "label": "Halloween Balloons",
+              "url": "https://www.google.com/search?q=Halloween+Balloons+price+drop"
+            },
+            {
+              "label": "Halloween Punch Bowl",
+              "url": "https://www.google.com/search?q=Halloween+Punch+Bowl+price+drop"
+            },
+            {
+              "label": "Halloween Baking Supplies",
+              "url": "https://www.google.com/search?q=Halloween+Baking+Supplies+price+drop"
+            },
+            {
+              "label": "Halloween Cookies",
+              "url": "https://www.google.com/search?q=Halloween+Cookies+price+drop"
+            }
+          ]
+        }
+      ],
+
+      "brands": [],
+      "stores": []
     }
   }
 }
