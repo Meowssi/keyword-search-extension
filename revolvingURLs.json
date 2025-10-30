@@ -8638,6 +8638,780 @@
 
       "brands": [],
       "stores": []
+    },
+    "Single's Day": {
+      "active": true,
+      "categories": [
+        {
+          "name": "Beauty",
+          "urls": [
+            {
+              "label": "Eyeshadow Palette",
+              "url": "https://www.google.com/search?q=Eyeshadow+Palette+price+drop"
+            },
+            {
+              "label": "Foundation",
+              "url": "https://www.google.com/search?q=Foundation+price+drop"
+            },
+            {
+              "label": "Mascara",
+              "url": "https://www.google.com/search?q=Mascara+price+drop"
+            },
+            {
+              "label": "Blush",
+              "url": "https://www.google.com/search?q=Blush+price+drop"
+            },
+            {
+              "label": "Contour",
+              "url": "https://www.google.com/search?q=Contour+price+drop"
+            },
+            {
+              "label": "Bronzer",
+              "url": "https://www.google.com/search?q=Bronzer+price+drop"
+            },
+            {
+              "label": "Setting Spray",
+              "url": "https://www.google.com/search?q=Setting+Spray+price+drop"
+            },
+            {
+              "label": "Setting Powder",
+              "url": "https://www.google.com/search?q=Setting+Powder+price+drop"
+            },
+            {
+              "label": "Concealer",
+              "url": "https://www.google.com/search?q=Concealer+price+drop"
+            },
+            {
+              "label": "Makeup Primer",
+              "url": "https://www.google.com/search?q=Makeup+Primer+price+drop"
+            },
+            {
+              "label": "Lipstick",
+              "url": "https://www.google.com/search?q=Lipstick+price+drop"
+            },
+            {
+              "label": "Lip Gloss",
+              "url": "https://www.google.com/search?q=Lip+Gloss+price+drop"
+            },
+            {
+              "label": "Shampoo",
+              "url": "https://www.google.com/search?q=Shampoo+price+drop"
+            },
+            {
+              "label": "Conditioner",
+              "url": "https://www.google.com/search?q=Conditioner+price+drop"
+            },
+            {
+              "label": "Leave-In Conditioner",
+              "url": "https://www.google.com/search?q=Leave-In+Conditioner+price+drop"
+            },
+            {
+              "label": "Hair Dryer",
+              "url": "https://www.google.com/search?q=Hair+Dryer+price+drop"
+            },
+            {
+              "label": "Hair Serum",
+              "url": "https://www.google.com/search?q=Hair+Serum+price+drop"
+            },
+            {
+              "label": "Hair Straightener",
+              "url": "https://www.google.com/search?q=Hair+Straightener+price+drop"
+            },
+            {
+              "label": "Hairspray",
+              "url": "https://www.google.com/search?q=Hairspray+price+drop"
+            },
+            {
+              "label": "Curling Iron",
+              "url": "https://www.google.com/search?q=Curling+Iron+price+drop"
+            },
+            {
+              "label": "Hair Dryer Brush",
+              "url": "https://www.google.com/search?q=Hair+Dryer+Brush+price+drop"
+            },
+            {
+              "label": "Hair, Skin, And Nails Vitamins",
+              "url": "https://www.google.com/search?q=Hair%2C+Skin%2C+And+Nails+Vitamins+price+drop"
+            },
+            {
+              "label": "Claw Clips",
+              "url": "https://www.google.com/search?q=Claw+Clips+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Apparel",
+          "urls": [
+            {
+              "label": "Women's Running Shoes",
+              "url": "https://www.google.com/search?q=Women%27s+Running+Shoes+price+drop"
+            },
+            {
+              "label": "Women's Athletic Shorts",
+              "url": "https://www.google.com/search?q=Women%27s+Athletic+Shorts+price+drop"
+            },
+            {
+              "label": "Women's Jacket",
+              "url": "https://www.google.com/search?q=Women%27s+Jacket+price+drop"
+            },
+            {
+              "label": "Women's Sweatshirt",
+              "url": "https://www.google.com/search?q=Women%27s+Sweatshirt+price+drop"
+            },
+            {
+              "label": "Women's Hoodie",
+              "url": "https://www.google.com/search?q=Women%27s+Hoodie+price+drop"
+            },
+            {
+              "label": "Women's Athletic Shirt",
+              "url": "https://www.google.com/search?q=Women%27s+Athletic+Shirt+price+drop"
+            },
+            {
+              "label": "Women's Leggings",
+              "url": "https://www.google.com/search?q=Women%27s+Leggings+price+drop"
+            },
+            {
+              "label": "Women's Hiking Shoes",
+              "url": "https://www.google.com/search?q=Women%27s+Hiking+Shoes+price+drop"
+            },
+            {
+              "label": "Women's Boots",
+              "url": "https://www.google.com/search?q=Women%27s+Boots+price+drop"
+            },
+            {
+              "label": "Women's Shoes",
+              "url": "https://www.google.com/search?q=Women%27s+Shoes+price+drop"
+            },
+            {
+              "label": "Women's Pullover",
+              "url": "https://www.google.com/search?q=Women%27s+Pullover+price+drop"
+            },
+            {
+              "label": "Women's Parka",
+              "url": "https://www.google.com/search?q=Women%27s+Parka+price+drop"
+            },
+            {
+              "label": "Women's Sweatpants",
+              "url": "https://www.google.com/search?q=Women%27s+Sweatpants+price+drop"
+            },
+            {
+              "label": "Women's Shirt",
+              "url": "https://www.google.com/search?q=Women%27s+Shirt+price+drop"
+            },
+            {
+              "label": "Women's Pants",
+              "url": "https://www.google.com/search?q=Women%27s+Pants+price+drop"
+            },
+            {
+              "label": "Women's Skirt",
+              "url": "https://www.google.com/search?q=Women%27s+Skirt+price+drop"
+            },
+            {
+              "label": "Women's Dress",
+              "url": "https://www.google.com/search?q=Women%27s+Dress+price+drop"
+            },
+            {
+              "label": "Women's Jeans",
+              "url": "https://www.google.com/search?q=Women%27s+Jeans+price+drop"
+            },
+            {
+              "label": "Women's Socks",
+              "url": "https://www.google.com/search?q=Women%27s+Socks+price+drop"
+            },
+            {
+              "label": "Women's Walking Shoes",
+              "url": "https://www.google.com/search?q=Women%27s+Walking+Shoes+price+drop"
+            },
+            {
+              "label": "Sports Bra",
+              "url": "https://www.google.com/search?q=Sports+Bra+price+drop"
+            },
+            {
+              "label": "Women's Sunglasses",
+              "url": "https://www.google.com/search?q=Women%27s+Sunglasses+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Electronics",
+          "urls": [
+            {
+              "label": "Fitness Tracker",
+              "url": "https://www.google.com/search?q=Fitness+Tracker+price+drop"
+            },
+            {
+              "label": "Video Doorbell",
+              "url": "https://www.google.com/search?q=Video+Doorbell+price+drop"
+            },
+            {
+              "label": "Security Camera",
+              "url": "https://www.google.com/search?q=Security+Camera+price+drop"
+            },
+            {
+              "label": "Smart Lock",
+              "url": "https://www.google.com/search?q=Smart+Lock+price+drop"
+            },
+            {
+              "label": "Smart Sensor",
+              "url": "https://www.google.com/search?q=Smart+Sensor+price+drop"
+            },
+            {
+              "label": "Unlocked Samsung Phone",
+              "url": "https://www.google.com/search?q=Unlocked+Samsung+Phone+price+drop"
+            },
+            {
+              "label": "Unlocked Google Phone",
+              "url": "https://www.google.com/search?q=Unlocked+Google+Phone+price+drop"
+            },
+            {
+              "label": "Unlocked iPhone",
+              "url": "https://www.google.com/search?q=Unlocked+iPhone+price+drop"
+            },
+            {
+              "label": "Bluetooth Headphones",
+              "url": "https://www.google.com/search?q=Bluetooth+Headphones+price+drop"
+            },
+            {
+              "label": "Over-Ear Headphones",
+              "url": "https://www.google.com/search?q=Over-Ear+Headphones+price+drop"
+            },
+            {
+              "label": "Bluetooth Earbuds",
+              "url": "https://www.google.com/search?q=Bluetooth+Earbuds+price+drop"
+            },
+            {
+              "label": "Tablet",
+              "url": "https://www.google.com/search?q=Tablet+price+drop"
+            },
+            {
+              "label": "E-Reader",
+              "url": "https://www.google.com/search?q=E-Reader+price+drop"
+            },
+            {
+              "label": "Bluetooth Speaker",
+              "url": "https://www.google.com/search?q=Bluetooth+Speaker+price+drop"
+            },
+            {
+              "label": "Noise Machine",
+              "url": "https://www.google.com/search?q=Noise+Machine+price+drop"
+            },
+            {
+              "label": "2-In-1 Laptop",
+              "url": "https://www.google.com/search?q=2-In-1+Laptop+price+drop"
+            },
+            {
+              "label": "2-In-1 Tablet",
+              "url": "https://www.google.com/search?q=2-In-1+Tablet+price+drop"
+            },
+            {
+              "label": "Wireless Mouse",
+              "url": "https://www.google.com/search?q=Wireless+Mouse+price+drop"
+            },
+            {
+              "label": "Wireless Keyboard",
+              "url": "https://www.google.com/search?q=Wireless+Keyboard+price+drop"
+            },
+            {
+              "label": "Chromebook",
+              "url": "https://www.google.com/search?q=Chromebook+price+drop"
+            },
+            {
+              "label": "USB Charger",
+              "url": "https://www.google.com/search?q=USB+Charger+price+drop"
+            },
+            {
+              "label": "Charging Cable",
+              "url": "https://www.google.com/search?q=Charging+Cable+price+drop"
+            },
+            {
+              "label": "Portable Power Bank",
+              "url": "https://www.google.com/search?q=Portable+Power+Bank+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Fitness",
+          "urls": [
+            {
+              "label": "Adjustable Dumbbells",
+              "url": "https://www.google.com/search?q=Adjustable+Dumbbells+price+drop"
+            },
+            {
+              "label": "Exercise Bike",
+              "url": "https://www.google.com/search?q=Exercise+Bike+price+drop"
+            },
+            {
+              "label": "Treadmill",
+              "url": "https://www.google.com/search?q=Treadmill+price+drop"
+            },
+            {
+              "label": "Resistance Band",
+              "url": "https://www.google.com/search?q=Resistance+Band+price+drop"
+            },
+            {
+              "label": "Yoga Mat",
+              "url": "https://www.google.com/search?q=Yoga+Mat+price+drop"
+            },
+            {
+              "label": "Yoga Block",
+              "url": "https://www.google.com/search?q=Yoga+Block+price+drop"
+            },
+            {
+              "label": "Exercise Mat",
+              "url": "https://www.google.com/search?q=Exercise+Mat+price+drop"
+            },
+            {
+              "label": "Dumbbell Set",
+              "url": "https://www.google.com/search?q=Dumbbell+Set+price+drop"
+            },
+            {
+              "label": "Kettlebell",
+              "url": "https://www.google.com/search?q=Kettlebell+price+drop"
+            },
+            {
+              "label": "Rowing Machine",
+              "url": "https://www.google.com/search?q=Rowing+Machine+price+drop"
+            },
+            {
+              "label": "Weight Bench",
+              "url": "https://www.google.com/search?q=Weight+Bench+price+drop"
+            },
+            {
+              "label": "Jump Rope",
+              "url": "https://www.google.com/search?q=Jump+Rope+price+drop"
+            },
+            {
+              "label": "E-Roller",
+              "url": "https://www.google.com/search?q=E-Roller+price+drop"
+            },
+            {
+              "label": "Pilates Ball",
+              "url": "https://www.google.com/search?q=Pilates+Ball+price+drop"
+            },
+            {
+              "label": "Medicine Ball",
+              "url": "https://www.google.com/search?q=Medicine+Ball+price+drop"
+            },
+            {
+              "label": "Foam Roller",
+              "url": "https://www.google.com/search?q=Foam+Roller+price+drop"
+            },
+            {
+              "label": "Stability Balls",
+              "url": "https://www.google.com/search?q=Stability+Balls+price+drop"
+            },
+            {
+              "label": "Slider Discs",
+              "url": "https://www.google.com/search?q=Slider+Discs+price+drop"
+            },
+            {
+              "label": "Ankle Weights",
+              "url": "https://www.google.com/search?q=Ankle+Weights+price+drop"
+            },
+            {
+              "label": "Weighted Vest",
+              "url": "https://www.google.com/search?q=Weighted+Vest+price+drop"
+            },
+            {
+              "label": "Pilates Bar",
+              "url": "https://www.google.com/search?q=Pilates+Bar+price+drop"
+            },
+            {
+              "label": "Stair Stepper",
+              "url": "https://www.google.com/search?q=Stair+Stepper+price+drop"
+            }
+          ]
+        }
+      ],
+      "brands": [],
+      "stores": []
+    },
+    "Veteran's Day": {
+      "active": true,
+      "categories": [
+        {
+          "name": "Electronics",
+          "urls": [
+            {
+              "label": "Smart Watch",
+              "url": "https://www.google.com/search?q=Smart+Watch+price+drop"
+            },
+            {
+              "label": "Garmin Watch",
+              "url": "https://www.google.com/search?q=Garmin+Watch+price+drop"
+            },
+            {
+              "label": "Headphones",
+              "url": "https://www.google.com/search?q=Headphones+price+drop"
+            },
+            {
+              "label": "Portable Power Station",
+              "url": "https://www.google.com/search?q=Portable+Power+Station+price+drop"
+            },
+            {
+              "label": "Bluetooth Speaker",
+              "url": "https://www.google.com/search?q=Bluetooth+Speaker+price+drop"
+            },
+            {
+              "label": "Fitness Tracker",
+              "url": "https://www.google.com/search?q=Fitness+Tracker+price+drop"
+            },
+            {
+              "label": "Gaming Monitor",
+              "url": "https://www.google.com/search?q=Gaming+Monitor+price+drop"
+            },
+            {
+              "label": "Curved Monitor",
+              "url": "https://www.google.com/search?q=Curved+Monitor+price+drop"
+            },
+            {
+              "label": "Gaming Laptop",
+              "url": "https://www.google.com/search?q=Gaming+Laptop+price+drop"
+            },
+            {
+              "label": "2-In-1 Laptop",
+              "url": "https://www.google.com/search?q=2-In-1+Laptop+price+drop"
+            },
+            {
+              "label": "Gaming Desktop",
+              "url": "https://www.google.com/search?q=Gaming+Desktop+price+drop"
+            },
+            {
+              "label": "4K TV",
+              "url": "https://www.google.com/search?q=4K+TV+price+drop"
+            },
+            {
+              "label": "65\" TV",
+              "url": "https://www.google.com/search?q=65%22+TV+price+drop"
+            },
+            {
+              "label": "75\" TV",
+              "url": "https://www.google.com/search?q=75%22+TV+price+drop"
+            },
+            {
+              "label": "Soundbar",
+              "url": "https://www.google.com/search?q=Soundbar+price+drop"
+            },
+            {
+              "label": "Bookshelf Speakers",
+              "url": "https://www.google.com/search?q=Bookshelf+Speakers+price+drop"
+            },
+            {
+              "label": "Over-Ear Headphones",
+              "url": "https://www.google.com/search?q=Over-Ear+Headphones+price+drop"
+            },
+            {
+              "label": "Bluetooth Earbuds",
+              "url": "https://www.google.com/search?q=Bluetooth+Earbuds+price+drop"
+            },
+            {
+              "label": "Wireless Mouse",
+              "url": "https://www.google.com/search?q=Wireless+Mouse+price+drop"
+            },
+            {
+              "label": "Gaming Mouse",
+              "url": "https://www.google.com/search?q=Gaming+Mouse+price+drop"
+            },
+            {
+              "label": "Portable Power Bank",
+              "url": "https://www.google.com/search?q=Portable+Power+Bank+price+drop"
+            },
+            {
+              "label": "QLED TV",
+              "url": "https://www.google.com/search?q=QLED+TV+price+drop"
+            },
+            {
+              "label": "Chromebook",
+              "url": "https://www.google.com/search?q=Chromebook+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Sporting Goods",
+          "urls": [
+            {
+              "label": "Knives",
+              "url": "https://www.google.com/search?q=Knives+price+drop"
+            },
+            {
+              "label": "Camping",
+              "url": "https://www.google.com/search?q=Camping+price+drop"
+            },
+            {
+              "label": "Weight Plate",
+              "url": "https://www.google.com/search?q=Weight+Plate+price+drop"
+            },
+            {
+              "label": "Men's Bike",
+              "url": "https://www.google.com/search?q=Men%27s+Bike+price+drop"
+            },
+            {
+              "label": "Men's E-Bike",
+              "url": "https://www.google.com/search?q=Men%27s+E-Bike+price+drop"
+            },
+            {
+              "label": "Backpacking Tent",
+              "url": "https://www.google.com/search?q=Backpacking+Tent+price+drop"
+            },
+            {
+              "label": "Instant Tent",
+              "url": "https://www.google.com/search?q=Instant+Tent+price+drop"
+            },
+            {
+              "label": "Sleeping Bag",
+              "url": "https://www.google.com/search?q=Sleeping+Bag+price+drop"
+            },
+            {
+              "label": "Hiking Pack",
+              "url": "https://www.google.com/search?q=Hiking+Pack+price+drop"
+            },
+            {
+              "label": "Pocket Knife",
+              "url": "https://www.google.com/search?q=Pocket+Knife+price+drop"
+            },
+            {
+              "label": "Tactical Knife",
+              "url": "https://www.google.com/search?q=Tactical+Knife+price+drop"
+            },
+            {
+              "label": "Multi-Tool Knife",
+              "url": "https://www.google.com/search?q=Multi-Tool+Knife+price+drop"
+            },
+            {
+              "label": "Weight Bar",
+              "url": "https://www.google.com/search?q=Weight+Bar+price+drop"
+            },
+            {
+              "label": "Folding Knife",
+              "url": "https://www.google.com/search?q=Folding+Knife+price+drop"
+            },
+            {
+              "label": "Weight Bench",
+              "url": "https://www.google.com/search?q=Weight+Bench+price+drop"
+            },
+            {
+              "label": "Fishing Pole",
+              "url": "https://www.google.com/search?q=Fishing+Pole+price+drop"
+            },
+            {
+              "label": "Spinning Combo",
+              "url": "https://www.google.com/search?q=Spinning+Combo+price+drop"
+            },
+            {
+              "label": "Tackle Box",
+              "url": "https://www.google.com/search?q=Tackle+Box+price+drop"
+            },
+            {
+              "label": "Fishing Line",
+              "url": "https://www.google.com/search?q=Fishing+Line+price+drop"
+            },
+            {
+              "label": "Kettlebell",
+              "url": "https://www.google.com/search?q=Kettlebell+price+drop"
+            },
+            {
+              "label": "Golf Club",
+              "url": "https://www.google.com/search?q=Golf+Club+price+drop"
+            },
+            {
+              "label": "Golf Balls",
+              "url": "https://www.google.com/search?q=Golf+Balls+price+drop"
+            },
+            {
+              "label": "Dumbbell Set",
+              "url": "https://www.google.com/search?q=Dumbbell+Set+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Apparel & Bags",
+          "urls": [
+            {
+              "label": "Tactical Bag",
+              "url": "https://www.google.com/search?q=Tactical+Bag+price+drop"
+            },
+            {
+              "label": "Men's Boots",
+              "url": "https://www.google.com/search?q=Men%27s+Boots+price+drop"
+            },
+            {
+              "label": "Men's Jacket",
+              "url": "https://www.google.com/search?q=Men%27s+Jacket+price+drop"
+            },
+            {
+              "label": "Men's Jeans",
+              "url": "https://www.google.com/search?q=Men%27s+Jeans+price+drop"
+            },
+            {
+              "label": "Men's Cargo Pants",
+              "url": "https://www.google.com/search?q=Men%27s+Cargo+Pants+price+drop"
+            },
+            {
+              "label": "Men's Sweatpants",
+              "url": "https://www.google.com/search?q=Men%27s+Sweatpants+price+drop"
+            },
+            {
+              "label": "Men's Sweatshirt",
+              "url": "https://www.google.com/search?q=Men%27s+Sweatshirt+price+drop"
+            },
+            {
+              "label": "Men's Hoodie",
+              "url": "https://www.google.com/search?q=Men%27s+Hoodie+price+drop"
+            },
+            {
+              "label": "Men's Running Shoes",
+              "url": "https://www.google.com/search?q=Men%27s+Running+Shoes+price+drop"
+            },
+            {
+              "label": "Men's Hiking Shoes",
+              "url": "https://www.google.com/search?q=Men%27s+Hiking+Shoes+price+drop"
+            },
+            {
+              "label": "Men's Boxer Briefs",
+              "url": "https://www.google.com/search?q=Men%27s+Boxer+Briefs+price+drop"
+            },
+            {
+              "label": "Duffel Bag",
+              "url": "https://www.google.com/search?q=Duffel+Bag+price+drop"
+            },
+            {
+              "label": "Men's Active Shorts",
+              "url": "https://www.google.com/search?q=Men%27s+Active+Shorts+price+drop"
+            },
+            {
+              "label": "Men's Polo Shirt",
+              "url": "https://www.google.com/search?q=Men%27s+Polo+Shirt+price+drop"
+            },
+            {
+              "label": "Men's Base Layer",
+              "url": "https://www.google.com/search?q=Men%27s+Base+Layer+price+drop"
+            },
+            {
+              "label": "Men's Pullover",
+              "url": "https://www.google.com/search?q=Men%27s+Pullover+price+drop"
+            },
+            {
+              "label": "Men's Parka",
+              "url": "https://www.google.com/search?q=Men%27s+Parka+price+drop"
+            },
+            {
+              "label": "Men's Sweater",
+              "url": "https://www.google.com/search?q=Men%27s+Sweater+price+drop"
+            },
+            {
+              "label": "Men's Sunglasses",
+              "url": "https://www.google.com/search?q=Men%27s+Sunglasses+price+drop"
+            },
+            {
+              "label": "Men's Socks",
+              "url": "https://www.google.com/search?q=Men%27s+Socks+price+drop"
+            },
+            {
+              "label": "Men's Belt",
+              "url": "https://www.google.com/search?q=Men%27s+Belt+price+drop"
+            },
+            {
+              "label": "Men's Hat",
+              "url": "https://www.google.com/search?q=Men%27s+Hat+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Home Improvement",
+          "urls": [
+            {
+              "label": "Tool Set",
+              "url": "https://www.google.com/search?q=Tool+Set+price+drop"
+            },
+            {
+              "label": "Tool Organizer",
+              "url": "https://www.google.com/search?q=Tool+Organizer+price+drop"
+            },
+            {
+              "label": "Extension Cord",
+              "url": "https://www.google.com/search?q=Extension+Cord+price+drop"
+            },
+            {
+              "label": "Flashlight",
+              "url": "https://www.google.com/search?q=Flashlight+price+drop"
+            },
+            {
+              "label": "Screwdriver Set",
+              "url": "https://www.google.com/search?q=Screwdriver+Set+price+drop"
+            },
+            {
+              "label": "Garage Storage",
+              "url": "https://www.google.com/search?q=Garage+Storage+price+drop"
+            },
+            {
+              "label": "Bit Set",
+              "url": "https://www.google.com/search?q=Bit+Set+price+drop"
+            },
+            {
+              "label": "Laser Level",
+              "url": "https://www.google.com/search?q=Laser+Level+price+drop"
+            },
+            {
+              "label": "Chainsaw",
+              "url": "https://www.google.com/search?q=Chainsaw+price+drop"
+            },
+            {
+              "label": "Leaf Blower",
+              "url": "https://www.google.com/search?q=Leaf+Blower+price+drop"
+            },
+            {
+              "label": "String Trimmer",
+              "url": "https://www.google.com/search?q=String+Trimmer+price+drop"
+            },
+            {
+              "label": "Tool Combo Kit",
+              "url": "https://www.google.com/search?q=Tool+Combo+Kit+price+drop"
+            },
+            {
+              "label": "Power Drill",
+              "url": "https://www.google.com/search?q=Power+Drill+price+drop"
+            },
+            {
+              "label": "Cordless Blower",
+              "url": "https://www.google.com/search?q=Cordless+Blower+price+drop"
+            },
+            {
+              "label": "Ladder",
+              "url": "https://www.google.com/search?q=Ladder+price+drop"
+            },
+            {
+              "label": "Wrench Set",
+              "url": "https://www.google.com/search?q=Wrench+Set+price+drop"
+            },
+            {
+              "label": "Pressure Washer",
+              "url": "https://www.google.com/search?q=Pressure+Washer+price+drop"
+            },
+            {
+              "label": "Shop Vacuum",
+              "url": "https://www.google.com/search?q=Shop+Vacuum+price+drop"
+            },
+            {
+              "label": "Floor Jack",
+              "url": "https://www.google.com/search?q=Floor+Jack+price+drop"
+            },
+            {
+              "label": "Pole Saw",
+              "url": "https://www.google.com/search?q=Pole+Saw+price+drop"
+            },
+            {
+              "label": "Work Gloves",
+              "url": "https://www.google.com/search?q=Work+Gloves+price+drop"
+            },
+            {
+              "label": "Rotary Tool",
+              "url": "https://www.google.com/search?q=Rotary+Tool+price+drop"
+            }
+          ]
+        }
+      ],
+      "brands": [],
+      "stores": []
     }
   }
 }
