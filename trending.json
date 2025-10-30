@@ -222,10 +222,10 @@
     {
       "name": "Cell Phone Plans",
       "urls": [
-        { "label": "Metro", "url": "PLACEHOLDER" },
-        { "label": "T-Mobile", "url": "PLACEHOLDER" },
-        { "label": "TracFone", "url": "PLACEHOLDER" },
-        { "label": "Lyca Mobile", "url": "PLACEHOLDER" }
+        { "label": "Metro", "url": "https://www.metrobyt-mobile.com/deals?INTNAV=tNav%3ADeals" },
+        { "label": "T-Mobile", "url": "https://share.google/aimode/WOHjKi53GgPD8tlFj" },
+        { "label": "TracFone", "url": "https://share.google/aimode/w7zpaPvE66HzuGw8M" },
+        { "label": "Lyca Mobile", "url": "https://www.lycamobile.us/en/" }
       ]
     },
     {
