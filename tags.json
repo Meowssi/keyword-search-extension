@@ -3,7 +3,7 @@
   { "label": "Deal Sweep Extension",  "tag": "DHSWEEEP" },
   { "label": "Trending Brand Demand",  "tag": "DHDS" },
   { "label": "ByAmazon",  "tag": "ByAmazon" },
+  { "label": "ByWalmart",  "tag": "ByWalmart" },
   { "label": "50Amazon",  "tag": "50Amazon" },
   { "label": "ACC",  "tag": "ACC" },
-  { "label": "TEST",  "tag": "test" }
 ]
