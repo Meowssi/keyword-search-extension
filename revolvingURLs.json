@@ -9419,7 +9419,7 @@
       "brands": [],
       "stores": [
         {
-          "name": "Black Friday Landing Pages",
+          "name": "Site Landing Pages",
           "urls": [
             {
               "label": "TheBlackFriday",
@@ -9456,6 +9456,26 @@
             {
               "label": "DealSea",
               "url": "https://dealsea.com/search?q=black+friday&search_mode=Deals"
+            },
+            {
+              "label": "eDealinfo",
+              "url": "https://www.edealinfo.com/events/black-friday/"
+            },
+            {
+              "label": "GottaDeal",
+              "url": "https://gottadeal.com/black-friday"
+            },
+            {
+              "label": "Hip2Save",
+              "url": "https://hip2save.com/sales-deals/black-friday/"
+            },
+            {
+              "label": "KrazyCouponLady",
+              "url": "https://thekrazycouponlady.com/black-friday-deals"
+            },
+            {
+              "label": "Tech Bargains",
+              "url": "https://www.techbargains.com/sales/black-friday-deals"
             }
           ]
         }
