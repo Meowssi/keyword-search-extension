@@ -9419,11 +9419,43 @@
       "brands": [],
       "stores": [
         {
-          "name": "TheBlackFriday",
+          "name": "Black Friday Landing Pages",
           "urls": [
             {
               "label": "TheBlackFriday",
               "url": "https://www.theblackfriday.com/"
+            },
+            {
+              "label": "BlackFriday",
+              "url": "https://blackfriday.com/"
+            },
+            {
+              "label": "BeFrugal",
+              "url": "https://www.befrugal.com/coupons/search/black%20friday/deals/"
+            },
+            {
+              "label": "Ben's Bargains",
+              "url": "https://bensbargains.com/search/black+friday/?savesearch=1"
+            },
+            {
+              "label": "Brad's Deals",
+              "url": "https://www.bradsdeals.com/black-friday"
+            },
+            {
+              "label": "Dan's Deals",
+              "url": "https://www.dansdeals.com/?s=black+friday"
+            },
+            {
+              "label": "Dealmoon",
+              "url": "https://www.dealmoon.com/en/black-friday-category"
+            },
+            {
+              "label": "DealNews",
+              "url": "https://www.dealnews.com/f1676/Black-Friday/?sort=time"
+            },
+            {
+              "label": "DealSea",
+              "url": "https://dealsea.com/search?q=black+friday&search_mode=Deals"
             }
           ]
         }
