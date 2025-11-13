@@ -9419,8 +9419,13 @@
       "brands": [],
       "stores": [
         {
-          "label": "TheBlackFriday",
-          "url": "https://www.theblackfriday.com/"
+          "name": "TheBlackFriday",
+          "urls": [
+            {
+              "label": "TheBlackFriday",
+              "url": "https://www.theblackfriday.com/"
+            }
+          ]
         }
       ]
     }
