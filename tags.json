@@ -4,6 +4,6 @@
   { "label": "Trending Brand Demand",  "tag": "DHDS" },
   { "label": "ByAmazon",  "tag": "ByAmazon" },
   { "label": "50Amazon",  "tag": "50Amazon" },
-  { "label": "ACC",  "tag": "ACC" }
+  { "label": "ACC",  "tag": "ACC" },
   { "label": "TEST",  "tag": "test" }
 ]
