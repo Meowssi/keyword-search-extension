@@ -9412,6 +9412,17 @@
       ],
       "brands": [],
       "stores": []
+    },
+    "Black Friday / Cyber Monday": {
+      "active": true,
+      "categories": [],
+      "brands": [],
+      "stores": [
+        {
+          "label": "TheBlackFriday",
+          "url": "https://www.theblackfriday.com/"
+        }
+      ]
     }
   }
 }
