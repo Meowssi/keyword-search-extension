@@ -8330,7 +8330,7 @@
       "stores": []
     },
     "Halloween": {
-      "active": true,
+      "active": false,
       "categories": [
         {
           "name": "Halloween Store Pages",
@@ -8640,7 +8640,7 @@
       "stores": []
     },
     "Single's Day": {
-      "active": true,
+      "active": false,
       "categories": [
         {
           "name": "Beauty",
@@ -9027,7 +9027,7 @@
       "stores": []
     },
     "Veteran's Day": {
-      "active": true,
+      "active": false,
       "categories": [
         {
           "name": "Electronics",
