@@ -1,9 +1,162 @@
 {
-  "week": 48,
+  "week": 49,
   "trending": [
     {
-      "name": "Computers",
+      "name": "3D Printers",
       "urls": [
+        {
+          "label": "3D Printer",
+          "url": "https://www.google.com/search?q=3D+Printer+price+drop"
+        },
+        {
+          "label": "Resin 3D Printer",
+          "url": "https://www.google.com/search?q=Resin+3D+Printer+price+drop"
+        },
+        {
+          "label": "FDM 3D Printer",
+          "url": "https://www.google.com/search?q=FDM+3D+Printer+price+drop"
+        },
+        {
+          "label": "Beginner 3D Printer",
+          "url": "https://www.google.com/search?q=Beginner+3D+Printer+price+drop"
+        },
+        {
+          "label": "Creality 3D Printer",
+          "url": "https://www.google.com/search?q=Creality+3D+Printer+price+drop"
+        },
+        {
+          "label": "Ender 3D Printer",
+          "url": "https://www.google.com/search?q=Ender+3D+Printer+price+drop"
+        },
+        {
+          "label": "Prusa 3D Printer",
+          "url": "https://www.google.com/search?q=Prusa+3D+Printer+price+drop"
+        },
+        {
+          "label": "Anycubic 3D Printer",
+          "url": "https://www.google.com/search?q=Anycubic+3D+Printer+price+drop"
+        },
+        {
+          "label": "Elegoo 3D Printer",
+          "url": "https://www.google.com/search?q=Elegoo+3D+Printer+price+drop"
+        },
+        {
+          "label": "Flashforge 3D Printer",
+          "url": "https://www.google.com/search?q=Flashforge+3D+Printer+price+drop"
+        },
+        {
+          "label": "Monoprice 3D Printer",
+          "url": "https://www.google.com/search?q=Monoprice+3D+Printer+price+drop"
+        },
+        {
+          "label": "Artillery 3D Printer",
+          "url": "https://www.google.com/search?q=Artillery+3D+Printer+price+drop"
+        },
+        {
+          "label": "Snapmaker 3D Printer",
+          "url": "https://www.google.com/search?q=Snapmaker+3D+Printer+price+drop"
+        },
+        {
+          "label": "Bambu 3D Printer",
+          "url": "https://www.google.com/search?q=Bambu+3D+Printer+price+drop"
+        },
+        {
+          "label": "Bambu P1P",
+          "url": "https://www.google.com/search?q=Bambu+P1P+price+drop"
+        },
+        {
+          "label": "Bambu P1S",
+          "url": "https://www.google.com/search?q=Bambu+P1S+price+drop"
+        },
+        {
+          "label": "Bambu X1C",
+          "url": "https://www.google.com/search?q=Bambu+X1C+price+drop"
+        },
+        {
+          "label": "Bambu A1",
+          "url": "https://www.google.com/search?q=Bambu+A1+price+drop"
+        },
+        {
+          "label": "Bambu A1 Mini",
+          "url": "https://www.google.com/search?q=Bambu+A1+Mini+price+drop"
+        },
+        {
+          "label": "3D Printer Filament",
+          "url": "https://www.google.com/search?q=3D+Printer+Filament+price+drop"
+        },
+        {
+          "label": "PLA Filament",
+          "url": "https://www.google.com/search?q=PLA+Filament+price+drop"
+        },
+        {
+          "label": "ABS Filament",
+          "url": "https://www.google.com/search?q=ABS+Filament+price+drop"
+        },
+        {
+          "label": "PETG Filament",
+          "url": "https://www.google.com/search?q=PETG+Filament+price+drop"
+        }
+      ]
+    },
+    {
+      "name": "Computer",
+      "urls": [
+        {
+          "label": "Gaming PC",
+          "url": "https://www.google.com/search?q=Gaming+PC+price+drop"
+        },
+        {
+          "label": "All-In-One PC",
+          "url": "https://www.google.com/search?q=All-In-One+PC+price+drop"
+        },
+        {
+          "label": "Prebuilt PC",
+          "url": "https://www.google.com/search?q=Prebuilt+PC+price+drop"
+        },
+        {
+          "label": "Desktop PC",
+          "url": "https://www.google.com/search?q=Desktop+PC+price+drop"
+        },
+        {
+          "label": "Desktop Computer",
+          "url": "https://www.google.com/search?q=Desktop+Computer+price+drop"
+        },
+        {
+          "label": "Gaming Desktop",
+          "url": "https://www.google.com/search?q=Gaming+Desktop+price+drop"
+        },
+        {
+          "label": "Mac Mini",
+          "url": "https://www.google.com/search?q=Mac+Mini+price+drop"
+        },
+        {
+          "label": "Mini PC",
+          "url": "https://www.google.com/search?q=Mini+PC+price+drop"
+        },
+        {
+          "label": "Laptop",
+          "url": "https://www.google.com/search?q=Laptop+price+drop"
+        },
+        {
+          "label": "Gaming Laptop",
+          "url": "https://www.google.com/search?q=Gaming+Laptop+price+drop"
+        },
+        {
+          "label": "2 In 1 Laptop",
+          "url": "https://www.google.com/search?q=2+In+1+Laptop+price+drop"
+        },
+        {
+          "label": "Touchscreen Laptop",
+          "url": "https://www.google.com/search?q=Touchscreen+Laptop+price+drop"
+        },
+        {
+          "label": "I5 Laptop",
+          "url": "https://www.google.com/search?q=I5+Laptop+price+drop"
+        },
+        {
+          "label": "I7 Laptop",
+          "url": "https://www.google.com/search?q=I7+Laptop+price+drop"
+        },
         {
           "label": "Chromebook",
           "url": "https://www.google.com/search?q=Chromebook+price+drop"
@@ -29,527 +182,270 @@
           "url": "https://www.google.com/search?q=Lenovo+Chromebook+price+drop"
         },
         {
-          "label": "Laptop",
-          "url": "https://www.google.com/search?q=Laptop+price+drop"
+          "label": "Lenovo Laptop",
+          "url": "https://www.google.com/search?q=Lenovo+Laptop+price+drop"
         },
         {
-          "label": "Gaming Laptop",
-          "url": "https://www.google.com/search?q=Gaming+Laptop+price+drop"
+          "label": "Lenovo ThinkPad",
+          "url": "https://www.google.com/search?q=Lenovo+ThinkPad+price+drop"
         },
         {
-          "label": "2 In 1 Laptop",
-          "url": "https://www.google.com/search?q=2+In+1+Laptop+price+drop"
+          "label": "Lenovo IdeaPad",
+          "url": "https://www.google.com/search?q=Lenovo+IdeaPad+price+drop"
         },
         {
-          "label": "Touchscreen Laptop",
-          "url": "https://www.google.com/search?q=Touchscreen+Laptop+price+drop"
+          "label": "Lenovo Yoga",
+          "url": "https://www.google.com/search?q=Lenovo+Yoga+price+drop"
         },
         {
-          "label": "i5 Laptop",
-          "url": "https://www.google.com/search?q=i5+Laptop+price+drop"
+          "label": "Lenovo Legion",
+          "url": "https://www.google.com/search?q=Lenovo+Legion+price+drop"
         },
         {
-          "label": "i7 Laptop",
-          "url": "https://www.google.com/search?q=i7+Laptop+price+drop"
+          "label": "ASUS Laptop",
+          "url": "https://www.google.com/search?q=ASUS+Laptop+price+drop"
         },
         {
-          "label": "Ryzen 7 Laptop",
-          "url": "https://www.google.com/search?q=Ryzen+7+Laptop+price+drop"
+          "label": "ASUS ROG",
+          "url": "https://www.google.com/search?q=ASUS+ROG+price+drop"
         },
         {
-          "label": "Ryzen 5 Laptop",
-          "url": "https://www.google.com/search?q=Ryzen+5+Laptop+price+drop"
+          "label": "ASUS TUF",
+          "url": "https://www.google.com/search?q=ASUS+TUF+price+drop"
         },
         {
-          "label": "Asus Laptop",
-          "url": "https://www.google.com/search?q=Asus+Laptop+price+drop"
+          "label": "ASUS Zenbook",
+          "url": "https://www.google.com/search?q=ASUS+Zenbook+price+drop"
+        },
+        {
+          "label": "ASUS Vivobook",
+          "url": "https://www.google.com/search?q=ASUS+Vivobook+price+drop"
         },
         {
           "label": "Dell Laptop",
           "url": "https://www.google.com/search?q=Dell+Laptop+price+drop"
         },
         {
-          "label": "HP Laptop",
-          "url": "https://www.google.com/search?q=HP+Laptop+price+drop"
+          "label": "Dell Inspiron",
+          "url": "https://www.google.com/search?q=Dell+Inspiron+price+drop"
         },
         {
-          "label": "Lenovo Laptop",
-          "url": "https://www.google.com/search?q=Lenovo+Laptop+price+drop"
+          "label": "Dell Latitude",
+          "url": "https://www.google.com/search?q=Dell+Latitude+price+drop"
         },
         {
-          "label": "Acer Laptop",
-          "url": "https://www.google.com/search?q=Acer+Laptop+price+drop"
+          "label": "MacBook",
+          "url": "https://www.google.com/search?q=MacBook+price+drop"
         },
         {
-          "label": "MSI Gaming Laptop",
-          "url": "https://www.google.com/search?q=MSI+Gaming+Laptop+price+drop"
+          "label": "MacBook Pro",
+          "url": "https://www.google.com/search?q=MacBook+Pro+price+drop"
         },
         {
-          "label": "ASUS ROG Gaming Laptop",
-          "url": "https://www.google.com/search?q=ASUS+ROG+Gaming+Laptop+price+drop"
-        },
-        {
-          "label": "Razer Gaming Laptop",
-          "url": "https://www.google.com/search?q=Razer+Gaming+Laptop+price+drop"
-        },
-        {
-          "label": "Gigabyte Gaming Laptop",
-          "url": "https://www.google.com/search?q=Gigabyte+Gaming+Laptop+price+drop"
-        },
-        {
-          "label": "Alienware Gaming Laptop",
-          "url": "https://www.google.com/search?q=Alienware+Gaming+Laptop+price+drop"
-        },
-        {
-          "label": "HP Victus Gaming Laptop",
-          "url": "https://www.google.com/search?q=HP+Victus+Gaming+Laptop+price+drop"
-        },
-        {
-          "label": "HP Omen Gaming Laptop",
-          "url": "https://www.google.com/search?q=HP+Omen+Gaming+Laptop+price+drop"
-        },
-        {
-          "label": "Lenovo Legion Gaming Laptop",
-          "url": "https://www.google.com/search?q=Lenovo+Legion+Gaming+Laptop+price+drop"
-        },
-        {
-          "label": "Asus Tuf Gaming Laptop",
-          "url": "https://www.google.com/search?q=Asus+Tuf+Gaming+Laptop+price+drop"
-        },
-        {
-          "label": "Asus Zenbook",
-          "url": "https://www.google.com/search?q=Asus+Zenbook+price+drop"
-        },
-        {
-          "label": "Asus Vivobook",
-          "url": "https://www.google.com/search?q=Asus+Vivobook+price+drop"
-        },
-        {
-          "label": "Desktop Computer",
-          "url": "https://www.google.com/search?q=Desktop+Computer+price+drop"
-        },
-        {
-          "label": "Gaming Desktop",
-          "url": "https://www.google.com/search?q=Gaming+Desktop+price+drop"
-        },
-        {
-          "label": "All In One Desktop",
-          "url": "https://www.google.com/search?q=All+In+One+Desktop+price+drop"
-        },
-        {
-          "label": "Gaming PC",
-          "url": "https://www.google.com/search?q=Gaming+PC+price+drop"
-        },
-        {
-          "label": "Mac Mini",
-          "url": "https://www.google.com/search?q=Mac+Mini+price+drop"
-        },
-        {
-          "label": "Mini PC",
-          "url": "https://www.google.com/search?q=Mini+PC+price+drop"
+          "label": "MacBook Air",
+          "url": "https://www.google.com/search?q=MacBook+Air+price+drop"
         }
       ]
     },
     {
-      "name": "Computer Parts",
+      "name": "Tools",
       "urls": [
         {
-          "label": "Ryzen 7 Desktop",
-          "url": "https://www.google.com/search?q=Ryzen+7+Desktop+price+drop"
+          "label": "Skil Drill",
+          "url": "https://www.google.com/search?q=Skil+Drill+price+drop"
         },
         {
-          "label": "DDR5 RAM",
-          "url": "https://www.google.com/search?q=DDR5+RAM+price+drop"
+          "label": "Skil Impact Driver",
+          "url": "https://www.google.com/search?q=Skil+Impact+Driver+price+drop"
         },
         {
-          "label": "RTX 4090",
-          "url": "https://www.google.com/search?q=RTX+4090+price+drop"
+          "label": "Skil Saw",
+          "url": "https://www.google.com/search?q=Skil+Saw+price+drop"
         },
         {
-          "label": "RTX 4080",
-          "url": "https://www.google.com/search?q=RTX+4080+price+drop"
+          "label": "Skil Grinder",
+          "url": "https://www.google.com/search?q=Skil+Grinder+price+drop"
         },
         {
-          "label": "RTX 4080 SUPER",
-          "url": "https://www.google.com/search?q=RTX+4080+SUPER+price+drop"
+          "label": "Skil Battery",
+          "url": "https://www.google.com/search?q=Skil+Battery+price+drop"
         },
         {
-          "label": "RTX 4070 Ti",
-          "url": "https://www.google.com/search?q=RTX+4070+Ti+price+drop"
+          "label": "Skil Charger",
+          "url": "https://www.google.com/search?q=Skil+Charger+price+drop"
         },
         {
-          "label": "RTX 4070 Ti SUPER",
-          "url": "https://www.google.com/search?q=RTX+4070+Ti+SUPER+price+drop"
+          "label": "Skil Tool Set",
+          "url": "https://www.google.com/search?q=Skil+Tool+Set+price+drop"
         },
         {
-          "label": "RTX 4070",
-          "url": "https://www.google.com/search?q=RTX+4070+price+drop"
+          "label": "Skil Power Tool",
+          "url": "https://www.google.com/search?q=Skil+Power+Tool+price+drop"
         },
         {
-          "label": "RTX 4070 SUPER",
-          "url": "https://www.google.com/search?q=RTX+4070+SUPER+price+drop"
+          "label": "Skil Combo Kit",
+          "url": "https://www.google.com/search?q=Skil+Combo+Kit+price+drop"
         },
         {
-          "label": "RTX 4060",
-          "url": "https://www.google.com/search?q=RTX+4060+price+drop"
+          "label": "Skil Leaf Blower",
+          "url": "https://www.google.com/search?q=Skil+Leaf+Blower+price+drop"
         },
         {
-          "label": "RTX 4060 Ti",
-          "url": "https://www.google.com/search?q=RTX+4060+Ti+price+drop"
+          "label": "Skil String Trimmer",
+          "url": "https://www.google.com/search?q=Skil+String+Trimmer+price+drop"
         },
         {
-          "label": "RTX 4060 SUPER",
-          "url": "https://www.google.com/search?q=RTX+4060+SUPER+price+drop"
+          "label": "Ridgid Tool",
+          "url": "https://www.google.com/search?q=Ridgid+Tool+price+drop"
         },
         {
-          "label": "RTX 3050",
-          "url": "https://www.google.com/search?q=RTX+3050+price+drop"
+          "label": "Ridgid Drill",
+          "url": "https://www.google.com/search?q=Ridgid+Drill+price+drop"
         },
         {
-          "label": "RTX 3060",
-          "url": "https://www.google.com/search?q=RTX+3060+price+drop"
+          "label": "Ridgid Driver",
+          "url": "https://www.google.com/search?q=Ridgid+Driver+price+drop"
         },
         {
-          "label": "RTX 3070",
-          "url": "https://www.google.com/search?q=RTX+3070+price+drop"
+          "label": "Ridgid Saw",
+          "url": "https://www.google.com/search?q=Ridgid+Saw+price+drop"
         },
         {
-          "label": "RTX 3080",
-          "url": "https://www.google.com/search?q=RTX+3080+price+drop"
+          "label": "Ridgid Vac",
+          "url": "https://www.google.com/search?q=Ridgid+Vac+price+drop"
         },
         {
-          "label": "RTX 3090",
-          "url": "https://www.google.com/search?q=RTX+3090+price+drop"
+          "label": "Ladder",
+          "url": "https://www.google.com/search?q=Ladder+price+drop"
         },
         {
-          "label": "RX 7700 XT",
-          "url": "https://www.google.com/search?q=RX+7700+XT+price+drop"
+          "label": "Step Ladder",
+          "url": "https://www.google.com/search?q=Step+Ladder+price+drop"
         },
         {
-          "label": "RX 7800 XT",
-          "url": "https://www.google.com/search?q=RX+7800+XT+price+drop"
+          "label": "Telescoping Ladder",
+          "url": "https://www.google.com/search?q=Telescoping+Ladder+price+drop"
         },
         {
-          "label": "RX 7900 XT",
-          "url": "https://www.google.com/search?q=RX+7900+XT+price+drop"
+          "label": "Fiberglass Ladder",
+          "url": "https://www.google.com/search?q=Fiberglass+Ladder+price+drop"
         },
         {
-          "label": "RX 7900 XTX",
-          "url": "https://www.google.com/search?q=RX+7900+XTX+price+drop"
+          "label": "Aluminum Ladder",
+          "url": "https://www.google.com/search?q=Aluminum+Ladder+price+drop"
         },
         {
-          "label": "Intel i7 Desktop",
-          "url": "https://www.google.com/search?q=Intel+i7+Desktop+price+drop"
+          "label": "Milwaukee Tool",
+          "url": "https://www.google.com/search?q=Milwaukee+Tool+price+drop"
         },
         {
-          "label": "Intel i9 Desktop",
-          "url": "https://www.google.com/search?q=Intel+i9+Desktop+price+drop"
+          "label": "Milwaukee M12",
+          "url": "https://www.google.com/search?q=Milwaukee+M12+price+drop"
         },
         {
-          "label": "Ryzen 5 Desktop",
-          "url": "https://www.google.com/search?q=Ryzen+5+Desktop+price+drop"
+          "label": "Milwaukee M18",
+          "url": "https://www.google.com/search?q=Milwaukee+M18+price+drop"
         },
         {
-          "label": "Ryzen 9 Desktop",
-          "url": "https://www.google.com/search?q=Ryzen+9+Desktop+price+drop"
+          "label": "Milwaukee Packout",
+          "url": "https://www.google.com/search?q=Milwaukee+Packout+price+drop"
         },
         {
-          "label": "CPU Cooler",
-          "url": "https://www.google.com/search?q=CPU+Cooler+price+drop"
+          "label": "Milwaukee Drill",
+          "url": "https://www.google.com/search?q=Milwaukee+Drill+price+drop"
         },
         {
-          "label": "AIO Cooler",
-          "url": "https://www.google.com/search?q=AIO+Cooler+price+drop"
+          "label": "Milwaukee Impact Driver",
+          "url": "https://www.google.com/search?q=Milwaukee+Impact+Driver+price+drop"
         },
         {
-          "label": "Case Fan",
-          "url": "https://www.google.com/search?q=Case+Fan+price+drop"
+          "label": "Dewalt Tool",
+          "url": "https://www.google.com/search?q=Dewalt+Tool+price+drop"
         },
         {
-          "label": "PC Case",
-          "url": "https://www.google.com/search?q=PC+Case+price+drop"
+          "label": "Dewalt Combo Kit",
+          "url": "https://www.google.com/search?q=Dewalt+Combo+Kit+price+drop"
         },
         {
-          "label": "Mid Tower PC Case",
-          "url": "https://www.google.com/search?q=Mid+Tower+PC+Case+price+drop"
+          "label": "Dewalt Drill",
+          "url": "https://www.google.com/search?q=Dewalt+Drill+price+drop"
         },
         {
-          "label": "Full Tower PC Case",
-          "url": "https://www.google.com/search?q=Full+Tower+PC+Case+price+drop"
+          "label": "Dewalt Impact Driver",
+          "url": "https://www.google.com/search?q=Dewalt+Impact+Driver+price+drop"
         },
         {
-          "label": "Micro ATX Case",
-          "url": "https://www.google.com/search?q=Micro+ATX+Case+price+drop"
+          "label": "Dewalt Saw",
+          "url": "https://www.google.com/search?q=Dewalt+Saw+price+drop"
         },
         {
-          "label": "Mini ITX Case",
-          "url": "https://www.google.com/search?q=Mini+ITX+Case+price+drop"
+          "label": "Dewalt Battery",
+          "url": "https://www.google.com/search?q=Dewalt+Battery+price+drop"
         },
         {
-          "label": "Power Supply",
-          "url": "https://www.google.com/search?q=Power+Supply+price+drop"
+          "label": "Ryobi Power Tool",
+          "url": "https://www.google.com/search?q=Ryobi+Power+Tool+price+drop"
         },
         {
-          "label": "750W Power Supply",
-          "url": "https://www.google.com/search?q=750W+Power+Supply+price+drop"
+          "label": "Ryobi Leaf Blower",
+          "url": "https://www.google.com/search?q=Ryobi+Leaf+Blower+price+drop"
         },
         {
-          "label": "850W Power Supply",
-          "url": "https://www.google.com/search?q=850W+Power+Supply+price+drop"
+          "label": "Ryobi Chainsaw",
+          "url": "https://www.google.com/search?q=Ryobi+Chainsaw+price+drop"
         },
         {
-          "label": "1000W Power Supply",
-          "url": "https://www.google.com/search?q=1000W+Power+Supply+price+drop"
+          "label": "Ryobi Mower",
+          "url": "https://www.google.com/search?q=Ryobi+Mower+price+drop"
         },
         {
-          "label": "Modular Power Supply",
-          "url": "https://www.google.com/search?q=Modular+Power+Supply+price+drop"
+          "label": "Ryobi Combo Kit",
+          "url": "https://www.google.com/search?q=Ryobi+Combo+Kit+price+drop"
         },
         {
-          "label": "AMD Motherboard",
-          "url": "https://www.google.com/search?q=AMD+Motherboard+price+drop"
+          "label": "Ryobi Trimmer",
+          "url": "https://www.google.com/search?q=Ryobi+Trimmer+price+drop"
         },
         {
-          "label": "Intel Motherboard",
-          "url": "https://www.google.com/search?q=Intel+Motherboard+price+drop"
+          "label": "Power Tool",
+          "url": "https://www.google.com/search?q=Power+Tool+price+drop"
         },
         {
-          "label": "B650 Motherboard",
-          "url": "https://www.google.com/search?q=B650+Motherboard+price+drop"
+          "label": "Hand Tool",
+          "url": "https://www.google.com/search?q=Hand+Tool+price+drop"
         },
         {
-          "label": "X670 Motherboard",
-          "url": "https://www.google.com/search?q=X670+Motherboard+price+drop"
+          "label": "Cordless Tool",
+          "url": "https://www.google.com/search?q=Cordless+Tool+price+drop"
         },
         {
-          "label": "Z790 Motherboard",
-          "url": "https://www.google.com/search?q=Z790+Motherboard+price+drop"
+          "label": "Brushless Tool",
+          "url": "https://www.google.com/search?q=Brushless+Tool+price+drop"
         },
         {
-          "label": "16GB RAM",
-          "url": "https://www.google.com/search?q=16GB+RAM+price+drop"
+          "label": "Tool Set",
+          "url": "https://www.google.com/search?q=Tool+Set+price+drop"
         },
         {
-          "label": "32GB RAM",
-          "url": "https://www.google.com/search?q=32GB+RAM+price+drop"
+          "label": "Combo Kit",
+          "url": "https://www.google.com/search?q=Combo+Kit+price+drop"
         },
         {
-          "label": "64GB RAM",
-          "url": "https://www.google.com/search?q=64GB+RAM+price+drop"
+          "label": "Power Drill",
+          "url": "https://www.google.com/search?q=Power+Drill+price+drop"
         },
         {
-          "label": "DDR4 RAM",
-          "url": "https://www.google.com/search?q=DDR4+RAM+price+drop"
+          "label": "Impact Driver",
+          "url": "https://www.google.com/search?q=Impact+Driver+price+drop"
         },
         {
-          "label": "Laptop RAM",
-          "url": "https://www.google.com/search?q=Laptop+RAM+price+drop"
-        },
-        {
-          "label": "M.2 SSD",
-          "url": "https://www.google.com/search?q=M.2+SSD+price+drop"
-        },
-        {
-          "label": "1TB SSD",
-          "url": "https://www.google.com/search?q=1TB+SSD+price+drop"
-        },
-        {
-          "label": "2TB SSD",
-          "url": "https://www.google.com/search?q=2TB+SSD+price+drop"
-        },
-        {
-          "label": "4TB SSD",
-          "url": "https://www.google.com/search?q=4TB+SSD+price+drop"
-        },
-        {
-          "label": "8TB SSD",
-          "url": "https://www.google.com/search?q=8TB+SSD+price+drop"
-        },
-        {
-          "label": "External SSD",
-          "url": "https://www.google.com/search?q=External+SSD+price+drop"
-        },
-        {
-          "label": "External Hard Drive",
-          "url": "https://www.google.com/search?q=External+Hard+Drive+price+drop"
-        },
-        {
-          "label": "Portable Hard Drive",
-          "url": "https://www.google.com/search?q=Portable+Hard+Drive+price+drop"
-        },
-        {
-          "label": "8TB Hard Drive",
-          "url": "https://www.google.com/search?q=8TB+Hard+Drive+price+drop"
-        },
-        {
-          "label": "Western Digital SSD",
-          "url": "https://www.google.com/search?q=Western+Digital+SSD+price+drop"
-        },
-        {
-          "label": "Samsung SSD",
-          "url": "https://www.google.com/search?q=Samsung+SSD+price+drop"
-        },
-        {
-          "label": "Crucial SSD",
-          "url": "https://www.google.com/search?q=Crucial+SSD+price+drop"
-        },
-        {
-          "label": "Seagate External Hard Drive",
-          "url": "https://www.google.com/search?q=Seagate+External+Hard+Drive+price+drop"
-        },
-        {
-          "label": "Western Digital NVMe",
-          "url": "https://www.google.com/search?q=Western+Digital+NVMe+price+drop"
-        },
-        {
-          "label": "Western Digital External Hard Drive",
-          "url": "https://www.google.com/search?q=Western+Digital+External+Hard+Drive+price+drop"
-        },
-        {
-          "label": "Western Digital Portable Hard Drive",
-          "url": "https://www.google.com/search?q=Western+Digital+Portable+Hard+Drive+price+drop"
-        },
-        {
-          "label": "External HDD",
-          "url": "https://www.google.com/search?q=External+HDD+price+drop"
-        },
-        {
-          "label": "Portable HDD",
-          "url": "https://www.google.com/search?q=Portable+HDD+price+drop"
-        },
-        {
-          "label": "NVMe SSD",
-          "url": "https://www.google.com/search?q=NVMe+SSD+price+drop"
-        },
-        {
-          "label": "1TB NVMe SSD",
-          "url": "https://www.google.com/search?q=1TB+NVMe+SSD+price+drop"
-        },
-        {
-          "label": "2TB NVMe SSD",
-          "url": "https://www.google.com/search?q=2TB+NVMe+SSD+price+drop"
+          "label": "Circular Saw",
+          "url": "https://www.google.com/search?q=Circular+Saw+price+drop"
         }
       ]
     },
     {
-      "name": "Cell Phones",
-      "urls": [
-        {
-          "label": "iPhone 17",
-          "url": "https://www.google.com/search?q=iPhone+17+price+drop"
-        },
-        {
-          "label": "iPhone 17 Pro",
-          "url": "https://www.google.com/search?q=iPhone+17+Pro+price+drop"
-        },
-        {
-          "label": "iPhone 17 Pro Max",
-          "url": "https://www.google.com/search?q=iPhone+17+Pro+Max+price+drop"
-        },
-        {
-          "label": "Unlocked iPhone",
-          "url": "https://www.google.com/search?q=Unlocked+iPhone+price+drop"
-        },
-        {
-          "label": "Android Phone",
-          "url": "https://www.google.com/search?q=Android+Phone+price+drop"
-        },
-        {
-          "label": "iPhone",
-          "url": "https://www.google.com/search?q=iPhone+price+drop"
-        },
-        {
-          "label": "iPhone 16",
-          "url": "https://www.google.com/search?q=iPhone+16+price+drop"
-        },
-        {
-          "label": "iPhone 16e",
-          "url": "https://www.google.com/search?q=iPhone+16e+price+drop"
-        },
-        {
-          "label": "iPhone 16 Pro",
-          "url": "https://www.google.com/search?q=iPhone+16+Pro+price+drop"
-        },
-        {
-          "label": "iPhone 16 Pro Max",
-          "url": "https://www.google.com/search?q=iPhone+16+Pro+Max+price+drop"
-        },
-        {
-          "label": "Unlocked Pixel Phone",
-          "url": "https://www.google.com/search?q=Unlocked+Pixel+Phone+price+drop"
-        },
-        {
-          "label": "Pixel 10 Unlocked",
-          "url": "https://www.google.com/search?q=Pixel+10+Unlocked+price+drop"
-        },
-        {
-          "label": "Pixel 10 Pro Unlocked",
-          "url": "https://www.google.com/search?q=Pixel+10+Pro+Unlocked+price+drop"
-        },
-        {
-          "label": "Unlocked Pixel 8",
-          "url": "https://www.google.com/search?q=Unlocked+Pixel+8+price+drop"
-        },
-        {
-          "label": "Unlocked Pixel 9",
-          "url": "https://www.google.com/search?q=Unlocked+Pixel+9+price+drop"
-        },
-        {
-          "label": "Unlocked Pixel Fold",
-          "url": "https://www.google.com/search?q=Unlocked+Pixel+Fold+price+drop"
-        },
-        {
-          "label": "Samsung Galaxy S25",
-          "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+price+drop"
-        },
-        {
-          "label": "Samsung Galaxy S25 FE",
-          "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+FE+price+drop"
-        },
-        {
-          "label": "Unlocked Galaxy S25",
-          "url": "https://www.google.com/search?q=Unlocked+Galaxy+S25+price+drop"
-        },
-        {
-          "label": "Samsung Galaxy Phone",
-          "url": "https://www.google.com/search?q=Samsung+Galaxy+Phone+price+drop"
-        },
-        {
-          "label": "Unlocked Galaxy S25 Ultra",
-          "url": "https://www.google.com/search?q=Unlocked+Galaxy+S25+Ultra+price+drop"
-        },
-        {
-          "label": "YYWireless eBay",
-          "url": "https://www.google.com/search?q=YYWireless+eBay+price+drop"
-        },
-        {
-          "label": "Cellfee eBay",
-          "url": "https://www.google.com/search?q=Cellfee+eBay+price+drop"
-        },
-        {
-          "label": "Guaranteecellular eBay",
-          "url": "https://www.google.com/search?q=Guaranteecellular+eBay+price+drop"
-        },
-        {
-          "label": "DirectAuth eBay",
-          "url": "https://www.google.com/search?q=DirectAuth+eBay+price+drop"
-        },
-        {
-          "label": "Amazing Wireless eBay",
-          "url": "https://www.google.com/search?q=Amazing+Wireless+eBay+price+drop"
-        },
-        {
-          "label": "A4C eBay",
-          "url": "https://www.google.com/search?q=A4C+eBay+price+drop"
-        },
-        {
-          "label": "Vipoutlet eBay",
-          "url": "https://www.google.com/search?q=Vipoutlet+eBay+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "TV",
+      "name": "TV's & Media Players",
       "urls": [
         {
           "label": "TV",
@@ -584,20 +480,12 @@
           "url": "https://www.google.com/search?q=50%22+TV+price+drop"
         },
         {
-          "label": "70\" TV",
-          "url": "https://www.google.com/search?q=70%22+TV+price+drop"
+          "label": "Google TV",
+          "url": "https://www.google.com/search?q=Google+TV+price+drop"
         },
         {
-          "label": "77\" TV",
-          "url": "https://www.google.com/search?q=77%22+TV+price+drop"
-        },
-        {
-          "label": "82\" TV",
-          "url": "https://www.google.com/search?q=82%22+TV+price+drop"
-        },
-        {
-          "label": "85\" TV",
-          "url": "https://www.google.com/search?q=85%22+TV+price+drop"
+          "label": "Roku TV",
+          "url": "https://www.google.com/search?q=Roku+TV+price+drop"
         },
         {
           "label": "OLED TV",
@@ -608,28 +496,20 @@
           "url": "https://www.google.com/search?q=4K+OLED+TV+price+drop"
         },
         {
-          "label": "55\" OLED TV",
-          "url": "https://www.google.com/search?q=55%22+OLED+TV+price+drop"
+          "label": "55 Inch OLED TV",
+          "url": "https://www.google.com/search?q=55+Inch+OLED+TV+price+drop"
         },
         {
-          "label": "65\" OLED TV",
-          "url": "https://www.google.com/search?q=65%22+OLED+TV+price+drop"
+          "label": "65 Inch OLED TV",
+          "url": "https://www.google.com/search?q=65+Inch+OLED+TV+price+drop"
         },
         {
-          "label": "77\" OLED TV",
-          "url": "https://www.google.com/search?q=77%22+OLED+TV+price+drop"
+          "label": "77 Inch OLED TV",
+          "url": "https://www.google.com/search?q=77+Inch+OLED+TV+price+drop"
         },
         {
-          "label": "Samsung QLED TV",
-          "url": "https://www.google.com/search?q=Samsung+QLED+TV+price+drop"
-        },
-        {
-          "label": "QLED TV",
-          "url": "https://www.google.com/search?q=QLED+TV+price+drop"
-        },
-        {
-          "label": "Mini LED TV",
-          "url": "https://www.google.com/search?q=Mini+LED+TV+price+drop"
+          "label": "LG OLED TV",
+          "url": "https://www.google.com/search?q=LG+OLED+TV+price+drop"
         },
         {
           "label": "Sony OLED TV",
@@ -644,6 +524,10 @@
           "url": "https://www.google.com/search?q=TCL+TV+price+drop"
         },
         {
+          "label": "TCL 4K TV",
+          "url": "https://www.google.com/search?q=TCL+4K+TV+price+drop"
+        },
+        {
           "label": "TCL QLED TV",
           "url": "https://www.google.com/search?q=TCL+QLED+TV+price+drop"
         },
@@ -652,61 +536,193 @@
           "url": "https://www.google.com/search?q=TCL+Roku+TV+price+drop"
         },
         {
-          "label": "Hisense ULED TV",
-          "url": "https://www.google.com/search?q=Hisense+ULED+TV+price+drop"
+          "label": "TCL 55 Inch TV",
+          "url": "https://www.google.com/search?q=TCL+55+Inch+TV+price+drop"
         },
         {
-          "label": "Hisense Mini LED TV",
-          "url": "https://www.google.com/search?q=Hisense+Mini+LED+TV+price+drop"
+          "label": "TCL 65 Inch TV",
+          "url": "https://www.google.com/search?q=TCL+65+Inch+TV+price+drop"
         },
         {
-          "label": "Hisense QLED TV",
-          "url": "https://www.google.com/search?q=Hisense+QLED+TV+price+drop"
+          "label": "TCL 75 Inch TV",
+          "url": "https://www.google.com/search?q=TCL+75+Inch+TV+price+drop"
+        },
+        {
+          "label": "Apple TV",
+          "url": "https://www.google.com/search?q=Apple+TV+price+drop"
+        },
+        {
+          "label": "Apple TV 4K",
+          "url": "https://www.google.com/search?q=Apple+TV+4K+price+drop"
+        },
+        {
+          "label": "Apple TV 4K 64GB",
+          "url": "https://www.google.com/search?q=Apple+TV+4K+64GB+price+drop"
+        },
+        {
+          "label": "Apple TV 4K 128GB",
+          "url": "https://www.google.com/search?q=Apple+TV+4K+128GB+price+drop"
+        },
+        {
+          "label": "Roku Express",
+          "url": "https://www.google.com/search?q=Roku+Express+price+drop"
+        },
+        {
+          "label": "Roku Express 4K",
+          "url": "https://www.google.com/search?q=Roku+Express+4K+price+drop"
+        },
+        {
+          "label": "Roku Streaming Stick",
+          "url": "https://www.google.com/search?q=Roku+Streaming+Stick+price+drop"
+        },
+        {
+          "label": "Roku Ultra",
+          "url": "https://www.google.com/search?q=Roku+Ultra+price+drop"
+        },
+        {
+          "label": "Roku Premiere",
+          "url": "https://www.google.com/search?q=Roku+Premiere+price+drop"
+        },
+        {
+          "label": "Roku Streambar",
+          "url": "https://www.google.com/search?q=Roku+Streambar+price+drop"
         }
       ]
     },
     {
-      "name": "Cell Phone Plans",
+      "name": "Tablets & Smart Watches",
       "urls": [
         {
-          "label": "T-Mobile",
-          "url": "https://www.google.com/search?q=T-Mobile+price+drop"
+          "label": "iPad",
+          "url": "https://www.google.com/search?q=iPad+price+drop"
         },
         {
-          "label": "Verizon",
-          "url": "https://www.google.com/search?q=Verizon+price+drop"
+          "label": "iPad Air",
+          "url": "https://www.google.com/search?q=iPad+Air+price+drop"
         },
         {
-          "label": "Tracfone",
-          "url": "https://www.google.com/search?q=Tracfone+price+drop"
+          "label": "iPad Mini",
+          "url": "https://www.google.com/search?q=iPad+Mini+price+drop"
         },
         {
-          "label": "Visible",
-          "url": "https://www.google.com/search?q=Visible+price+drop"
+          "label": "iPad Pro",
+          "url": "https://www.google.com/search?q=iPad+Pro+price+drop"
         },
         {
-          "label": "Mint Mobile",
-          "url": "https://www.google.com/search?q=Mint+Mobile+price+drop"
+          "label": "iPad 9Th Generation",
+          "url": "https://www.google.com/search?q=iPad+9th+Generation+price+drop"
         },
         {
-          "label": "Cricket Wireless",
-          "url": "https://www.google.com/search?q=Cricket+Wireless+price+drop"
+          "label": "iPad 10Th Generation",
+          "url": "https://www.google.com/search?q=iPad+10th+Generation+price+drop"
         },
         {
-          "label": "Boost Mobile",
-          "url": "https://www.google.com/search?q=Boost+Mobile+price+drop"
+          "label": "Android Tablet",
+          "url": "https://www.google.com/search?q=Android+Tablet+price+drop"
         },
         {
-          "label": "Xfinity Mobile",
-          "url": "https://www.google.com/search?q=Xfinity+Mobile+price+drop"
+          "label": "Windows Tablet",
+          "url": "https://www.google.com/search?q=Windows+Tablet+price+drop"
         },
         {
-          "label": "Spectrum Mobile",
-          "url": "https://www.google.com/search?q=Spectrum+Mobile+price+drop"
+          "label": "2 In 1 Tablet",
+          "url": "https://www.google.com/search?q=2+In+1+Tablet+price+drop"
         },
         {
-          "label": "AT&T Wireless",
-          "url": "https://www.google.com/search?q=AT%26T+Wireless+price+drop"
+          "label": "8 Inch Tablet",
+          "url": "https://www.google.com/search?q=8+Inch+Tablet+price+drop"
+        },
+        {
+          "label": "10 Inch Tablet",
+          "url": "https://www.google.com/search?q=10+Inch+Tablet+price+drop"
+        },
+        {
+          "label": "Fire Tablet",
+          "url": "https://www.google.com/search?q=Fire+Tablet+price+drop"
+        },
+        {
+          "label": "Samsung Tablet",
+          "url": "https://www.google.com/search?q=Samsung+Tablet+price+drop"
+        },
+        {
+          "label": "Lenovo Tablet",
+          "url": "https://www.google.com/search?q=Lenovo+Tablet+price+drop"
+        },
+        {
+          "label": "Microsoft Surface",
+          "url": "https://www.google.com/search?q=Microsoft+Surface+price+drop"
+        },
+        {
+          "label": "Kindle Ereader",
+          "url": "https://www.google.com/search?q=Kindle+Ereader+price+drop"
+        },
+        {
+          "label": "Kindle Paperwhite",
+          "url": "https://www.google.com/search?q=Kindle+Paperwhite+price+drop"
+        },
+        {
+          "label": "Kindle Oasis",
+          "url": "https://www.google.com/search?q=Kindle+Oasis+price+drop"
+        },
+        {
+          "label": "Kindle Scribe",
+          "url": "https://www.google.com/search?q=Kindle+Scribe+price+drop"
+        },
+        {
+          "label": "Kindle Kids",
+          "url": "https://www.google.com/search?q=Kindle+Kids+price+drop"
+        },
+        {
+          "label": "Apple Watch",
+          "url": "https://www.google.com/search?q=Apple+Watch+price+drop"
+        },
+        {
+          "label": "Apple Watch Series 9",
+          "url": "https://www.google.com/search?q=Apple+Watch+Series+9+price+drop"
+        },
+        {
+          "label": "Apple Watch Series 8",
+          "url": "https://www.google.com/search?q=Apple+Watch+Series+8+price+drop"
+        },
+        {
+          "label": "Apple Watch SE",
+          "url": "https://www.google.com/search?q=Apple+Watch+SE+price+drop"
+        },
+        {
+          "label": "Apple Watch Ultra",
+          "url": "https://www.google.com/search?q=Apple+Watch+Ultra+price+drop"
+        },
+        {
+          "label": "Apple Watch Ultra 2",
+          "url": "https://www.google.com/search?q=Apple+Watch+Ultra+2+price+drop"
+        },
+        {
+          "label": "Apple Watch 41Mm",
+          "url": "https://www.google.com/search?q=Apple+Watch+41mm+price+drop"
+        },
+        {
+          "label": "Apple Watch 45Mm",
+          "url": "https://www.google.com/search?q=Apple+Watch+45mm+price+drop"
+        },
+        {
+          "label": "Garmin Watch",
+          "url": "https://www.google.com/search?q=Garmin+Watch+price+drop"
+        },
+        {
+          "label": "Garmin Forerunner",
+          "url": "https://www.google.com/search?q=Garmin+Forerunner+price+drop"
+        },
+        {
+          "label": "Garmin Vivoactive",
+          "url": "https://www.google.com/search?q=Garmin+Vivoactive+price+drop"
+        },
+        {
+          "label": "Garmin Fenix",
+          "url": "https://www.google.com/search?q=Garmin+Fenix+price+drop"
+        },
+        {
+          "label": "Garmin Instinct",
+          "url": "https://www.google.com/search?q=Garmin+Instinct+price+drop"
         }
       ]
     },
@@ -746,40 +762,64 @@
           "url": "https://www.google.com/search?q=Puzzle+Toy+price+drop"
         },
         {
-          "label": "STEM Toy",
-          "url": "https://www.google.com/search?q=STEM+Toy+price+drop"
-        },
-        {
-          "label": "Remote Control Car",
-          "url": "https://www.google.com/search?q=Remote+Control+Car+price+drop"
-        },
-        {
-          "label": "Remote Control Truck",
-          "url": "https://www.google.com/search?q=Remote+Control+Truck+price+drop"
-        },
-        {
-          "label": "Train Set",
-          "url": "https://www.google.com/search?q=Train+Set+price+drop"
-        },
-        {
-          "label": "Hot Wheels",
-          "url": "https://www.google.com/search?q=Hot+Wheels+price+drop"
-        },
-        {
           "label": "Board Game",
           "url": "https://www.google.com/search?q=Board+Game+price+drop"
         },
         {
-          "label": "Family Board Game",
-          "url": "https://www.google.com/search?q=Family+Board+Game+price+drop"
+          "label": "Stuffed Animal",
+          "url": "https://www.google.com/search?q=Stuffed+Animal+price+drop"
         },
         {
-          "label": "Card Game",
-          "url": "https://www.google.com/search?q=Card+Game+price+drop"
+          "label": "Playset",
+          "url": "https://www.google.com/search?q=Playset+price+drop"
+        },
+        {
+          "label": "Kitchen Playset",
+          "url": "https://www.google.com/search?q=Kitchen+Playset+price+drop"
+        },
+        {
+          "label": "Art Kit",
+          "url": "https://www.google.com/search?q=Art+Kit+price+drop"
+        },
+        {
+          "label": "Hot Wheels Car",
+          "url": "https://www.google.com/search?q=Hot+Wheels+Car+price+drop"
+        },
+        {
+          "label": "Nerf Blaster",
+          "url": "https://www.google.com/search?q=Nerf+Blaster+price+drop"
+        },
+        {
+          "label": "Fisher Price Toy",
+          "url": "https://www.google.com/search?q=Fisher+Price+Toy+price+drop"
+        },
+        {
+          "label": "Bluey Toy",
+          "url": "https://www.google.com/search?q=Bluey+Toy+price+drop"
+        },
+        {
+          "label": "Pokemon Toy",
+          "url": "https://www.google.com/search?q=Pokemon+Toy+price+drop"
+        },
+        {
+          "label": "Playmobile Toy",
+          "url": "https://www.google.com/search?q=Playmobile+Toy+price+drop"
+        },
+        {
+          "label": "VTech Toy",
+          "url": "https://www.google.com/search?q=VTech+Toy+price+drop"
+        },
+        {
+          "label": "Leapfrog Toy",
+          "url": "https://www.google.com/search?q=Leapfrog+Toy+price+drop"
         },
         {
           "label": "LEGO Set",
           "url": "https://www.google.com/search?q=LEGO+Set+price+drop"
+        },
+        {
+          "label": "LEGO Star Wars",
+          "url": "https://www.google.com/search?q=LEGO+Star+Wars+price+drop"
         },
         {
           "label": "LEGO Technic",
@@ -794,232 +834,25 @@
           "url": "https://www.google.com/search?q=LEGO+Friends+price+drop"
         },
         {
-          "label": "LEGO Creator",
-          "url": "https://www.google.com/search?q=LEGO+Creator+price+drop"
-        },
-        {
-          "label": "LEGO Ninjago",
-          "url": "https://www.google.com/search?q=LEGO+Ninjago+price+drop"
-        },
-        {
-          "label": "LEGO Marvel",
-          "url": "https://www.google.com/search?q=LEGO+Marvel+price+drop"
-        },
-        {
           "label": "LEGO Harry Potter",
           "url": "https://www.google.com/search?q=LEGO+Harry+Potter+price+drop"
         },
         {
           "label": "LEGO Disney",
           "url": "https://www.google.com/search?q=LEGO+Disney+price+drop"
+        },
+        {
+          "label": "LEGO Marvel",
+          "url": "https://www.google.com/search?q=LEGO+Marvel+price+drop"
         }
       ]
     },
     {
-      "name": "Gift Cards",
+      "name": "Headphones & Speakers",
       "urls": [
         {
-          "label": "Raise GCX",
-          "url": "https://www.google.com/search?q=Raise+GCX+price+drop"
-        },
-        {
-          "label": "GiftCards.com",
-          "url": "https://www.google.com/search?q=GiftCards.com+price+drop"
-        },
-        {
-          "label": "Sam's Club GC's",
-          "url": "https://www.google.com/search?q=Sam%27s+Club+GC%27s+price+drop"
-        },
-        {
-          "label": "Costco GC's",
-          "url": "https://www.google.com/search?q=Costco+GC%27s+price+drop"
-        },
-        {
-          "label": "Kroger GC's",
-          "url": "https://www.google.com/search?q=Kroger+GC%27s+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "3D Printers",
-      "urls": [
-        {
-          "label": "3D Printer",
-          "url": "https://www.google.com/search?q=3D+Printer+price+drop"
-        },
-        {
-          "label": "Resin 3D Printer",
-          "url": "https://www.google.com/search?q=Resin+3D+Printer+price+drop"
-        },
-        {
-          "label": "FDM 3D Printer",
-          "url": "https://www.google.com/search?q=FDM+3D+Printer+price+drop"
-        },
-        {
-          "label": "Beginner 3D Printer",
-          "url": "https://www.google.com/search?q=Beginner+3D+Printer+price+drop"
-        },
-        {
-          "label": "Creality 3D Printer",
-          "url": "https://www.google.com/search?q=Creality+3D+Printer+price+drop"
-        },
-        {
-          "label": "Ender 3D Printer",
-          "url": "https://www.google.com/search?q=Ender+3D+Printer+price+drop"
-        },
-        {
-          "label": "Prusa 3D Printer",
-          "url": "https://www.google.com/search?q=Prusa+3D+Printer+price+drop"
-        },
-        {
-          "label": "Anycubic 3D Printer",
-          "url": "https://www.google.com/search?q=Anycubic+3D+Printer+price+drop"
-        },
-        {
-          "label": "Bambu Lab 3D Printer",
-          "url": "https://www.google.com/search?q=Bambu+Lab+3D+Printer+price+drop"
-        },
-        {
-          "label": "Bambu P1S",
-          "url": "https://www.google.com/search?q=Bambu+P1S+price+drop"
-        },
-        {
-          "label": "Bambu X1C",
-          "url": "https://www.google.com/search?q=Bambu+X1C+price+drop"
-        },
-        {
-          "label": "Bambu A1",
-          "url": "https://www.google.com/search?q=Bambu+A1+price+drop"
-        },
-        {
-          "label": "Bambu A1 Mini",
-          "url": "https://www.google.com/search?q=Bambu+A1+Mini+price+drop"
-        },
-        {
-          "label": "3D Printer Filament",
-          "url": "https://www.google.com/search?q=3D+Printer+Filament+price+drop"
-        },
-        {
-          "label": "PLA Filament",
-          "url": "https://www.google.com/search?q=PLA+Filament+price+drop"
-        },
-        {
-          "label": "ABS Filament",
-          "url": "https://www.google.com/search?q=ABS+Filament+price+drop"
-        },
-        {
-          "label": "PETG Filament",
-          "url": "https://www.google.com/search?q=PETG+Filament+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "Tablets & eReaders",
-      "urls": [
-        {
-          "label": "iPad",
-          "url": "https://www.google.com/search?q=iPad+price+drop"
-        },
-        {
-          "label": "iPad Air",
-          "url": "https://www.google.com/search?q=iPad+Air+price+drop"
-        },
-        {
-          "label": "iPad Mini",
-          "url": "https://www.google.com/search?q=iPad+Mini+price+drop"
-        },
-        {
-          "label": "iPad Pro",
-          "url": "https://www.google.com/search?q=iPad+Pro+price+drop"
-        },
-        {
-          "label": "Android Tablet",
-          "url": "https://www.google.com/search?q=Android+Tablet+price+drop"
-        },
-        {
-          "label": "Galaxy Tab",
-          "url": "https://www.google.com/search?q=Galaxy+Tab+price+drop"
-        },
-        {
-          "label": "Fire Tablet",
-          "url": "https://www.google.com/search?q=Fire+Tablet+price+drop"
-        },
-        {
-          "label": "Kindle",
-          "url": "https://www.google.com/search?q=Kindle+price+drop"
-        },
-        {
-          "label": "Kindle Paperwhite",
-          "url": "https://www.google.com/search?q=Kindle+Paperwhite+price+drop"
-        },
-        {
-          "label": "Kindle Scribe",
-          "url": "https://www.google.com/search?q=Kindle+Scribe+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "Smart Watches & Headphones",
-      "urls": [
-        {
-          "label": "Oura Ring",
-          "url": "https://www.google.com/search?q=Oura+Ring+price+drop"
-        },
-        {
-          "label": "Oura Ring Gen 3",
-          "url": "https://www.google.com/search?q=Oura+Ring+Gen+3+price+drop"
-        },
-        {
-          "label": "Oura Ring Horizon",
-          "url": "https://www.google.com/search?q=Oura+Ring+Horizon+price+drop"
-        },
-        {
-          "label": "Oura Ring Heritage",
-          "url": "https://www.google.com/search?q=Oura+Ring+Heritage+price+drop"
-        },
-        {
-          "label": "Oura Ring Sizing",
-          "url": "https://www.google.com/search?q=Oura+Ring+Sizing+price+drop"
-        },
-        {
-          "label": "Apple Watch",
-          "url": "https://www.google.com/search?q=Apple+Watch+price+drop"
-        },
-        {
-          "label": "Apple Watch Series 9",
-          "url": "https://www.google.com/search?q=Apple+Watch+Series+9+price+drop"
-        },
-        {
-          "label": "Apple Watch Series 8",
-          "url": "https://www.google.com/search?q=Apple+Watch+Series+8+price+drop"
-        },
-        {
-          "label": "Apple Watch Ultra",
-          "url": "https://www.google.com/search?q=Apple+Watch+Ultra+price+drop"
-        },
-        {
-          "label": "Apple Watch Ultra 2",
-          "url": "https://www.google.com/search?q=Apple+Watch+Ultra+2+price+drop"
-        },
-        {
-          "label": "Samsung Galaxy Watch",
-          "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+price+drop"
-        },
-        {
-          "label": "Garmin Watch",
-          "url": "https://www.google.com/search?q=Garmin+Watch+price+drop"
-        },
-        {
-          "label": "Garmin Forerunner",
-          "url": "https://www.google.com/search?q=Garmin+Forerunner+price+drop"
-        },
-        {
-          "label": "Garmin Fenix",
-          "url": "https://www.google.com/search?q=Garmin+Fenix+price+drop"
-        },
-        {
-          "label": "Garmin Epix",
-          "url": "https://www.google.com/search?q=Garmin+Epix+price+drop"
+          "label": "AirPods Pro 3",
+          "url": "https://www.google.com/search?q=AirPods+Pro+3+price+drop"
         },
         {
           "label": "AirPods",
@@ -1034,32 +867,20 @@
           "url": "https://www.google.com/search?q=AirPods+Pro+2+price+drop"
         },
         {
-          "label": "Beats Headphones",
-          "url": "https://www.google.com/search?q=Beats+Headphones+price+drop"
+          "label": "AirPods Max",
+          "url": "https://www.google.com/search?q=AirPods+Max+price+drop"
         },
         {
-          "label": "Beats Earbuds",
-          "url": "https://www.google.com/search?q=Beats+Earbuds+price+drop"
-        },
-        {
-          "label": "Sony Headphones",
-          "url": "https://www.google.com/search?q=Sony+Headphones+price+drop"
-        },
-        {
-          "label": "Sony WH-1000XM5",
-          "url": "https://www.google.com/search?q=Sony+WH-1000XM5+price+drop"
-        },
-        {
-          "label": "Sony WH-1000XM4",
-          "url": "https://www.google.com/search?q=Sony+WH-1000XM4+price+drop"
+          "label": "AirPods 4",
+          "url": "https://www.google.com/search?q=AirPods+4+price+drop"
         },
         {
           "label": "Bose Headphones",
           "url": "https://www.google.com/search?q=Bose+Headphones+price+drop"
         },
         {
-          "label": "Bose Quietcomfort",
-          "url": "https://www.google.com/search?q=Bose+Quietcomfort+price+drop"
+          "label": "Bose QuietComfort",
+          "url": "https://www.google.com/search?q=Bose+QuietComfort+price+drop"
         },
         {
           "label": "Bose Sports Earbuds",
@@ -1084,122 +905,116 @@
         {
           "label": "Open Ear Headphones",
           "url": "https://www.google.com/search?q=Open+Ear+Headphones+price+drop"
+        },
+        {
+          "label": "Sonos Speaker",
+          "url": "https://www.google.com/search?q=Sonos+Speaker+price+drop"
+        },
+        {
+          "label": "Sonos Move",
+          "url": "https://www.google.com/search?q=Sonos+Move+price+drop"
+        },
+        {
+          "label": "Sonos Roam",
+          "url": "https://www.google.com/search?q=Sonos+Roam+price+drop"
+        },
+        {
+          "label": "Sonos Arc",
+          "url": "https://www.google.com/search?q=Sonos+Arc+price+drop"
+        },
+        {
+          "label": "Bluetooth Speaker",
+          "url": "https://www.google.com/search?q=Bluetooth+Speaker+price+drop"
+        },
+        {
+          "label": "Portable Speaker",
+          "url": "https://www.google.com/search?q=Portable+Speaker+price+drop"
+        },
+        {
+          "label": "Bookshelf Speaker",
+          "url": "https://www.google.com/search?q=Bookshelf+Speaker+price+drop"
+        },
+        {
+          "label": "Soundbar",
+          "url": "https://www.google.com/search?q=Soundbar+price+drop"
+        },
+        {
+          "label": "Dolby Atmos Soundbar",
+          "url": "https://www.google.com/search?q=Dolby+Atmos+Soundbar+price+drop"
+        },
+        {
+          "label": "2.1Ch Soundbar",
+          "url": "https://www.google.com/search?q=2.1ch+Soundbar+price+drop"
+        },
+        {
+          "label": "Tower Speaker",
+          "url": "https://www.google.com/search?q=Tower+Speaker+price+drop"
+        },
+        {
+          "label": "Center Channel Speaker",
+          "url": "https://www.google.com/search?q=Center+Channel+Speaker+price+drop"
+        },
+        {
+          "label": "Subwoofer",
+          "url": "https://www.google.com/search?q=Subwoofer+price+drop"
+        },
+        {
+          "label": "Party Speaker",
+          "url": "https://www.google.com/search?q=Party+Speaker+price+drop"
+        },
+        {
+          "label": "Klipsch Bookshelf Speaker",
+          "url": "https://www.google.com/search?q=Klipsch+Bookshelf+Speaker+price+drop"
+        },
+        {
+          "label": "Klipsch Floorstanding Speaker",
+          "url": "https://www.google.com/search?q=Klipsch+Floorstanding+Speaker+price+drop"
+        },
+        {
+          "label": "Klipsch Tower Speaker",
+          "url": "https://www.google.com/search?q=Klipsch+Tower+Speaker+price+drop"
+        },
+        {
+          "label": "Klipsch Reference Speaker",
+          "url": "https://www.google.com/search?q=Klipsch+Reference+Speaker+price+drop"
+        },
+        {
+          "label": "JBL Bluetooth Speaker",
+          "url": "https://www.google.com/search?q=JBL+Bluetooth+Speaker+price+drop"
+        },
+        {
+          "label": "JBL Flip Speaker",
+          "url": "https://www.google.com/search?q=JBL+Flip+Speaker+price+drop"
+        },
+        {
+          "label": "JBL Charge Speaker",
+          "url": "https://www.google.com/search?q=JBL+Charge+Speaker+price+drop"
+        },
+        {
+          "label": "JBL Partybox Speaker",
+          "url": "https://www.google.com/search?q=JBL+Partybox+Speaker+price+drop"
+        },
+        {
+          "label": "JBL Xtreme Speaker",
+          "url": "https://www.google.com/search?q=JBL+Xtreme+Speaker+price+drop"
+        },
+        {
+          "label": "JBL Boombox Speaker",
+          "url": "https://www.google.com/search?q=JBL+Boombox+Speaker+price+drop"
+        },
+        {
+          "label": "JBL Soundbar",
+          "url": "https://www.google.com/search?q=JBL+Soundbar+price+drop"
         }
       ]
     },
     {
-      "name": "Video Games & Consoles",
+      "name": "Athletic Shoes",
       "urls": [
         {
-          "label": "Nintendo Switch",
-          "url": "https://www.google.com/search?q=Nintendo+Switch+price+drop"
+          "label": "Athletic Shoes",
+          "url": "https://www.google.com/search?q=Athletic+Shoes+price+drop"
         },
-        {
-          "label": "Nintendo Switch OLED",
-          "url": "https://www.google.com/search?q=Nintendo+Switch+OLED+price+drop"
-        },
-        {
-          "label": "Nintendo Switch Lite",
-          "url": "https://www.google.com/search?q=Nintendo+Switch+Lite+price+drop"
-        },
-        {
-          "label": "Xbox Series X",
-          "url": "https://www.google.com/search?q=Xbox+Series+X+price+drop"
-        },
-        {
-          "label": "Xbox Series S",
-          "url": "https://www.google.com/search?q=Xbox+Series+S+price+drop"
-        },
-        {
-          "label": "PS5 Console",
-          "url": "https://www.google.com/search?q=PS5+Console+price+drop"
-        },
-        {
-          "label": "PS5 Console Bundle",
-          "url": "https://www.google.com/search?q=PS5+Console+Bundle+price+drop"
-        },
-        {
-          "label": "PS5 Slim",
-          "url": "https://www.google.com/search?q=PS5+Slim+price+drop"
-        },
-        {
-          "label": "Gaming Headset",
-          "url": "https://www.google.com/search?q=Gaming+Headset+price+drop"
-        },
-        {
-          "label": "Xbox Controller",
-          "url": "https://www.google.com/search?q=Xbox+Controller+price+drop"
-        },
-        {
-          "label": "PS5 Controller",
-          "url": "https://www.google.com/search?q=PS5+Controller+price+drop"
-        },
-        {
-          "label": "Gaming Monitor",
-          "url": "https://www.google.com/search?q=Gaming+Monitor+price+drop"
-        },
-        {
-          "label": "PC Game",
-          "url": "https://www.google.com/search?q=PC+Game+price+drop"
-        },
-        {
-          "label": "Xbox Game",
-          "url": "https://www.google.com/search?q=Xbox+Game+price+drop"
-        },
-        {
-          "label": "PlayStation Game",
-          "url": "https://www.google.com/search?q=PlayStation+Game+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "Coffee",
-      "urls": [
-        {
-          "label": "Ground Coffee",
-          "url": "https://www.google.com/search?q=Ground+Coffee+price+drop"
-        },
-        {
-          "label": "Whole Bean Coffee",
-          "url": "https://www.google.com/search?q=Whole+Bean+Coffee+price+drop"
-        },
-        {
-          "label": "K-Cup Coffee",
-          "url": "https://www.google.com/search?q=K-Cup+Coffee+price+drop"
-        },
-        {
-          "label": "Espresso Coffee",
-          "url": "https://www.google.com/search?q=Espresso+Coffee+price+drop"
-        },
-        {
-          "label": "Light Roast Coffee",
-          "url": "https://www.google.com/search?q=Light+Roast+Coffee+price+drop"
-        },
-        {
-          "label": "Medium Roast Coffee",
-          "url": "https://www.google.com/search?q=Medium+Roast+Coffee+price+drop"
-        },
-        {
-          "label": "Dark Roast Coffee",
-          "url": "https://www.google.com/search?q=Dark+Roast+Coffee+price+drop"
-        },
-        {
-          "label": "Decaf Coffee",
-          "url": "https://www.google.com/search?q=Decaf+Coffee+price+drop"
-        },
-        {
-          "label": "Cold Brew Coffee",
-          "url": "https://www.google.com/search?q=Cold+Brew+Coffee+price+drop"
-        },
-        {
-          "label": "Iced Coffee",
-          "url": "https://www.google.com/search?q=Iced+Coffee+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "Athletic Shoes & Golf",
-      "urls": [
         {
           "label": "Men's Running Shoes",
           "url": "https://www.google.com/search?q=Men%27s+Running+Shoes+price+drop"
@@ -1209,20 +1024,40 @@
           "url": "https://www.google.com/search?q=Women%27s+Running+Shoes+price+drop"
         },
         {
-          "label": "Men's Nike Shoes",
-          "url": "https://www.google.com/search?q=Men%27s+Nike+Shoes+price+drop"
+          "label": "Walking Shoes",
+          "url": "https://www.google.com/search?q=Walking+Shoes+price+drop"
         },
         {
-          "label": "Women's Nike Shoes",
-          "url": "https://www.google.com/search?q=Women%27s+Nike+Shoes+price+drop"
+          "label": "Trail Shoes",
+          "url": "https://www.google.com/search?q=Trail+Shoes+price+drop"
         },
         {
-          "label": "Men's Adidas Shoes",
-          "url": "https://www.google.com/search?q=Men%27s+Adidas+Shoes+price+drop"
+          "label": "Hiking Shoes",
+          "url": "https://www.google.com/search?q=Hiking+Shoes+price+drop"
         },
         {
-          "label": "Women's Adidas Shoes",
-          "url": "https://www.google.com/search?q=Women%27s+Adidas+Shoes+price+drop"
+          "label": "Cross Training Shoes",
+          "url": "https://www.google.com/search?q=Cross+Training+Shoes+price+drop"
+        },
+        {
+          "label": "ASICS Shoes",
+          "url": "https://www.google.com/search?q=ASICS+Shoes+price+drop"
+        },
+        {
+          "label": "ASICS Men's Shoes",
+          "url": "https://www.google.com/search?q=ASICS+Men%27s+Shoes+price+drop"
+        },
+        {
+          "label": "ASICS Women's Shoes",
+          "url": "https://www.google.com/search?q=ASICS+Women%27s+Shoes+price+drop"
+        },
+        {
+          "label": "ASICS Gel-Kayano Shoes",
+          "url": "https://www.google.com/search?q=ASICS+Gel-Kayano+Shoes+price+drop"
+        },
+        {
+          "label": "ASICS Gel-Nimbus Shoes",
+          "url": "https://www.google.com/search?q=ASICS+Gel-Nimbus+Shoes+price+drop"
         },
         {
           "label": "Men's Hoka Shoes",
@@ -1233,257 +1068,384 @@
           "url": "https://www.google.com/search?q=Women%27s+Hoka+Shoes+price+drop"
         },
         {
-          "label": "Men's Brooks Shoes",
-          "url": "https://www.google.com/search?q=Men%27s+Brooks+Shoes+price+drop"
+          "label": "Hoka Bondi Shoes",
+          "url": "https://www.google.com/search?q=Hoka+Bondi+Shoes+price+drop"
         },
         {
-          "label": "Women's Brooks Shoes",
-          "url": "https://www.google.com/search?q=Women%27s+Brooks+Shoes+price+drop"
+          "label": "Hoka Clifton Shoes",
+          "url": "https://www.google.com/search?q=Hoka+Clifton+Shoes+price+drop"
         },
         {
-          "label": "Golf Club Set",
-          "url": "https://www.google.com/search?q=Golf+Club+Set+price+drop"
+          "label": "Hoka Arahi Shoes",
+          "url": "https://www.google.com/search?q=Hoka+Arahi+Shoes+price+drop"
         },
         {
-          "label": "Golf Driver",
-          "url": "https://www.google.com/search?q=Golf+Driver+price+drop"
+          "label": "Men's Adidas Shoes",
+          "url": "https://www.google.com/search?q=Men%27s+Adidas+Shoes+price+drop"
         },
         {
-          "label": "Golf Iron Set",
-          "url": "https://www.google.com/search?q=Golf+Iron+Set+price+drop"
+          "label": "Women's Adidas Shoes",
+          "url": "https://www.google.com/search?q=Women%27s+Adidas+Shoes+price+drop"
         },
         {
-          "label": "Golf Shoes",
-          "url": "https://www.google.com/search?q=Golf+Shoes+price+drop"
+          "label": "Adidas Shoes",
+          "url": "https://www.google.com/search?q=Adidas+Shoes+price+drop"
         },
         {
-          "label": "Golf Ball",
-          "url": "https://www.google.com/search?q=Golf+Ball+price+drop"
+          "label": "Adidas Ultraboost Shoes",
+          "url": "https://www.google.com/search?q=Adidas+Ultraboost+Shoes+price+drop"
+        },
+        {
+          "label": "Adidas Adizero Shoes",
+          "url": "https://www.google.com/search?q=Adidas+Adizero+Shoes+price+drop"
+        },
+        {
+          "label": "Men's Nike Shoes",
+          "url": "https://www.google.com/search?q=Men%27s+Nike+Shoes+price+drop"
+        },
+        {
+          "label": "Women's Nike Shoes",
+          "url": "https://www.google.com/search?q=Women%27s+Nike+Shoes+price+drop"
+        },
+        {
+          "label": "Nike Shoes",
+          "url": "https://www.google.com/search?q=Nike+Shoes+price+drop"
+        },
+        {
+          "label": "Nike Pegasus Shoes",
+          "url": "https://www.google.com/search?q=Nike+Pegasus+Shoes+price+drop"
+        },
+        {
+          "label": "Nike Invincible Run Shoes",
+          "url": "https://www.google.com/search?q=Nike+Invincible+Run+Shoes+price+drop"
         }
       ]
     },
     {
-      "name": "Tools & Power Stations",
+      "name": "Home Appliances",
       "urls": [
         {
-          "label": "Ladder",
-          "url": "https://www.google.com/search?q=Ladder+price+drop"
+          "label": "Vacuum",
+          "url": "https://www.google.com/search?q=Vacuum+price+drop"
         },
         {
-          "label": "Step Ladder",
-          "url": "https://www.google.com/search?q=Step+Ladder+price+drop"
+          "label": "Cordless Vacuum",
+          "url": "https://www.google.com/search?q=Cordless+Vacuum+price+drop"
         },
         {
-          "label": "Telescoping Ladder",
-          "url": "https://www.google.com/search?q=Telescoping+Ladder+price+drop"
+          "label": "Robot Vacuum",
+          "url": "https://www.google.com/search?q=Robot+Vacuum+price+drop"
         },
         {
-          "label": "Fiberglass Ladder",
-          "url": "https://www.google.com/search?q=Fiberglass+Ladder+price+drop"
+          "label": "Lidar Vacuum",
+          "url": "https://www.google.com/search?q=Lidar+Vacuum+price+drop"
         },
         {
-          "label": "Aluminum Ladder",
-          "url": "https://www.google.com/search?q=Aluminum+Ladder+price+drop"
+          "label": "Pet Vacuum",
+          "url": "https://www.google.com/search?q=Pet+Vacuum+price+drop"
         },
         {
-          "label": "DeWalt Tool",
-          "url": "https://www.google.com/search?q=DeWalt+Tool+price+drop"
+          "label": "Handheld Vacuum",
+          "url": "https://www.google.com/search?q=Handheld+Vacuum+price+drop"
         },
         {
-          "label": "DeWalt Combo Kit",
-          "url": "https://www.google.com/search?q=DeWalt+Combo+Kit+price+drop"
+          "label": "Dyson Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+Vacuum+price+drop"
         },
         {
-          "label": "DeWalt Drill",
-          "url": "https://www.google.com/search?q=DeWalt+Drill+price+drop"
+          "label": "Dyson V8 Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+V8+Vacuum+price+drop"
         },
         {
-          "label": "DeWalt Impact Driver",
-          "url": "https://www.google.com/search?q=DeWalt+Impact+Driver+price+drop"
+          "label": "Dyson V10 Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+V10+Vacuum+price+drop"
         },
         {
-          "label": "DeWalt Saw",
-          "url": "https://www.google.com/search?q=DeWalt+Saw+price+drop"
+          "label": "Dyson V11 Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+V11+Vacuum+price+drop"
         },
         {
-          "label": "Milwaukee Drill",
-          "url": "https://www.google.com/search?q=Milwaukee+Drill+price+drop"
+          "label": "Dyson V12 Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+V12+Vacuum+price+drop"
         },
         {
-          "label": "Milwaukee Impact Driver",
-          "url": "https://www.google.com/search?q=Milwaukee+Impact+Driver+price+drop"
+          "label": "Dyson V15 Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+V15+Vacuum+price+drop"
         },
         {
-          "label": "Milwaukee Saw",
-          "url": "https://www.google.com/search?q=Milwaukee+Saw+price+drop"
+          "label": "Dyson Ball Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+Ball+Vacuum+price+drop"
         },
         {
-          "label": "Milwaukee Combo Kit",
-          "url": "https://www.google.com/search?q=Milwaukee+Combo+Kit+price+drop"
+          "label": "Dyson Animal Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+Animal+Vacuum+price+drop"
         },
         {
-          "label": "Ryobi Tool",
-          "url": "https://www.google.com/search?q=Ryobi+Tool+price+drop"
+          "label": "Dyson Outsize Vacuum",
+          "url": "https://www.google.com/search?q=Dyson+Outsize+Vacuum+price+drop"
         },
         {
-          "label": "Ryobi Combo Kit",
-          "url": "https://www.google.com/search?q=Ryobi+Combo+Kit+price+drop"
+          "label": "Roborock Robot Vacuum",
+          "url": "https://www.google.com/search?q=Roborock+Robot+Vacuum+price+drop"
         },
         {
-          "label": "Ryobi Drill",
-          "url": "https://www.google.com/search?q=Ryobi+Drill+price+drop"
+          "label": "Roborock S Series",
+          "url": "https://www.google.com/search?q=Roborock+S+Series+price+drop"
         },
         {
-          "label": "Ryobi Saw",
-          "url": "https://www.google.com/search?q=Ryobi+Saw+price+drop"
+          "label": "Roborock Q Series",
+          "url": "https://www.google.com/search?q=Roborock+Q+Series+price+drop"
         },
         {
-          "label": "Portable Power Station",
-          "url": "https://www.google.com/search?q=Portable+Power+Station+price+drop"
+          "label": "Roborock X Series",
+          "url": "https://www.google.com/search?q=Roborock+X+Series+price+drop"
         },
         {
-          "label": "Power Station",
-          "url": "https://www.google.com/search?q=Power+Station+price+drop"
+          "label": "Roborock Wet Dry Vacuum",
+          "url": "https://www.google.com/search?q=Roborock+Wet+Dry+Vacuum+price+drop"
         },
         {
-          "label": "Solar Power Station",
-          "url": "https://www.google.com/search?q=Solar+Power+Station+price+drop"
+          "label": "Refrigerator",
+          "url": "https://www.google.com/search?q=Refrigerator+price+drop"
         },
         {
-          "label": "Portable Generator",
-          "url": "https://www.google.com/search?q=Portable+Generator+price+drop"
+          "label": "French Door Refrigerator",
+          "url": "https://www.google.com/search?q=French+Door+Refrigerator+price+drop"
         },
         {
-          "label": "EcoFlow Portable Power Station",
-          "url": "https://www.google.com/search?q=EcoFlow+Portable+Power+Station+price+drop"
+          "label": "Counter Depth Refrigerator",
+          "url": "https://www.google.com/search?q=Counter+Depth+Refrigerator+price+drop"
         },
         {
-          "label": "EcoFlow Solar Generator",
-          "url": "https://www.google.com/search?q=EcoFlow+Solar+Generator+price+drop"
+          "label": "Side-By-Side Refrigerator",
+          "url": "https://www.google.com/search?q=Side-By-Side+Refrigerator+price+drop"
         },
         {
-          "label": "EcoFlow Delta",
-          "url": "https://www.google.com/search?q=EcoFlow+Delta+price+drop"
+          "label": "Top Freezer Refrigerator",
+          "url": "https://www.google.com/search?q=Top+Freezer+Refrigerator+price+drop"
         },
         {
-          "label": "EcoFlow River",
-          "url": "https://www.google.com/search?q=EcoFlow+River+price+drop"
+          "label": "Bottom Freezer Refrigerator",
+          "url": "https://www.google.com/search?q=Bottom+Freezer+Refrigerator+price+drop"
         },
         {
-          "label": "EcoFlow Solar Panel",
-          "url": "https://www.google.com/search?q=EcoFlow+Solar+Panel+price+drop"
+          "label": "Smart Refrigerator",
+          "url": "https://www.google.com/search?q=Smart+Refrigerator+price+drop"
         },
         {
-          "label": "EcoFlow Battery",
-          "url": "https://www.google.com/search?q=EcoFlow+Battery+price+drop"
+          "label": "Uprite Freezer",
+          "url": "https://www.google.com/search?q=Uprite+Freezer+price+drop"
+        },
+        {
+          "label": "Chest Freezer",
+          "url": "https://www.google.com/search?q=Chest+Freezer+price+drop"
+        },
+        {
+          "label": "Standalone Freezer",
+          "url": "https://www.google.com/search?q=Standalone+Freezer+price+drop"
         }
       ]
     },
     {
-      "name": "Routers & Monitors",
+      "name": "Video Games & Consoles",
       "urls": [
         {
-          "label": "Ubiquiti Router",
-          "url": "https://www.google.com/search?q=Ubiquiti+Router+price+drop"
+          "label": "Call Of Duty Video Game",
+          "url": "https://www.google.com/search?q=Call+Of+Duty+Video+Game+price+drop"
         },
         {
-          "label": "Ubiquiti WiFi 6 Router",
-          "url": "https://www.google.com/search?q=Ubiquiti+WiFi+6+Router+price+drop"
+          "label": "FIFA Video Game",
+          "url": "https://www.google.com/search?q=FIFA+Video+Game+price+drop"
         },
         {
-          "label": "Ubiquiti Mesh Router",
-          "url": "https://www.google.com/search?q=Ubiquiti+Mesh+Router+price+drop"
+          "label": "Madden Video Game",
+          "url": "https://www.google.com/search?q=Madden+Video+Game+price+drop"
         },
         {
-          "label": "Ubiquiti Unifi",
-          "url": "https://www.google.com/search?q=Ubiquiti+Unifi+price+drop"
+          "label": "NBA 2K Video Game",
+          "url": "https://www.google.com/search?q=NBA+2K+Video+Game+price+drop"
         },
         {
-          "label": "Ubiquiti Amplifi",
-          "url": "https://www.google.com/search?q=Ubiquiti+Amplifi+price+drop"
+          "label": "Assassin’s Creed Video Game",
+          "url": "https://www.google.com/search?q=Assassin%27s+Creed+Video+Game+price+drop"
         },
         {
-          "label": "WiFi 6 Router",
-          "url": "https://www.google.com/search?q=WiFi+6+Router+price+drop"
+          "label": "Mortal Kombat Video Game",
+          "url": "https://www.google.com/search?q=Mortal+Kombat+Video+Game+price+drop"
         },
         {
-          "label": "Mesh WiFi System",
-          "url": "https://www.google.com/search?q=Mesh+WiFi+System+price+drop"
+          "label": "Street Fighter Video Game",
+          "url": "https://www.google.com/search?q=Street+Fighter+Video+Game+price+drop"
         },
         {
-          "label": "Gaming Router",
-          "url": "https://www.google.com/search?q=Gaming+Router+price+drop"
+          "label": "LEGO Video Game",
+          "url": "https://www.google.com/search?q=LEGO+Video+Game+price+drop"
         },
         {
-          "label": "Curved Monitor",
-          "url": "https://www.google.com/search?q=Curved+Monitor+price+drop"
+          "label": "Sonic Video Game",
+          "url": "https://www.google.com/search?q=Sonic+Video+Game+price+drop"
         },
         {
-          "label": "Ultrawide Monitor",
-          "url": "https://www.google.com/search?q=Ultrawide+Monitor+price+drop"
+          "label": "Final Fantasy Video Game",
+          "url": "https://www.google.com/search?q=Final+Fantasy+Video+Game+price+drop"
         },
         {
-          "label": "4K Monitor",
-          "url": "https://www.google.com/search?q=4K+Monitor+price+drop"
+          "label": "Pokemon Video Game",
+          "url": "https://www.google.com/search?q=Pokemon+Video+Game+price+drop"
         },
         {
-          "label": "27\" Monitor",
-          "url": "https://www.google.com/search?q=27%22+Monitor+price+drop"
+          "label": "Mario Video Game",
+          "url": "https://www.google.com/search?q=Mario+Video+Game+price+drop"
         },
         {
-          "label": "32\" Monitor",
-          "url": "https://www.google.com/search?q=32%22+Monitor+price+drop"
+          "label": "Zelda Video Game",
+          "url": "https://www.google.com/search?q=Zelda+Video+Game+price+drop"
+        },
+        {
+          "label": "Grand Theft Auto Video Game",
+          "url": "https://www.google.com/search?q=Grand+Theft+Auto+Video+Game+price+drop"
+        },
+        {
+          "label": "Red Dead Redemption Video Game",
+          "url": "https://www.google.com/search?q=Red+Dead+Redemption+Video+Game+price+drop"
+        },
+        {
+          "label": "Resident Evil Video Game",
+          "url": "https://www.google.com/search?q=Resident+Evil+Video+Game+price+drop"
+        },
+        {
+          "label": "Battlefield Video Game",
+          "url": "https://www.google.com/search?q=Battlefield+Video+Game+price+drop"
+        },
+        {
+          "label": "Star Wars Video Game",
+          "url": "https://www.google.com/search?q=Star+Wars+Video+Game+price+drop"
+        },
+        {
+          "label": "Switch Game",
+          "url": "https://www.google.com/search?q=Switch+Game+price+drop"
+        },
+        {
+          "label": "Steam PC Game",
+          "url": "https://www.google.com/search?q=Steam+PC+Game+price+drop"
+        },
+        {
+          "label": "PS5 Physical Game",
+          "url": "https://www.google.com/search?q=PS5+Physical+Game+price+drop"
+        },
+        {
+          "label": "PS5 Digital Game",
+          "url": "https://www.google.com/search?q=PS5+Digital+Game+price+drop"
+        },
+        {
+          "label": "Xbox Physical Game",
+          "url": "https://www.google.com/search?q=Xbox+Physical+Game+price+drop"
+        },
+        {
+          "label": "Xbox Digital Game",
+          "url": "https://www.google.com/search?q=Xbox+Digital+Game+price+drop"
+        },
+        {
+          "label": "PS5 Console",
+          "url": "https://www.google.com/search?q=PS5+Console+price+drop"
+        },
+        {
+          "label": "PS5 Slim Console",
+          "url": "https://www.google.com/search?q=PS5+Slim+Console+price+drop"
+        },
+        {
+          "label": "PS5 Digital Edition Console",
+          "url": "https://www.google.com/search?q=PS5+Digital+Edition+Console+price+drop"
+        },
+        {
+          "label": "PS5 Console Bundle",
+          "url": "https://www.google.com/search?q=PS5+Console+Bundle+price+drop"
+        },
+        {
+          "label": "Xbox Series X Console",
+          "url": "https://www.google.com/search?q=Xbox+Series+X+Console+price+drop"
+        },
+        {
+          "label": "Xbox Series S Console",
+          "url": "https://www.google.com/search?q=Xbox+Series+S+Console+price+drop"
+        },
+        {
+          "label": "Xbox One Console",
+          "url": "https://www.google.com/search?q=Xbox+One+Console+price+drop"
+        },
+        {
+          "label": "Nintendo Switch Console",
+          "url": "https://www.google.com/search?q=Nintendo+Switch+Console+price+drop"
+        },
+        {
+          "label": "Nintendo Switch 2 Console",
+          "url": "https://www.google.com/search?q=Nintendo+Switch+2+Console+price+drop"
+        },
+        {
+          "label": "Nintendo Switch OLED Console",
+          "url": "https://www.google.com/search?q=Nintendo+Switch+OLED+Console+price+drop"
+        },
+        {
+          "label": "Nintendo Switch Lite Console",
+          "url": "https://www.google.com/search?q=Nintendo+Switch+Lite+Console+price+drop"
+        },
+        {
+          "label": "Switch Console Bundle",
+          "url": "https://www.google.com/search?q=Switch+Console+Bundle+price+drop"
         }
       ]
     },
     {
-      "name": "Charging",
+      "name": "Home Security & Routers",
       "urls": [
         {
-          "label": "Baseus Power Bank",
-          "url": "https://www.google.com/search?q=Baseus+Power+Bank+price+drop"
+          "label": "Wyze Cam",
+          "url": "https://www.google.com/search?q=Wyze+Cam+price+drop"
         },
         {
-          "label": "Baseus Charger",
-          "url": "https://www.google.com/search?q=Baseus+Charger+price+drop"
+          "label": "Wyze Cam V3",
+          "url": "https://www.google.com/search?q=Wyze+Cam+V3+price+drop"
         },
         {
-          "label": "Baseus USB C Hub",
-          "url": "https://www.google.com/search?q=Baseus+USB+C+Hub+price+drop"
+          "label": "Wyze Cam V4",
+          "url": "https://www.google.com/search?q=Wyze+Cam+V4+price+drop"
         },
         {
-          "label": "Baseus Wireless Charger",
-          "url": "https://www.google.com/search?q=Baseus+Wireless+Charger+price+drop"
+          "label": "Wyze Cam Pan",
+          "url": "https://www.google.com/search?q=Wyze+Cam+Pan+price+drop"
         },
         {
-          "label": "Anker Power Bank",
-          "url": "https://www.google.com/search?q=Anker+Power+Bank+price+drop"
+          "label": "Wyze Cam Outdoor",
+          "url": "https://www.google.com/search?q=Wyze+Cam+Outdoor+price+drop"
         },
         {
-          "label": "Anker Charger",
-          "url": "https://www.google.com/search?q=Anker+Charger+price+drop"
+          "label": "Wyze Floodlight Cam",
+          "url": "https://www.google.com/search?q=Wyze+Floodlight+Cam+price+drop"
         },
         {
-          "label": "Anker USB C Hub",
-          "url": "https://www.google.com/search?q=Anker+USB+C+Hub+price+drop"
+          "label": "Wyze Video Doorbell",
+          "url": "https://www.google.com/search?q=Wyze+Video+Doorbell+price+drop"
         },
         {
-          "label": "Wireless Charger",
-          "url": "https://www.google.com/search?q=Wireless+Charger+price+drop"
+          "label": "Eufy Security Camera",
+          "url": "https://www.google.com/search?q=Eufy+Security+Camera+price+drop"
         },
         {
-          "label": "MagSafe Charger",
-          "url": "https://www.google.com/search?q=MagSafe+Charger+price+drop"
+          "label": "Eufy Indoor Camera",
+          "url": "https://www.google.com/search?q=Eufy+Indoor+Camera+price+drop"
         },
         {
-          "label": "USB C Charger",
-          "url": "https://www.google.com/search?q=USB+C+Charger+price+drop"
-        }
-      ]
-    },
-    {
-      "name": "Security & Home",
-      "urls": [
+          "label": "Eufy Outdoor Camera",
+          "url": "https://www.google.com/search?q=Eufy+Outdoor+Camera+price+drop"
+        },
+        {
+          "label": "Eufy Floodlight Camera",
+          "url": "https://www.google.com/search?q=Eufy+Floodlight+Camera+price+drop"
+        },
+        {
+          "label": "Eufy Spotlight Camera",
+          "url": "https://www.google.com/search?q=Eufy+Spotlight+Camera+price+drop"
+        },
         {
           "label": "Security Camera",
           "url": "https://www.google.com/search?q=Security+Camera+price+drop"
@@ -1505,24 +1467,298 @@
           "url": "https://www.google.com/search?q=Motion+Sensor+price+drop"
         },
         {
-          "label": "Smart Plug",
-          "url": "https://www.google.com/search?q=Smart+Plug+price+drop"
+          "label": "Outdoor Security Camera",
+          "url": "https://www.google.com/search?q=Outdoor+Security+Camera+price+drop"
         },
         {
-          "label": "Smart Bulb",
-          "url": "https://www.google.com/search?q=Smart+Bulb+price+drop"
+          "label": "Ubiquiti Router",
+          "url": "https://www.google.com/search?q=Ubiquiti+Router+price+drop"
         },
         {
-          "label": "Smart Thermostat",
-          "url": "https://www.google.com/search?q=Smart+Thermostat+price+drop"
+          "label": "Ubiquiti WiFi 6 Router",
+          "url": "https://www.google.com/search?q=Ubiquiti+WiFi+6+Router+price+drop"
         },
         {
-          "label": "Robot Vacuum",
-          "url": "https://www.google.com/search?q=Robot+Vacuum+price+drop"
+          "label": "Ubiquiti Mesh Router",
+          "url": "https://www.google.com/search?q=Ubiquiti+Mesh+Router+price+drop"
         },
         {
-          "label": "Stick Vacuum",
-          "url": "https://www.google.com/search?q=Stick+Vacuum+price+drop"
+          "label": "Ubiquiti Unifi",
+          "url": "https://www.google.com/search?q=Ubiquiti+Unifi+price+drop"
+        },
+        {
+          "label": "Ubiquiti Amplifi",
+          "url": "https://www.google.com/search?q=Ubiquiti+Amplifi+price+drop"
+        },
+        {
+          "label": "WiFi Router",
+          "url": "https://www.google.com/search?q=WiFi+Router+price+drop"
+        },
+        {
+          "label": "WiFi 6 Router",
+          "url": "https://www.google.com/search?q=WiFi+6+Router+price+drop"
+        },
+        {
+          "label": "WiFi 6E Router",
+          "url": "https://www.google.com/search?q=WiFi+6E+Router+price+drop"
+        },
+        {
+          "label": "WiFi 7 Router",
+          "url": "https://www.google.com/search?q=WiFi+7+Router+price+drop"
+        },
+        {
+          "label": "Mesh Router",
+          "url": "https://www.google.com/search?q=Mesh+Router+price+drop"
+        },
+        {
+          "label": "Dual Band Router",
+          "url": "https://www.google.com/search?q=Dual+Band+Router+price+drop"
+        },
+        {
+          "label": "Tri Band Router",
+          "url": "https://www.google.com/search?q=Tri+Band+Router+price+drop"
+        }
+      ]
+    },
+    {
+      "name": "Computer Parts & Monitors",
+      "urls": [
+        {
+          "label": "RTX 5090",
+          "url": "https://www.google.com/search?q=RTX+5090+price+drop"
+        },
+        {
+          "label": "RTX 5080",
+          "url": "https://www.google.com/search?q=RTX+5080+price+drop"
+        },
+        {
+          "label": "RTX 5070 Ti",
+          "url": "https://www.google.com/search?q=RTX+5070+Ti+price+drop"
+        },
+        {
+          "label": "RTX 5070",
+          "url": "https://www.google.com/search?q=RTX+5070+price+drop"
+        },
+        {
+          "label": "NVMe 1TB",
+          "url": "https://www.google.com/search?q=NVMe+1TB+price+drop"
+        },
+        {
+          "label": "NVMe 2TB",
+          "url": "https://www.google.com/search?q=NVMe+2TB+price+drop"
+        },
+        {
+          "label": "NVMe 4TB",
+          "url": "https://www.google.com/search?q=NVMe+4TB+price+drop"
+        },
+        {
+          "label": "NVMe SSD",
+          "url": "https://www.google.com/search?q=NVMe+SSD+price+drop"
+        },
+        {
+          "label": "NVMe Heatsink",
+          "url": "https://www.google.com/search?q=NVMe+Heatsink+price+drop"
+        },
+        {
+          "label": "NVMe Enclosure",
+          "url": "https://www.google.com/search?q=NVMe+Enclosure+price+drop"
+        },
+        {
+          "label": "NVMe 8TB",
+          "url": "https://www.google.com/search?q=NVMe+8TB+price+drop"
+        },
+        {
+          "label": "Gaming Monitor",
+          "url": "https://www.google.com/search?q=Gaming+Monitor+price+drop"
+        },
+        {
+          "label": "4K Monitor",
+          "url": "https://www.google.com/search?q=4K+Monitor+price+drop"
+        },
+        {
+          "label": "1440P Monitor",
+          "url": "https://www.google.com/search?q=1440p+Monitor+price+drop"
+        },
+        {
+          "label": "1080P Monitor",
+          "url": "https://www.google.com/search?q=1080p+Monitor+price+drop"
+        },
+        {
+          "label": "Ultrawide Monitor",
+          "url": "https://www.google.com/search?q=Ultrawide+Monitor+price+drop"
+        },
+        {
+          "label": "Curved Monitor",
+          "url": "https://www.google.com/search?q=Curved+Monitor+price+drop"
+        },
+        {
+          "label": "OLED Monitor",
+          "url": "https://www.google.com/search?q=OLED+Monitor+price+drop"
+        },
+        {
+          "label": "QLED Monitor",
+          "url": "https://www.google.com/search?q=QLED+Monitor+price+drop"
+        },
+        {
+          "label": "IPS Monitor",
+          "url": "https://www.google.com/search?q=IPS+Monitor+price+drop"
+        },
+        {
+          "label": "VA Monitor",
+          "url": "https://www.google.com/search?q=VA+Monitor+price+drop"
+        },
+        {
+          "label": "144Hz Monitor",
+          "url": "https://www.google.com/search?q=144Hz+Monitor+price+drop"
+        },
+        {
+          "label": "165Hz Monitor",
+          "url": "https://www.google.com/search?q=165Hz+Monitor+price+drop"
+        },
+        {
+          "label": "175Hz Monitor",
+          "url": "https://www.google.com/search?q=175Hz+Monitor+price+drop"
+        },
+        {
+          "label": "240Hz Monitor",
+          "url": "https://www.google.com/search?q=240Hz+Monitor+price+drop"
+        },
+        {
+          "label": "360Hz Monitor",
+          "url": "https://www.google.com/search?q=360Hz+Monitor+price+drop"
+        }
+      ]
+    },
+    {
+      "name": "Phones & Mobile Plans",
+      "urls": [
+        {
+          "label": "Samsung Galaxy S25",
+          "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+price+drop"
+        },
+        {
+          "label": "Samsung Galaxy S25 FE",
+          "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+FE+price+drop"
+        },
+        {
+          "label": "Unlocked Galaxy S25",
+          "url": "https://www.google.com/search?q=Unlocked+Galaxy+S25+price+drop"
+        },
+        {
+          "label": "Samsung Galaxy Phone",
+          "url": "https://www.google.com/search?q=Samsung+Galaxy+Phone+price+drop"
+        },
+        {
+          "label": "Unlocked Galaxy S25 Ultra",
+          "url": "https://www.google.com/search?q=Unlocked+Galaxy+S25+Ultra+price+drop"
+        },
+        {
+          "label": "Samsung Phone Unlocked",
+          "url": "https://www.google.com/search?q=Samsung+Phone+Unlocked+price+drop"
+        },
+        {
+          "label": "Samsung Galaxy S24 Unlocked",
+          "url": "https://www.google.com/search?q=Samsung+Galaxy+S24+Unlocked+price+drop"
+        },
+        {
+          "label": "Samsung Galaxy Z Flip Unlocked",
+          "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+Unlocked+price+drop"
+        },
+        {
+          "label": "Samsung Galaxy S23 Unlocked",
+          "url": "https://www.google.com/search?q=Samsung+Galaxy+S23+Unlocked+price+drop"
+        },
+        {
+          "label": "iPhone 17",
+          "url": "https://www.google.com/search?q=iPhone+17+price+drop"
+        },
+        {
+          "label": "iPhone 17 Pro",
+          "url": "https://www.google.com/search?q=iPhone+17+Pro+price+drop"
+        },
+        {
+          "label": "iPhone 17 Pro Max",
+          "url": "https://www.google.com/search?q=iPhone+17+Pro+Max+price+drop"
+        },
+        {
+          "label": "Unlocked iPhone",
+          "url": "https://www.google.com/search?q=Unlocked+iPhone+price+drop"
+        },
+        {
+          "label": "Unlocked Pixel Phone",
+          "url": "https://www.google.com/search?q=Unlocked+Pixel+Phone+price+drop"
+        },
+        {
+          "label": "Pixel 10 Unlocked",
+          "url": "https://www.google.com/search?q=Pixel+10+Unlocked+price+drop"
+        },
+        {
+          "label": "Pixel 10 Pro Unlocked",
+          "url": "https://www.google.com/search?q=Pixel+10+Pro+Unlocked+price+drop"
+        },
+        {
+          "label": "Pixel 9 Unlocked",
+          "url": "https://www.google.com/search?q=Pixel+9+Unlocked+price+drop"
+        },
+        {
+          "label": "Pixel 9 Pro Unlocked",
+          "url": "https://www.google.com/search?q=Pixel+9+Pro+Unlocked+price+drop"
+        },
+        {
+          "label": "Pixel 9 Pro XL Unlocked",
+          "url": "https://www.google.com/search?q=Pixel+9+Pro+XL+Unlocked+price+drop"
+        },
+        {
+          "label": "YYWireless eBay",
+          "url": "https://www.ebay.com/str/bayshinestore"
+        },
+        {
+          "label": "Cellfee eBay",
+          "url": "https://www.ebay.com/str/cellfeee?_trksid=p3671980.m570.l113337"
+        },
+        {
+          "label": "Guaranteecellular eBay",
+          "url": "https://www.ebay.com/str/guaranteecellular?_trksid=p4429486.m3561.l161211"
+        },
+        {
+          "label": "DirectAuth eBay",
+          "url": "https://www.ebay.com/str/directauth"
+        },
+        {
+          "label": "Amazing Wireless eBay",
+          "url": "https://www.ebay.com/str/amazingwireless"
+        },
+        {
+          "label": "A4C eBay",
+          "url": "https://www.ebay.com/str/a4c"
+        },
+        {
+          "label": "Vipoutlet eBay",
+          "url": "https://www.ebay.com/str/vipoutlet/Cell-Phone-Accessories/_i.html?store_cat=5912047&_trksid=p4429486.m3561.l161211"
+        },
+        {
+          "label": "T-Mobile",
+          "url": "https://share.google/aimode/WOHjKi53GgPD8tlFj"
+        },
+        {
+          "label": "Verizon",
+          "url": "https://share.google/aimode/Jo8U0CwQ4ib9Aqj0I"
+        },
+        {
+          "label": "Tracfone",
+          "url": "https://share.google/aimode/w7zpaPvE66HzuGw8M"
+        },
+        {
+          "label": "Visible",
+          "url": "https://share.google/aimode/u6znOh1CyZsmfu3Ft"
+        },
+        {
+          "label": "Mint Mobile",
+          "url": "https://www.mintmobile.com/deals/"
+        },
+        {
+          "label": "US Mobile",
+          "url": "https://www.usmobile.com/plans"
         }
       ]
     },
@@ -1530,20 +1766,110 @@
       "name": "Streaming Services",
       "urls": [
         {
-          "label": "Hulu Subscription",
-          "url": "https://www.google.com/search?q=Hulu+Subscription+price+drop"
+          "label": "HBO Max Subscription",
+          "url": "https://www.google.com/search?q=HBO+Max+Subscription+deal"
+        },
+        {
+          "label": "Netflix Subscription",
+          "url": "https://www.google.com/search?q=Netflix+Subscription+deal"
+        },
+        {
+          "label": "Disney+ Subscription",
+          "url": "https://www.google.com/search?q=Disney%2B+Subscription+deal"
         },
         {
           "label": "Peacock Subscription",
-          "url": "https://www.google.com/search?q=Peacock+Subscription+price+drop"
+          "url": "https://www.google.com/search?q=Peacock+Subscription+deal"
         },
         {
           "label": "Paramount Subscription",
-          "url": "https://www.google.com/search?q=Paramount+Subscription+price+drop"
+          "url": "https://www.google.com/search?q=Paramount+Subscription+deal"
         },
         {
-          "label": "HBO Subscription",
-          "url": "https://www.google.com/search?q=HBO+Subscription+price+drop"
+          "label": "Hulu Subscription",
+          "url": "https://www.google.com/search?q=Hulu+Subscription+deal"
+        },
+        {
+          "label": "Apple TV+ Subscription",
+          "url": "https://www.google.com/search?q=Apple+TV%2B+Subscription+deal"
+        },
+        {
+          "label": "ESPN+ Subscription",
+          "url": "https://www.google.com/search?q=ESPN%2B+Subscription+deal"
+        },
+        {
+          "label": "Disney+ Bundle",
+          "url": "https://www.google.com/search?q=Disney%2B+Bundle+deal"
+        }
+      ]
+    },
+    {
+      "name": "Gift Cards",
+      "urls": [
+        {
+          "label": "Raise GCX",
+          "url": "https://gcx.raise.com/buy-gift-cards"
+        },
+        {
+          "label": "GiftCards.com",
+          "url": "https://www.giftcards.com/"
+        },
+        {
+          "label": "Sam's Club GC's",
+          "url": "https://www.samsclub.com/browse/gift-cards/17030184"
+        },
+        {
+          "label": "Costco GC's",
+          "url": "https://www.costco.com/gift-cards-tickets.html"
+        },
+        {
+          "label": "Kroger GC's",
+          "url": "https://giftcards.kroger.com/promotions"
+        },
+        {
+          "label": "eGifter",
+          "url": "https://www.egifter.com/promos"
+        },
+        {
+          "label": "Apple Gift Card",
+          "url": "https://www.google.com/search?q=Apple+Gift+Card+deal"
+        },
+        {
+          "label": "Apple eGift Card",
+          "url": "https://www.google.com/search?q=Apple+eGift+Card+deal"
+        }
+      ]
+    },
+    {
+      "name": "Tax Services",
+      "urls": [
+        {
+          "label": "H&R Block Tax Software",
+          "url": "https://www.google.com/search?q=H%26R+Block+Tax+Software+deal"
+        },
+        {
+          "label": "H&R Block Deluxe",
+          "url": "https://www.google.com/search?q=H%26R+Block+Deluxe+deal"
+        },
+        {
+          "label": "H&R Block Premium",
+          "url": "https://www.google.com/search?q=H%26R+Block+Premium+deal"
+        },
+        {
+          "label": "TurboTax Tax Software",
+          "url": "https://www.google.com/search?q=TurboTax+Tax+Software+deal"
+        },
+        {
+          "label": "TurboTax Deluxe",
+          "url": "https://www.google.com/search?q=TurboTax+Deluxe+deal"
+        },
+        {
+          "label": "TurboTax Premier",
+          "url": "https://www.google.com/search?q=TurboTax+Premier+deal"
+        },
+        {
+          "label": "TurboTax Self-Employed",
+          "url": "https://www.google.com/search?q=TurboTax+Self-Employed+deal"
         }
       ]
     }
