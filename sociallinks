@@ -1,1 +1,17 @@
-
+{
+  "title": "Social Links",
+  "buttons": [
+    { "label": "Reddit",   "utm": "reddit",   "dotCom": true },
+    { "label": "Facebook", "utm": "facebook" },
+    { "label": "Threads",  "utm": "threads" },
+    { "label": "Instagram","utm": "instagram" },
+    { "label": "IG/FB Stories","utm": "stories" },
+    { "label": "LinkedIn", "utm": "linkedin" },
+    { "label": "Twitter",  "utm": "twitter" },
+    { "label": "Blue Sky", "utm": "bluesky" },
+    { "label": "Mastodon", "utm": "mastodon" },
+    { "label": "Discord",  "utm": "discord" },
+    { "label": "YouTube",  "utm": "youtube" },
+    { "label": "TikTok",   "utm": "tiktok" }
+  ]
+}
