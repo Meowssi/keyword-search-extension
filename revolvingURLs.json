@@ -9414,7 +9414,7 @@
       "stores": []
     },
     "Black Friday / Cyber Monday": {
-      "active": true,
+      "active": false,
       "categories": [],
       "brands": [],
       "stores": [
