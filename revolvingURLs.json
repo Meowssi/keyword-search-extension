@@ -23,11 +23,11 @@
               "url": "https://www.google.com/search?q=gaming+laptop+price+drop"
             },
             {
-              "label": "i5 Laptop",
+              "label": "I5 Laptop",
               "url": "https://www.google.com/search?q=i5+laptop+price+drop"
             },
             {
-              "label": "i7 Laptop",
+              "label": "I7 Laptop",
               "url": "https://www.google.com/search?q=i7+laptop+price+drop"
             },
             {
@@ -105,7 +105,7 @@
               "url": "https://www.google.com/search?q=portable+charger+price+drop"
             },
             {
-              "label": "USB Wall Charger",
+              "label": "Usb Wall Charger",
               "url": "https://www.google.com/search?q=usb+wall+charger+price+drop"
             },
             {
@@ -113,7 +113,7 @@
               "url": "https://www.google.com/search?q=charging+station+price+drop"
             },
             {
-              "label": "GaN Charger",
+              "label": "Gan Charger",
               "url": "https://www.google.com/search?q=gan+charger+price+drop"
             },
             {
@@ -162,7 +162,7 @@
               "url": "https://www.google.com/search?q=ergonomic+mouse+price+drop"
             },
             {
-              "label": "Full HD Monitor",
+              "label": "Full Hd Monitor",
               "url": "https://www.google.com/search?q=full+hd+monitor+price+drop"
             },
             {
@@ -187,7 +187,7 @@
           "name": "Printers",
           "urls": [
             {
-              "label": "All-in-One Printer",
+              "label": "All-In-One Printer",
               "url": "https://www.google.com/search?q=all-in-one+printer+price+drop"
             },
             {
@@ -219,7 +219,7 @@
               "url": "https://www.google.com/search?q=wireless+color+printer+price+drop"
             },
             {
-              "label": "Black and White Printer",
+              "label": "Black And White Printer",
               "url": "https://www.google.com/search?q=black+and+white+printer+price+drop"
             },
             {
@@ -236,15 +236,15 @@
               "url": "https://www.google.com/search?q=unlocked+cell+phone+price+drop"
             },
             {
-              "label": "128GB Unlocked Phone",
+              "label": "128Gb Unlocked Phone",
               "url": "https://www.google.com/search?q=128gb+unlocked+cell+phone+price+drop"
             },
             {
-              "label": "256GB Unlocked Phone",
+              "label": "256Gb Unlocked Phone",
               "url": "https://www.google.com/search?q=256gb+unlocked+cell+phone+price+drop"
             },
             {
-              "label": "512GB Unlocked Phone",
+              "label": "512Gb Unlocked Phone",
               "url": "https://www.google.com/search?q=512gb+unlocked+cell+phone+price+drop"
             },
             {
@@ -256,7 +256,7 @@
               "url": "https://www.google.com/search?q=fitness+tracker+price+drop"
             },
             {
-              "label": "GPS Smartwatch",
+              "label": "Gps Smartwatch",
               "url": "https://www.google.com/search?q=gps+smartwatch+price+drop"
             },
             {
@@ -575,7 +575,7 @@
               "url": "https://www.google.com/search?q=desk+lamp+price+drop"
             },
             {
-              "label": "LED Strip Lights",
+              "label": "Led Strip Lights",
               "url": "https://www.google.com/search?q=LED+strip+lights+price+drop"
             },
             {
@@ -637,7 +637,7 @@
           "name": "Bed & Bath",
           "urls": [
             {
-              "label": "Twin XL Sheets",
+              "label": "Twin Xl Sheets",
               "url": "https://www.google.com/search?q=twin+xl+sheets+price+drop"
             },
             {
@@ -1015,7 +1015,7 @@
               "url": "https://www.google.com/search?q=hp+inkjet+printer+price+drop"
             },
             {
-              "label": "All-in-One Printer",
+              "label": "All-In-One Printer",
               "url": "https://www.google.com/search?q=hp+all-in-one+printer+price+drop"
             },
             {
@@ -1035,7 +1035,7 @@
               "url": "https://www.google.com/search?q=hp+mouse+price+drop"
             },
             {
-              "label": "Desktop PC",
+              "label": "Desktop Pc",
               "url": "https://www.google.com/search?q=hp+desktop+pc+price+drop"
             }
           ]
@@ -1353,23 +1353,23 @@
           "name": "Amazon",
           "urls": [
             {
-              "label": "Back to School Landing Page",
+              "label": "Back To School Landing Page",
               "url": "https://www.amazon.com/b?node=121082095011"
             },
             {
-              "label": "Back to School Deals",
+              "label": "Back To School Deals",
               "url": "https://www.amazon.com/b?node=206759137011&ref_=deals&pf_rd_p=8e84a714-7388-416e-a178-0f58a825ac9a&pf_rd_r=HAAWWW3A4AD6DB0PN3JE"
             },
             {
-              "label": "50% Off or More School Supply",
+              "label": "50% Off Or More School Supply",
               "url": "https://www.amazon.com/deals?ref_=nav_cs_gb&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25221084128%252F1069242%255C%2522%255D%257D%252C%255C%2522rangeRefinementFilters%255C%2522%253A%257B%255C%2522percentOff%255C%2522%253A%257B%255C%2522min%255C%2522%253A50%252C%255C%2522max%255C%2522%253A90%257D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522"
             },
             {
-              "label": "50% Off or More Men's Clothing",
+              "label": "50% Off Or More Men's Clothing",
               "url": "https://www.amazon.com/deals?ref_=nav_cs_gb&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25227141124011%252F7147441011%255C%2522%255D%257D%252C%255C%2522rangeRefinementFilters%255C%2522%253A%257B%255C%2522percentOff%255C%2522%253A%257B%255C%2522min%255C%2522%253A50%252C%255C%2522max%255C%2522%253A90%257D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522"
             },
             {
-              "label": "50% Off or More Women's Clothing",
+              "label": "50% Off Or More Women's Clothing",
               "url": "https://www.amazon.com/deals?ref_=nav_cs_gb&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25227141124011%252F7147440011%255C%2522%255D%257D%252C%255C%2522rangeRefinementFilters%255C%2522%253A%257B%255C%2522percentOff%255C%2522%253A%257B%255C%2522min%255C%2522%253A50%252C%255C%2522max%255C%2522%253A90%257D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522"
             },
             {
@@ -1410,11 +1410,11 @@
               "url": "https://www.walmart.com/browse/clothing/school-backpacks/5438_1045799_4662138_3134823?povid=XCATNav_SeasonalStyle_BTS_BTSCP_CP_Hubspokes_FY26_Backpacks&facet=retailer_type%3AWalmart"
             },
             {
-              "label": "Back-to-School Clothing",
+              "label": "Back-To-School Clothing",
               "url": "https://www.walmart.com/browse/back-to-school-clothing/5438_1432442?povid=XCATNav_SeasonalStyle_BTS_BTSCP_CP_Hubspokes_FY26_Fashion&facet=retailer_type%3AWalmart"
             },
             {
-              "label": "Back-to-School Tech",
+              "label": "Back-To-School Tech",
               "url": "https://www.walmart.com/shop/back-to-school/tech?povid=XCATNav_SeasonalStyle_BTS_BTSCP_Shop_Hubspokes_FY26_Tech&facet=retailer_type%3AWalmart"
             },
             {
@@ -1463,7 +1463,7 @@
               "url": "https://www.bestbuy.com/site/all-electronics-on-sale/all-apple-on-sale/pcmcat1688758488330.c?id=pcmcat1688758488330"
             },
             {
-              "label": "TVs",
+              "label": "Tvs",
               "url": "https://www.bestbuy.com/site/promo/bts-tvs?qp=currentoffers_facet%3DCurrent%20Deals~On%20Sale"
             },
             {
@@ -1491,7 +1491,7 @@
               "url": "https://www.bestbuy.com/site/promo/bts-smart-home-networking?qp=currentoffers_facet%3DCurrent%20Deals~On%20Sale"
             },
             {
-              "label": "PC Gaming",
+              "label": "Pc Gaming",
               "url": "https://www.bestbuy.com/site/promo/bts-pc-gaming?qp=currentoffers_facet%3DCurrent+Deals~On+Sale&st=bts-pc-gaming"
             },
             {
@@ -1541,11 +1541,11 @@
           "name": "Michael's",
           "urls": [
             {
-              "label": "Back-to-School Supplies",
+              "label": "Back-To-School Supplies",
               "url": "https://www.michaels.com/shop/holidays-occasions/back-to-school-supplies"
             },
             {
-              "label": "Back-to-Class Decor",
+              "label": "Back-To-Class Decor",
               "url": "https://www.michaels.com/shop/holidays-occasions/back-to-school-supplies/back-to-class-decor"
             },
             {
@@ -1595,7 +1595,7 @@
           "name": "Office Depot",
           "urls": [
             {
-              "label": "Back-to-School",
+              "label": "Back-To-School",
               "url": "https://www.officedepot.com/b/dynamic/brg_dyn_ziafchp49b/dynamicId=brg_dyn_ziafchp49b?promo_name=homepage&promo_id=homepage_test&promo_creative=bts_hero1_position"
             },
             {
@@ -1611,7 +1611,7 @@
               "url": "https://www.officedepot.com/l/deal-center/furniture-deals"
             },
             {
-              "label": "PC",
+              "label": "Pc",
               "url": "https://www.officedepot.com/l/deal-center/pc-deals"
             },
             {
@@ -1628,7 +1628,7 @@
           "name": "Target",
           "urls": [
             {
-              "label": "Back to School",
+              "label": "Back To School",
               "url": "https://www.target.com/c/back-to-school-deals/-/N-h334a"
             },
             {
@@ -1681,7 +1681,7 @@
               "url": "https://www.ebay.com/str/bullseyedeal?_soffType=CodedCouponOffer&_soffid=14942590704&_tab=sales&_trksid=p2047675.m2197"
             },
             {
-              "label": "adidas Store",
+              "label": "Adidas Store",
               "url": "https://www.ebay.com/str/adidas"
             },
             {
@@ -1709,11 +1709,11 @@
               "url": "https://www.ebay.com/str/logitech?_trksid=p4429486.m3561.l161211"
             },
             {
-              "label": "PUMA Official Store",
+              "label": "Puma Official Store",
               "url": "https://www.ebay.com/str/theofficialpumastore?_trksid=p4429486.m3561.l161211"
             },
             {
-              "label": "WD Store",
+              "label": "Wd Store",
               "url": "https://www.ebay.com/str/wd?_trksid=p4429486.m3561.l161211"
             }
           ]
@@ -1722,23 +1722,23 @@
           "name": "Macy's",
           "urls": [
             {
-              "label": "Girls' Back-to-School",
+              "label": "Girls' Back-To-School",
               "url": "https://www.macys.com/shop/kids-clothes/kids-back-to-school-clothes/girls-back-to-school-clothes?id=291957#canvas"
             },
             {
-              "label": "Boys' Back-to-School",
+              "label": "Boys' Back-To-School",
               "url": "https://www.macys.com/shop/kids-clothes/kids-back-to-school-clothes/boys-back-to-school-clothes?id=291956"
             },
             {
-              "label": "Juniors Back to School",
+              "label": "Juniors Back To School",
               "url": "https://www.macys.com/shop/junior-clothing/back-to-school?id=60863"
             },
             {
-              "label": "Young Men's Back to School",
+              "label": "Young Men's Back To School",
               "url": "https://www.macys.com/shop/mens-clothing/young-mens-back-to-school-clothes?id=64877"
             },
             {
-              "label": "Off to College",
+              "label": "Off To College",
               "url": "https://www.macys.com/shop/off-to-college?id=207454"
             },
             {
@@ -2144,7 +2144,7 @@
               "url": "https://www.google.com/search?q=75-inch+TV+price+drop"
             },
             {
-              "label": "Ultra HD TV",
+              "label": "Ultra Hd TV",
               "url": "https://www.google.com/search?q=Ultra+HD+TV+price+drop"
             },
             {
@@ -2165,7 +2165,7 @@
               "url": "https://www.google.com/search?q=Gas+grill+price+drop"
             },
             {
-              "label": "BBQ Grill",
+              "label": "Bbq Grill",
               "url": "https://www.google.com/search?q=BBQ+grill+price+drop"
             },
             {
@@ -2398,7 +2398,7 @@
               "url": "https://www.google.com/search?q=Grill+rotisserie+price+drop"
             },
             {
-              "label": "BBQ Gloves",
+              "label": "Bbq Gloves",
               "url": "https://www.google.com/search?q=BBQ+gloves+price+drop"
             },
             {
@@ -2406,7 +2406,7 @@
               "url": "https://www.google.com/search?q=Grill+light+price+drop"
             },
             {
-              "label": "BBQ Apron",
+              "label": "Bbq Apron",
               "url": "https://www.google.com/search?q=BBQ+apron+price+drop"
             },
             {
@@ -2418,11 +2418,11 @@
               "url": "https://www.google.com/search?q=Grill+mat+price+drop"
             },
             {
-              "label": "BBQ Thermometer",
+              "label": "Bbq Thermometer",
               "url": "https://www.google.com/search?q=BBQ+thermometer+price+drop"
             },
             {
-              "label": "BBQ Skewers",
+              "label": "Bbq Skewers",
               "url": "https://www.google.com/search?q=BBQ+skewers+price+drop"
             }
           ]
@@ -2521,7 +2521,7 @@
               "url": "https://www.google.com/search?q=Unlocked+smartphone+price+drop"
             },
             {
-              "label": "Dual SIM Smartphone",
+              "label": "Dual Sim Smartphone",
               "url": "https://www.google.com/search?q=Dual+SIM+smartphone+price+drop"
             },
             {
@@ -2611,7 +2611,7 @@
               "url": "https://www.google.com/search?q=Digital+camera+price+drop"
             },
             {
-              "label": "DSLR Camera",
+              "label": "Dslr Camera",
               "url": "https://www.google.com/search?q=DSLR+camera+price+drop"
             },
             {
@@ -2635,7 +2635,7 @@
               "url": "https://www.google.com/search?q=Film+camera+price+drop"
             },
             {
-              "label": "SLR Camera",
+              "label": "Slr Camera",
               "url": "https://www.google.com/search?q=SLR+camera+price+drop"
             },
             {
@@ -2693,7 +2693,7 @@
           "name": "Gaming Consoles",
           "urls": [
             {
-              "label": "PlayStation 5",
+              "label": "Playstation 5",
               "url": "https://www.google.com/search?q=PlayStation+5+price+drop"
             },
             {
@@ -2709,7 +2709,7 @@
               "url": "https://www.google.com/search?q=Nintendo+Switch+2+price+drop"
             },
             {
-              "label": "PlayStation VR",
+              "label": "Playstation Vr",
               "url": "https://www.google.com/search?q=PlayStation+VR+price+drop"
             },
             {
@@ -2725,7 +2725,7 @@
               "url": "https://www.google.com/search?q=Xbox+Series+X+accessories+price+drop"
             },
             {
-              "label": "PlayStation 5 Controller",
+              "label": "Playstation 5 Controller",
               "url": "https://www.google.com/search?q=PlayStation+5+controller+price+drop"
             },
             {
@@ -2853,7 +2853,7 @@
               "url": "https://www.google.com/search?q=Dash+cam+price+drop"
             },
             {
-              "label": "VR Headset",
+              "label": "Vr Headset",
               "url": "https://www.google.com/search?q=VR+headset+price+drop"
             },
             {
@@ -2886,11 +2886,11 @@
               "url": "https://www.google.com/search?q=Gaming+laptop+price+drop"
             },
             {
-              "label": "Desktop PC",
+              "label": "Desktop Pc",
               "url": "https://www.google.com/search?q=Desktop+PC+price+drop"
             },
             {
-              "label": "All-In-One PC",
+              "label": "All-In-One Pc",
               "url": "https://www.google.com/search?q=All-in-one+PC+price+drop"
             },
             {
@@ -3388,7 +3388,7 @@
               "url": "https://www.google.com/search?q=Sport+earbuds+price+drop"
             },
             {
-              "label": "ANC Headphones",
+              "label": "Anc Headphones",
               "url": "https://www.google.com/search?q=ANC+headphones+price+drop"
             },
             {
@@ -3429,7 +3429,7 @@
               "url": "https://www.google.com/search?q=Motherboard+price+drop"
             },
             {
-              "label": "PC Case",
+              "label": "Pc Case",
               "url": "https://www.google.com/search?q=PC+case+price+drop"
             },
             {
@@ -3519,7 +3519,7 @@
               "url": "https://www.google.com/search?q=Curved+TV+price+drop"
             },
             {
-              "label": "Ultra HD TV",
+              "label": "Ultra Hd TV",
               "url": "https://www.google.com/search?q=Ultra+HD+TV+price+drop"
             },
             {
@@ -3662,7 +3662,7 @@
               "url": "https://www.google.com/search?q=Grill+smoker+price+drop"
             },
             {
-              "label": "BBQ Gloves",
+              "label": "Bbq Gloves",
               "url": "https://www.google.com/search?q=BBQ+gloves+price+drop"
             },
             {
@@ -3701,7 +3701,7 @@
               "url": "https://www.google.com/search?q=Apple+pencil+price+drop"
             },
             {
-              "label": "AirTag",
+              "label": "Airtag",
               "url": "https://www.google.com/search?q=Apple+AirTag+price+drop"
             },
             {
@@ -3758,7 +3758,7 @@
               "url": "https://www.google.com/search?q=Samsung+projector+price+drop"
             },
             {
-              "label": "SmartTag",
+              "label": "Smarttag",
               "url": "https://www.google.com/search?q=Samsung+SmartTag+price+drop"
             }
           ]
@@ -3844,7 +3844,7 @@
               "url": "https://www.google.com/search?q=LG+speaker+price+drop"
             },
             {
-              "label": "Portable AC",
+              "label": "Portable Ac",
               "url": "https://www.google.com/search?q=LG+portable+AC+price+drop"
             },
             {
@@ -4012,7 +4012,7 @@
               "url": "https://www.google.com/search?q=Anker+wireless+charger+price+drop"
             },
             {
-              "label": "USB Hub",
+              "label": "Usb Hub",
               "url": "https://www.google.com/search?q=Anker+USB+hub+price+drop"
             },
             {
@@ -4877,20 +4877,26 @@
         {
           "name": "eBay",
           "urls": [
-            { "label": "Daily Deals", "url": "https://www.ebay.com/deals" },
+            {
+              "label": "Daily Deals",
+              "url": "https://www.ebay.com/deals"
+            },
             {
               "label": "Sales & Events",
               "url": "https://www.ebay.com/b/Sales-Events/bn_7115049177"
             },
             {
-              "label": "Coupon Feed eBay",
+              "label": "Coupon Feed Ebay",
               "url": "https://internal.slickdeals.tools/deal-hunters/coupon-feed?q=ebay"
             },
             {
               "label": "Fashion Deals",
               "url": "https://www.ebay.com/deals/fashion"
             },
-            { "label": "Tech Deals", "url": "https://www.ebay.com/deals/tech" },
+            {
+              "label": "Tech Deals",
+              "url": "https://www.ebay.com/deals/tech"
+            },
             {
               "label": "Sporting Goods Deals",
               "url": "https://www.ebay.com/deals/sporting-goods"
@@ -5560,7 +5566,7 @@
               "url": "https://www.google.com/search?q=Lantern+price+drop"
             },
             {
-              "label": "LED Bulbs",
+              "label": "Led Bulbs",
               "url": "https://www.google.com/search?q=LED+bulbs+price+drop"
             },
             {
@@ -5979,7 +5985,7 @@
               "url": "https://www.google.com/search?q=Anker+wireless+charger+price+drop"
             },
             {
-              "label": "USB Hub",
+              "label": "Usb Hub",
               "url": "https://www.google.com/search?q=Anker+USB+hub+price+drop"
             },
             {
@@ -6257,7 +6263,7 @@
               "url": "https://www.google.com/search?q=JBL+gaming+headset+price+drop"
             },
             {
-              "label": "ANC Headphones",
+              "label": "Anc Headphones",
               "url": "https://www.google.com/search?q=JBL+ANC+headphones+price+drop"
             }
           ]
@@ -6890,11 +6896,17 @@
           "name": "REI",
           "urls": [
             {
-              "label": "4th Of July Landing Page",
+              "label": "4Th Of July Landing Page",
               "url": "https://www.rei.com/promotions/fourth-of-july-sale"
             },
-            { "label": "All Deals", "url": "https://www.rei.com/h/deals" },
-            { "label": "Outlet Deals", "url": "https://www.rei.com/outlet" },
+            {
+              "label": "All Deals",
+              "url": "https://www.rei.com/h/deals"
+            },
+            {
+              "label": "Outlet Deals",
+              "url": "https://www.rei.com/outlet"
+            },
             {
               "label": "Camp & Hike Deals",
               "url": "https://www.rei.com/c/camping-and-hiking/f/scd-deals"
@@ -6921,7 +6933,7 @@
           "name": "Target",
           "urls": [
             {
-              "label": "4th Of July Deals",
+              "label": "4Th Of July Deals",
               "url": "https://www.target.com/c/fourth-of-july/-/N-94xggZakkos?moveTo=product-list-grid"
             },
             {
@@ -6969,20 +6981,26 @@
         {
           "name": "eBay",
           "urls": [
-            { "label": "Daily Deals", "url": "https://www.ebay.com/deals" },
+            {
+              "label": "Daily Deals",
+              "url": "https://www.ebay.com/deals"
+            },
             {
               "label": "Sales & Events",
               "url": "https://www.ebay.com/b/Sales-Events/bn_7115049177"
             },
             {
-              "label": "Coupon Feed eBay",
+              "label": "Coupon Feed Ebay",
               "url": "https://internal.slickdeals.tools/deal-hunters/coupon-feed?q=ebay"
             },
             {
               "label": "Fashion Deals",
               "url": "https://www.ebay.com/deals/fashion"
             },
-            { "label": "Tech Deals", "url": "https://www.ebay.com/deals/tech" },
+            {
+              "label": "Tech Deals",
+              "url": "https://www.ebay.com/deals/tech"
+            },
             {
               "label": "Sporting Goods Deals",
               "url": "https://www.ebay.com/deals/sporting-goods"
@@ -7570,11 +7588,11 @@
               "url": "https://www.google.com/search?q=chromebook+price+drop"
             },
             {
-              "label": "All-In-One PC",
+              "label": "All-In-One Pc",
               "url": "https://www.google.com/search?q=all-in-one+pc+price+drop"
             },
             {
-              "label": "Desktop PC",
+              "label": "Desktop Pc",
               "url": "https://www.google.com/search?q=desktop+pc+price+drop"
             },
             {
@@ -7586,7 +7604,7 @@
               "url": "https://www.google.com/search?q=2-in-1+laptop+price+drop"
             },
             {
-              "label": "i5 Laptop",
+              "label": "I5 Laptop",
               "url": "https://www.google.com/search?q=i5+laptop+price+drop"
             },
             {
@@ -7611,15 +7629,15 @@
               "url": "https://www.google.com/search?q=unlocked+cell+phone+price+drop"
             },
             {
-              "label": "128GB Unlocked Cell Phone",
+              "label": "128Gb Unlocked Cell Phone",
               "url": "https://www.google.com/search?q=128gb+unlocked+cell+phone+price+drop"
             },
             {
-              "label": "256GB Unlocked Cell Phone",
+              "label": "256Gb Unlocked Cell Phone",
               "url": "https://www.google.com/search?q=256gb+unlocked+cell+phone+price+drop"
             },
             {
-              "label": "512GB Unlocked Cell Phone",
+              "label": "512Gb Unlocked Cell Phone",
               "url": "https://www.google.com/search?q=512gb+unlocked+cell+phone+price+drop"
             },
             {
@@ -7631,7 +7649,7 @@
               "url": "https://www.google.com/search?q=fitness+tracker+price+drop"
             },
             {
-              "label": "GPS Smartwatch",
+              "label": "Gps Smartwatch",
               "url": "https://www.google.com/search?q=gps+smartwatch+price+drop"
             },
             {
@@ -7684,7 +7702,7 @@
               "url": "https://www.google.com/search?q=car+charger+price+drop"
             },
             {
-              "label": "GaN Charger",
+              "label": "Gan Charger",
               "url": "https://www.google.com/search?q=gan+charger+price+drop"
             },
             {
@@ -8124,7 +8142,7 @@
               "url": "https://www.google.com/search?q=roborock+q7+price+drop"
             },
             {
-              "label": "S7 MaxV",
+              "label": "S7 Maxv",
               "url": "https://www.google.com/search?q=roborock+s7+maxv+price+drop"
             },
             {
@@ -8326,7 +8344,6 @@
           ]
         }
       ],
-
       "stores": []
     },
     "Halloween": {
@@ -8356,7 +8373,7 @@
               "url": "https://www.lowes.com/pl/halloween-decorations/on-sale/4294586669-2"
             },
             {
-              "label": "eBay",
+              "label": "Ebay",
               "url": "https://www.ebay.com/b/Halloween/bn_7006482158"
             },
             {
@@ -8368,7 +8385,7 @@
               "url": "https://www.walgreens.com/store/c/productlist/N=20001182/1/ShopAll=20001182?ban=FY26_Shop_All"
             },
             {
-              "label": "CVS",
+              "label": "Cvs",
               "url": "https://www.cvs.com/shop/merch/halloween-deals?widgetID=p5konnqp&icid=shop-halloween-nav-halloween-deals"
             },
             {
@@ -8389,11 +8406,11 @@
           "name": "Deal Sites Halloween Pages",
           "urls": [
             {
-              "label": "DealNews Halloween",
+              "label": "Dealnews Halloween",
               "url": "https://www.dealnews.com/c544/Store-Events/Halloween-Items/?sort=time"
             },
             {
-              "label": "KrazyCouponLady Halloween",
+              "label": "Krazycouponlady Halloween",
               "url": "https://thekrazycouponlady.com/deals/halloween"
             },
             {
@@ -8405,15 +8422,15 @@
               "url": "https://www.bradsdeals.com/shop/feeds/halloween-deals?page=1&sort=starts_at:desc"
             },
             {
-              "label": "BrickSeek Seasonal",
+              "label": "Brickseek Seasonal",
               "url": "https://brickseek.com/products?deal_rating=1&category=20&types=1&sort=last_change"
             },
             {
-              "label": "eDealinfo Halloween Decor",
+              "label": "Edealinfo Halloween Decor",
               "url": "https://www.edealinfo.com/deals/categories/halloweendecor.php"
             },
             {
-              "label": "eDealinfo Halloween Costumes",
+              "label": "Edealinfo Halloween Costumes",
               "url": "https://www.edealinfo.com/deals/categories/costumesandaccessories.php"
             }
           ]
@@ -8635,7 +8652,6 @@
           ]
         }
       ],
-
       "brands": [],
       "stores": []
     },
@@ -8916,7 +8932,7 @@
               "url": "https://www.google.com/search?q=Chromebook+price+drop"
             },
             {
-              "label": "USB Charger",
+              "label": "Usb Charger",
               "url": "https://www.google.com/search?q=USB+Charger+price+drop"
             },
             {
@@ -9422,15 +9438,15 @@
           "name": "Site Landing Pages",
           "urls": [
             {
-              "label": "TheBlackFriday",
+              "label": "Theblackfriday",
               "url": "https://www.theblackfriday.com/"
             },
             {
-              "label": "BlackFriday",
+              "label": "Blackfriday",
               "url": "https://blackfriday.com/"
             },
             {
-              "label": "BeFrugal",
+              "label": "Befrugal",
               "url": "https://www.befrugal.com/coupons/search/black%20friday/deals/"
             },
             {
@@ -9450,19 +9466,19 @@
               "url": "https://www.dealmoon.com/en/black-friday-category"
             },
             {
-              "label": "DealNews",
+              "label": "Dealnews",
               "url": "https://www.dealnews.com/f1676/Black-Friday/?sort=time"
             },
             {
-              "label": "DealSea",
+              "label": "Dealsea",
               "url": "https://dealsea.com/search?q=black+friday&search_mode=Deals"
             },
             {
-              "label": "eDealinfo",
+              "label": "Edealinfo",
               "url": "https://www.edealinfo.com/events/black-friday/"
             },
             {
-              "label": "GottaDeal",
+              "label": "Gottadeal",
               "url": "https://gottadeal.com/black-friday"
             },
             {
@@ -9470,7 +9486,7 @@
               "url": "https://hip2save.com/sales-deals/black-friday/"
             },
             {
-              "label": "KrazyCouponLady",
+              "label": "Krazycouponlady",
               "url": "https://thekrazycouponlady.com/black-friday-deals"
             },
             {
@@ -9480,6 +9496,1438 @@
           ]
         }
       ]
+    },
+    "Super Bowl": {
+      "active": true,
+      "categories": [
+        {
+          "name": "Large Screen TVs & Accessories",
+          "urls": [
+            {
+              "label": "65 Inch TV",
+              "url": "https://www.google.com/search?q=65+inch+tv+price+drop"
+            },
+            {
+              "label": "75 Inch TV",
+              "url": "https://www.google.com/search?q=75+inch+tv+price+drop"
+            },
+            {
+              "label": "85 Inch TV",
+              "url": "https://www.google.com/search?q=85+inch+tv+price+drop"
+            },
+            {
+              "label": "QLED TV",
+              "url": "https://www.google.com/search?q=qled+tv+price+drop"
+            },
+            {
+              "label": "Mini-LED TV",
+              "url": "https://www.google.com/search?q=mini+led+tv+price+drop"
+            },
+            {
+              "label": "120Hz TV",
+              "url": "https://www.google.com/search?q=120hz+tv+price+drop"
+            },
+            {
+              "label": "4K TV",
+              "url": "https://www.google.com/search?q=4k+tv+price+drop"
+            },
+            {
+              "label": "OLED TV",
+              "url": "https://www.google.com/search?q=oled+tv+price+drop"
+            },
+            {
+              "label": "OLED TV 65 Inch",
+              "url": "https://www.google.com/search?q=oled+tv+65+inch+price+drop"
+            },
+            {
+              "label": "OLED TV 77 Inch",
+              "url": "https://www.google.com/search?q=oled+tv+77+inch+price+drop"
+            },
+            {
+              "label": "OLED TV 83 Inch",
+              "url": "https://www.google.com/search?q=oled+tv+83+inch+price+drop"
+            },
+            {
+              "label": "LG C Series OLED",
+              "url": "https://www.google.com/search?q=lg+c+series+oled+price+drop"
+            },
+            {
+              "label": "LG G Series OLED",
+              "url": "https://www.google.com/search?q=lg+g+series+oled+price+drop"
+            },
+            {
+              "label": "LG B Series OLED",
+              "url": "https://www.google.com/search?q=lg+b+series+oled+price+drop"
+            },
+            {
+              "label": "Samsung S90 OLED",
+              "url": "https://www.google.com/search?q=samsung+s90+oled+price+drop"
+            },
+            {
+              "label": "Samsung S95 OLED",
+              "url": "https://www.google.com/search?q=samsung+s95+oled+price+drop"
+            },
+            {
+              "label": "Sony A80 OLED",
+              "url": "https://www.google.com/search?q=sony+a80+oled+price+drop"
+            },
+            {
+              "label": "Sony A90 OLED",
+              "url": "https://www.google.com/search?q=sony+a90+oled+price+drop"
+            },
+            {
+              "label": "Sony A95 OLED",
+              "url": "https://www.google.com/search?q=sony+a95+oled+price+drop"
+            },
+            {
+              "label": "Hisense U8 Mini-LED",
+              "url": "https://www.google.com/search?q=hisense+u8+mini+led+price+drop"
+            },
+            {
+              "label": "Hisense U7 Mini-LED",
+              "url": "https://www.google.com/search?q=hisense+u7+mini+led+price+drop"
+            },
+            {
+              "label": "Sony X90 LED TV",
+              "url": "https://www.google.com/search?q=sony+x90+led+tv+price+drop"
+            },
+            {
+              "label": "Sony X93 Mini-LED",
+              "url": "https://www.google.com/search?q=sony+x93+mini+led+price+drop"
+            },
+            {
+              "label": "Samsung QLED TV",
+              "url": "https://www.google.com/search?q=samsung+qled+tv+price+drop"
+            },
+            {
+              "label": "Samsung Neo QLED",
+              "url": "https://www.google.com/search?q=samsung+neo+qled+price+drop"
+            },
+            {
+              "label": "TCL QM8 Mini-LED",
+              "url": "https://www.google.com/search?q=tcl+qm8+mini+led+price+drop"
+            },
+            {
+              "label": "TCL Q7 QLED",
+              "url": "https://www.google.com/search?q=tcl+q7+qled+price+drop"
+            },
+            {
+              "label": "TV Wall Mount",
+              "url": "https://www.google.com/search?q=tv+wall+mount+price+drop"
+            },
+            {
+              "label": "Full Motion TV Mount",
+              "url": "https://www.google.com/search?q=full+motion+tv+mount+price+drop"
+            },
+            {
+              "label": "Tilting TV Mount",
+              "url": "https://www.google.com/search?q=tilting+tv+mount+price+drop"
+            },
+            {
+              "label": "Fixed TV Mount",
+              "url": "https://www.google.com/search?q=fixed+tv+mount+price+drop"
+            },
+            {
+              "label": "HDMI 2.1 Cable",
+              "url": "https://www.google.com/search?q=hdmi+2.1+cable+price+drop"
+            },
+            {
+              "label": "Surge Protector",
+              "url": "https://www.google.com/search?q=surge+protector+price+drop"
+            },
+            {
+              "label": "Universal Remote",
+              "url": "https://www.google.com/search?q=universal+remote+price+drop"
+            },
+            {
+              "label": "Roku Ultra",
+              "url": "https://www.google.com/search?q=roku+ultra+price+drop"
+            },
+            {
+              "label": "Fire TV Stick 4K",
+              "url": "https://www.google.com/search?q=fire+tv+stick+4k+price+drop"
+            },
+            {
+              "label": "Apple TV 4K",
+              "url": "https://www.google.com/search?q=apple+tv+4k+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "TV Audio",
+          "urls": [
+            {
+              "label": "Soundbar",
+              "url": "https://www.google.com/search?q=soundbar+price+drop"
+            },
+            {
+              "label": "Dolby Atmos Soundbar",
+              "url": "https://www.google.com/search?q=dolby+atmos+soundbar+price+drop"
+            },
+            {
+              "label": "Soundbar With Subwoofer",
+              "url": "https://www.google.com/search?q=soundbar+with+subwoofer+price+drop"
+            },
+            {
+              "label": "Wireless Surround Sound",
+              "url": "https://www.google.com/search?q=wireless+surround+sound+price+drop"
+            },
+            {
+              "label": "2.1 Channel Soundbar",
+              "url": "https://www.google.com/search?q=2.1+channel+soundbar+price+drop"
+            },
+            {
+              "label": "3.1 Channel Soundbar",
+              "url": "https://www.google.com/search?q=3.1+channel+soundbar+price+drop"
+            },
+            {
+              "label": "5.1 Soundbar System",
+              "url": "https://www.google.com/search?q=5.1+soundbar+system+price+drop"
+            },
+            {
+              "label": "Compact Soundbar",
+              "url": "https://www.google.com/search?q=compact+soundbar+price+drop"
+            },
+            {
+              "label": "Sonos Soundbar",
+              "url": "https://www.google.com/search?q=sonos+soundbar+price+drop"
+            },
+            {
+              "label": "Sonos Beam",
+              "url": "https://www.google.com/search?q=sonos+beam+price+drop"
+            },
+            {
+              "label": "Sonos Arc",
+              "url": "https://www.google.com/search?q=sonos+arc+price+drop"
+            },
+            {
+              "label": "Bose Soundbar",
+              "url": "https://www.google.com/search?q=bose+soundbar+price+drop"
+            },
+            {
+              "label": "Bose Smart Soundbar",
+              "url": "https://www.google.com/search?q=bose+smart+soundbar+price+drop"
+            },
+            {
+              "label": "Samsung Q Series Soundbar",
+              "url": "https://www.google.com/search?q=samsung+q+series+soundbar+price+drop"
+            },
+            {
+              "label": "LG Soundbar",
+              "url": "https://www.google.com/search?q=lg+soundbar+price+drop"
+            },
+            {
+              "label": "Sony Soundbar",
+              "url": "https://www.google.com/search?q=sony+soundbar+price+drop"
+            },
+            {
+              "label": "Bookshelf Speakers",
+              "url": "https://www.google.com/search?q=bookshelf+speakers+price+drop"
+            },
+            {
+              "label": "Home Theater Speakers",
+              "url": "https://www.google.com/search?q=home+theater+speakers+price+drop"
+            },
+            {
+              "label": "Wireless TV Speakers",
+              "url": "https://www.google.com/search?q=wireless+tv+speakers+price+drop"
+            },
+            {
+              "label": "Speaker Stands",
+              "url": "https://www.google.com/search?q=speaker+stands+price+drop"
+            },
+            {
+              "label": "Speaker Mounts",
+              "url": "https://www.google.com/search?q=speaker+mounts+price+drop"
+            },
+            {
+              "label": "HDMI Earc Cable",
+              "url": "https://www.google.com/search?q=hdmi+eARC+cable+price+drop"
+            },
+            {
+              "label": "Optical Audio Cable",
+              "url": "https://www.google.com/search?q=optical+audio+cable+price+drop"
+            },
+            {
+              "label": "5.1 Surround Sound Speakers",
+              "url": "https://www.google.com/search?q=5.1+surround+sound+speakers+price+drop"
+            },
+            {
+              "label": "7.1 Surround Sound System",
+              "url": "https://www.google.com/search?q=7.1+surround+sound+system+price+drop"
+            },
+            {
+              "label": "Expandable Speaker System",
+              "url": "https://www.google.com/search?q=expandable+speaker+system+price+drop"
+            },
+            {
+              "label": "Floor Standing Speakers",
+              "url": "https://www.google.com/search?q=floor+standing+speakers+price+drop"
+            },
+            {
+              "label": "Center Channel Speaker",
+              "url": "https://www.google.com/search?q=center+channel+speaker+price+drop"
+            },
+            {
+              "label": "Klipsch Reference Speakers",
+              "url": "https://www.google.com/search?q=klipsch+reference+speakers+price+drop"
+            },
+            {
+              "label": "Klipsch Synergy Speakers",
+              "url": "https://www.google.com/search?q=klipsch+synergy+speakers+price+drop"
+            },
+            {
+              "label": "Polk Signature Series",
+              "url": "https://www.google.com/search?q=polk+signature+series+price+drop"
+            },
+            {
+              "label": "Polk Tsi Speakers",
+              "url": "https://www.google.com/search?q=polk+tsi+speakers+price+drop"
+            },
+            {
+              "label": "Sony Core Series Speakers",
+              "url": "https://www.google.com/search?q=sony+core+series+speakers+price+drop"
+            },
+            {
+              "label": "Sony Ss Series Speakers",
+              "url": "https://www.google.com/search?q=sony+ss+series+speakers+price+drop"
+            },
+            {
+              "label": "JBL Stage Speakers",
+              "url": "https://www.google.com/search?q=jbl+stage+speakers+price+drop"
+            },
+            {
+              "label": "JBL Arena Speakers",
+              "url": "https://www.google.com/search?q=jbl+arena+speakers+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Streaming Subscriptions",
+          "urls": [
+            {
+              "label": "Youtube TV Subscription",
+              "url": "https://www.google.com/search?q=youtube+tv+subscription+price+drop"
+            },
+            {
+              "label": "Hulu Plus Live TV Subscription",
+              "url": "https://www.google.com/search?q=hulu+plus+live+tv+subscription+price+drop"
+            },
+            {
+              "label": "Fubo TV Subscription",
+              "url": "https://www.google.com/search?q=fubo+tv+subscription+price+drop"
+            },
+            {
+              "label": "Directv Stream Subscription",
+              "url": "https://www.google.com/search?q=directv+stream+subscription+price+drop"
+            },
+            {
+              "label": "Sling TV Subscription",
+              "url": "https://www.google.com/search?q=sling+tv+subscription+price+drop"
+            },
+            {
+              "label": "Nfl Plus Subscription",
+              "url": "https://www.google.com/search?q=nfl+plus+subscription+price+drop"
+            },
+            {
+              "label": "Peacock Subscription",
+              "url": "https://www.google.com/search?q=peacock+subscription+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Food & Beverage",
+          "urls": [
+            {
+              "label": "Snack Variety Packs",
+              "url": "https://www.google.com/search?q=snack+variety+packs+price+drop"
+            },
+            {
+              "label": "Chips And Dip",
+              "url": "https://www.google.com/search?q=chips+and+dip+price+drop"
+            },
+            {
+              "label": "Party Size Chips",
+              "url": "https://www.google.com/search?q=party+size+chips+price+drop"
+            },
+            {
+              "label": "Tortilla Chips",
+              "url": "https://www.google.com/search?q=tortilla+chips+price+drop"
+            },
+            {
+              "label": "Snack Packs",
+              "url": "https://www.google.com/search?q=snack+packs+price+drop"
+            },
+            {
+              "label": "Guacamole",
+              "url": "https://www.google.com/search?q=guacamole+price+drop"
+            },
+            {
+              "label": "Frozen Appetizers",
+              "url": "https://www.google.com/search?q=frozen+appetizers+price+drop"
+            },
+            {
+              "label": "Chicken Wings",
+              "url": "https://www.google.com/search?q=chicken+wings+price+drop"
+            },
+            {
+              "label": "Mozzarella Sticks",
+              "url": "https://www.google.com/search?q=mozzarella+sticks+price+drop"
+            },
+            {
+              "label": "Sliders Frozen",
+              "url": "https://www.google.com/search?q=sliders+frozen+price+drop"
+            },
+            {
+              "label": "Party Platters",
+              "url": "https://www.google.com/search?q=party+platters+price+drop"
+            },
+            {
+              "label": "Queso Dip",
+              "url": "https://www.google.com/search?q=queso+dip+price+drop"
+            },
+            {
+              "label": "Buffalo Sauce",
+              "url": "https://www.google.com/search?q=buffalo+sauce+price+drop"
+            },
+            {
+              "label": "Ranch Dip",
+              "url": "https://www.google.com/search?q=ranch+dip+price+drop"
+            },
+            {
+              "label": "Spinach Artichoke Dip",
+              "url": "https://www.google.com/search?q=spinach+artichoke+dip+price+drop"
+            },
+            {
+              "label": "Salsa",
+              "url": "https://www.google.com/search?q=salsa+price+drop"
+            },
+            {
+              "label": "Soda Multipack",
+              "url": "https://www.google.com/search?q=soda+multipack+price+drop"
+            },
+            {
+              "label": "Sparkling Water",
+              "url": "https://www.google.com/search?q=sparkling+water+price+drop"
+            },
+            {
+              "label": "Sports Drinks",
+              "url": "https://www.google.com/search?q=sports+drinks+price+drop"
+            },
+            {
+              "label": "Iced Tea Gallon",
+              "url": "https://www.google.com/search?q=iced+tea+gallon+price+drop"
+            },
+            {
+              "label": "Drink Variety Pack",
+              "url": "https://www.google.com/search?q=drink+variety+pack+price+drop"
+            },
+            {
+              "label": "Meatball",
+              "url": "https://www.google.com/search?q=meatball+price+drop"
+            },
+            {
+              "label": "Sausage Bite",
+              "url": "https://www.google.com/search?q=sausage+bite+price+drop"
+            },
+            {
+              "label": "Chicken Tender",
+              "url": "https://www.google.com/search?q=chicken+tender+price+drop"
+            },
+            {
+              "label": "Chicken Nugget",
+              "url": "https://www.google.com/search?q=chicken+nugget+price+drop"
+            },
+            {
+              "label": "Pulled Pork",
+              "url": "https://www.google.com/search?q=pulled+pork+price+drop"
+            },
+            {
+              "label": "Shredded Chicken",
+              "url": "https://www.google.com/search?q=shredded+chicken+price+drop"
+            },
+            {
+              "label": "Vegetable Tray",
+              "url": "https://www.google.com/search?q=vegetable+tray+price+drop"
+            },
+            {
+              "label": "Fruit Tray",
+              "url": "https://www.google.com/search?q=fruit+tray+price+drop"
+            },
+            {
+              "label": "Coleslaw",
+              "url": "https://www.google.com/search?q=coleslaw+price+drop"
+            },
+            {
+              "label": "Pasta Salad",
+              "url": "https://www.google.com/search?q=pasta+salad+price+drop"
+            },
+            {
+              "label": "Bean Dip",
+              "url": "https://www.google.com/search?q=bean+dip+price+drop"
+            },
+            {
+              "label": "Ketchup",
+              "url": "https://www.google.com/search?q=Ketchup+price+drop"
+            },
+            {
+              "label": "Barbeque Sauce",
+              "url": "https://www.google.com/search?q=Barbeque+Sauce+price+drop"
+            },
+            {
+              "label": "Mayonnaise",
+              "url": "https://www.google.com/search?q=Mayonnaise+price+drop"
+            },
+            {
+              "label": "Mustard",
+              "url": "https://www.google.com/search?q=Mustard+price+drop"
+            },
+            {
+              "label": "Relish",
+              "url": "https://www.google.com/search?q=Relish+price+drop"
+            },
+            {
+              "label": "Horseradish",
+              "url": "https://www.google.com/search?q=Horseradish+price+drop"
+            },
+            {
+              "label": "Hot Sauce",
+              "url": "https://www.google.com/search?q=Hot+Sauce+price+drop"
+            },
+            {
+              "label": "Hot Dog Buns",
+              "url": "https://www.google.com/search?q=hot+dog+buns+price+drop"
+            },
+            {
+              "label": "Hot Dogs",
+              "url": "https://www.google.com/search?q=hot+dogs+price+drop"
+            },
+            {
+              "label": "Hamburger Buns",
+              "url": "https://www.google.com/search?q=hamburger+buns+price+drop"
+            },
+            {
+              "label": "Ground Beef",
+              "url": "https://www.google.com/search?q=ground+beef+price+drop"
+            },
+            {
+              "label": "Ground Turkey",
+              "url": "https://www.google.com/search?q=ground+turkey+price+drop"
+            },
+            {
+              "label": "Veggie Patty",
+              "url": "https://www.google.com/search?q=veggie+patty+price+drop"
+            },
+            {
+              "label": "American Cheese",
+              "url": "https://www.google.com/search?q=american+cheese+price+drop"
+            },
+            {
+              "label": "Sliced Cheese",
+              "url": "https://www.google.com/search?q=sliced+cheese+price+drop"
+            },
+            {
+              "label": "Pickles",
+              "url": "https://www.google.com/search?q=pickles+price+drop"
+            },
+            {
+              "label": "Amazon Food Deals",
+              "url": "https://www.google.com/search?q=Amazon+food+deals+price+drop"
+            },
+            {
+              "label": "Walmart Food Deals",
+              "url": "https://www.google.com/search?q=Walmart+food+deals+price+drop"
+            },
+            {
+              "label": "Target Food Deals",
+              "url": "https://www.google.com/search?q=Target+food+deals+price+drop"
+            },
+            {
+              "label": "Costco Food Deals",
+              "url": "https://www.google.com/search?q=Costco+food+deals+price+drop"
+            },
+            {
+              "label": "Sam's Club Food Deals",
+              "url": "https://www.google.com/search?q=Sam's+Club+food+deals+price+drop"
+            },
+            {
+              "label": "Kroger Food Deals",
+              "url": "https://www.google.com/search?q=Kroger+food+deals+price+drop"
+            },
+            {
+              "label": "Walgreens Food Deals",
+              "url": "https://www.google.com/search?q=Walgreens+food+deals+price+drop"
+            },
+            {
+              "label": "Cvs Food Deals",
+              "url": "https://www.google.com/search?q=CVS+food+deals+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen & Hosting Gear",
+          "urls": [
+            {
+              "label": "Air Fryer",
+              "url": "https://www.google.com/search?q=air+fryer+price+drop"
+            },
+            {
+              "label": "Slow Cooker",
+              "url": "https://www.google.com/search?q=slow+cooker+price+drop"
+            },
+            {
+              "label": "Pressure Cooker",
+              "url": "https://www.google.com/search?q=pressure+cooker+price+drop"
+            },
+            {
+              "label": "Electric Griddle",
+              "url": "https://www.google.com/search?q=electric+griddle+price+drop"
+            },
+            {
+              "label": "Deep Fryer",
+              "url": "https://www.google.com/search?q=deep+fryer+price+drop"
+            },
+            {
+              "label": "Rice Cooker",
+              "url": "https://www.google.com/search?q=rice+cooker+price+drop"
+            },
+            {
+              "label": "Hot Plate",
+              "url": "https://www.google.com/search?q=hot+plate+price+drop"
+            },
+            {
+              "label": "Pizza Oven",
+              "url": "https://www.google.com/search?q=pizza+oven+price+drop"
+            },
+            {
+              "label": "Gas Grill",
+              "url": "https://www.google.com/search?q=gas+grill+price+drop"
+            },
+            {
+              "label": "Charcoal Grill",
+              "url": "https://www.google.com/search?q=charcoal+grill+price+drop"
+            },
+            {
+              "label": "Pellet Grill",
+              "url": "https://www.google.com/search?q=pellet+grill+price+drop"
+            },
+            {
+              "label": "Electric Grill",
+              "url": "https://www.google.com/search?q=electric+grill+price+drop"
+            },
+            {
+              "label": "Food Processor",
+              "url": "https://www.google.com/search?q=food+processor+price+drop"
+            },
+            {
+              "label": "Blender",
+              "url": "https://www.google.com/search?q=blender+price+drop"
+            },
+            {
+              "label": "Hand Mixer",
+              "url": "https://www.google.com/search?q=hand+mixer+price+drop"
+            },
+            {
+              "label": "Stand Mixer",
+              "url": "https://www.google.com/search?q=stand+mixer+price+drop"
+            },
+            {
+              "label": "Immersion Blender",
+              "url": "https://www.google.com/search?q=immersion+blender+price+drop"
+            },
+            {
+              "label": "Electric Knife",
+              "url": "https://www.google.com/search?q=electric+knife+price+drop"
+            },
+            {
+              "label": "Warming Tray",
+              "url": "https://www.google.com/search?q=warming+tray+price+drop"
+            },
+            {
+              "label": "Serving Tray",
+              "url": "https://www.google.com/search?q=serving+tray+price+drop"
+            },
+            {
+              "label": "Serving Platter",
+              "url": "https://www.google.com/search?q=serving+platter+price+drop"
+            },
+            {
+              "label": "Chip And Dip Bowl",
+              "url": "https://www.google.com/search?q=chip+and+dip+bowl+price+drop"
+            },
+            {
+              "label": "Snack Bowl",
+              "url": "https://www.google.com/search?q=snack+bowl+price+drop"
+            },
+            {
+              "label": "Dip Bowl",
+              "url": "https://www.google.com/search?q=dip+bowl+price+drop"
+            },
+            {
+              "label": "Drink Dispenser",
+              "url": "https://www.google.com/search?q=drink+dispenser+price+drop"
+            },
+            {
+              "label": "Pitcher",
+              "url": "https://www.google.com/search?q=pitcher+price+drop"
+            },
+            {
+              "label": "Ice Bucket",
+              "url": "https://www.google.com/search?q=ice+bucket+price+drop"
+            },
+            {
+              "label": "Food Storage Container",
+              "url": "https://www.google.com/search?q=food+storage+container+price+drop"
+            },
+            {
+              "label": "Cooler",
+              "url": "https://www.google.com/search?q=cooler+price+drop"
+            },
+            {
+              "label": "Paper Towel Holder",
+              "url": "https://www.google.com/search?q=paper+towel+holder+price+drop"
+            },
+            {
+              "label": "Trash Can",
+              "url": "https://www.google.com/search?q=trash+can+price+drop"
+            },
+            {
+              "label": "Paper Plate",
+              "url": "https://www.google.com/search?q=paper+plate+price+drop"
+            },
+            {
+              "label": "Plastic Plate",
+              "url": "https://www.google.com/search?q=plastic+plate+price+drop"
+            },
+            {
+              "label": "Paper Bowl",
+              "url": "https://www.google.com/search?q=paper+bowl+price+drop"
+            },
+            {
+              "label": "Plastic Bowl",
+              "url": "https://www.google.com/search?q=plastic+bowl+price+drop"
+            },
+            {
+              "label": "Plastic Cup",
+              "url": "https://www.google.com/search?q=plastic+cup+price+drop"
+            },
+            {
+              "label": "Paper Cup",
+              "url": "https://www.google.com/search?q=paper+cup+price+drop"
+            },
+            {
+              "label": "Foam Cup",
+              "url": "https://www.google.com/search?q=foam+cup+price+drop"
+            },
+            {
+              "label": "Plastic Fork",
+              "url": "https://www.google.com/search?q=plastic+fork+price+drop"
+            },
+            {
+              "label": "Plastic Spoon",
+              "url": "https://www.google.com/search?q=plastic+spoon+price+drop"
+            },
+            {
+              "label": "Plastic Knife",
+              "url": "https://www.google.com/search?q=plastic+knife+price+drop"
+            },
+            {
+              "label": "Disposable Cutlery",
+              "url": "https://www.google.com/search?q=disposable+cutlery+price+drop"
+            },
+            {
+              "label": "Paper Napkin",
+              "url": "https://www.google.com/search?q=paper+napkin+price+drop"
+            },
+            {
+              "label": "Cocktail Napkin",
+              "url": "https://www.google.com/search?q=cocktail+napkin+price+drop"
+            },
+            {
+              "label": "Paper Towel",
+              "url": "https://www.google.com/search?q=paper+towel+price+drop"
+            },
+            {
+              "label": "Table Cover",
+              "url": "https://www.google.com/search?q=table+cover+price+drop"
+            },
+            {
+              "label": "Plastic Tablecloth",
+              "url": "https://www.google.com/search?q=plastic+tablecloth+price+drop"
+            },
+            {
+              "label": "Aluminum Foil Pan",
+              "url": "https://www.google.com/search?q=aluminum+foil+pan+price+drop"
+            },
+            {
+              "label": "Foil Tray",
+              "url": "https://www.google.com/search?q=foil+tray+price+drop"
+            },
+            {
+              "label": "Disposable Food Container",
+              "url": "https://www.google.com/search?q=disposable+food+container+price+drop"
+            },
+            {
+              "label": "Trash Bag",
+              "url": "https://www.google.com/search?q=trash+bag+price+drop"
+            },
+            {
+              "label": "Cleaning Wipe",
+              "url": "https://www.google.com/search?q=cleaning+wipe+price+drop"
+            },
+            {
+              "label": "All Purpose Cleaner",
+              "url": "https://www.google.com/search?q=all+purpose+cleaner+price+drop"
+            },
+            {
+              "label": "Disinfectant Spray",
+              "url": "https://www.google.com/search?q=disinfectant+spray+price+drop"
+            },
+            {
+              "label": "Multi Surface Cleaner",
+              "url": "https://www.google.com/search?q=multi+surface+cleaner+price+drop"
+            },
+            {
+              "label": "Paper Towel",
+              "url": "https://www.google.com/search?q=paper+towel+price+drop"
+            },
+            {
+              "label": "Dish Soap",
+              "url": "https://www.google.com/search?q=dish+soap+price+drop"
+            },
+            {
+              "label": "Hand Soap",
+              "url": "https://www.google.com/search?q=hand+soap+price+drop"
+            },
+            {
+              "label": "Spot Cleaner",
+              "url": "https://www.google.com/search?q=spot+cleaner+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Furniture & Living Room Setup",
+          "urls": [
+            {
+              "label": "Sofa",
+              "url": "https://www.google.com/search?q=sofa+price+drop"
+            },
+            {
+              "label": "Sectional Sofa",
+              "url": "https://www.google.com/search?q=sectional+sofa+price+drop"
+            },
+            {
+              "label": "Recliner",
+              "url": "https://www.google.com/search?q=recliner+price+drop"
+            },
+            {
+              "label": "Power Recliner",
+              "url": "https://www.google.com/search?q=power+recliner+price+drop"
+            },
+            {
+              "label": "Loveseat",
+              "url": "https://www.google.com/search?q=loveseat+price+drop"
+            },
+            {
+              "label": "Accent Chair",
+              "url": "https://www.google.com/search?q=accent+chair+price+drop"
+            },
+            {
+              "label": "Folding Chair",
+              "url": "https://www.google.com/search?q=folding+chair+price+drop"
+            },
+            {
+              "label": "Pouf",
+              "url": "https://www.google.com/search?q=pouf+price+drop"
+            },
+            {
+              "label": "Ottoman",
+              "url": "https://www.google.com/search?q=ottoman+price+drop"
+            },
+            {
+              "label": "Bean Bag Chair",
+              "url": "https://www.google.com/search?q=bean+bag+chair+price+drop"
+            },
+            {
+              "label": "TV Stand",
+              "url": "https://www.google.com/search?q=tv+stand+price+drop"
+            },
+            {
+              "label": "Media Console",
+              "url": "https://www.google.com/search?q=media+console+price+drop"
+            },
+            {
+              "label": "Entertainment Center",
+              "url": "https://www.google.com/search?q=entertainment+center+price+drop"
+            },
+            {
+              "label": "Corner TV Stand",
+              "url": "https://www.google.com/search?q=corner+tv+stand+price+drop"
+            },
+            {
+              "label": "Floating TV Stand",
+              "url": "https://www.google.com/search?q=floating+tv+stand+price+drop"
+            },
+            {
+              "label": "Coffee Table",
+              "url": "https://www.google.com/search?q=coffee+table+price+drop"
+            },
+            {
+              "label": "End Table",
+              "url": "https://www.google.com/search?q=end+table+price+drop"
+            },
+            {
+              "label": "Tray Table",
+              "url": "https://www.google.com/search?q=tray+table+price+drop"
+            },
+            {
+              "label": "Nesting Table",
+              "url": "https://www.google.com/search?q=nesting+table+price+drop"
+            },
+            {
+              "label": "C Table",
+              "url": "https://www.google.com/search?q=c+table+price+drop"
+            },
+            {
+              "label": "Throw Blanket",
+              "url": "https://www.google.com/search?q=throw+blanket+price+drop"
+            },
+            {
+              "label": "Stackable Chair",
+              "url": "https://www.google.com/search?q=stackable+chair+price+drop"
+            },
+            {
+              "label": "Collapsible Table",
+              "url": "https://www.google.com/search?q=collapsible+table+price+drop"
+            },
+            {
+              "label": "Folding Table",
+              "url": "https://www.google.com/search?q=folding+table+price+drop"
+            },
+            {
+              "label": "Chaise Lounge",
+              "url": "https://www.google.com/search?q=chaise+lounge+price+drop"
+            },
+            {
+              "label": "Rocking Chair",
+              "url": "https://www.google.com/search?q=rocking+chair+price+drop"
+            },
+            {
+              "label": "Swivel Chair",
+              "url": "https://www.google.com/search?q=swivel+chair+price+drop"
+            },
+            {
+              "label": "Bar Stool",
+              "url": "https://www.google.com/search?q=bar+stool+price+drop"
+            },
+            {
+              "label": "TV Tray",
+              "url": "https://www.google.com/search?q=tv+tray+price+drop"
+            },
+            {
+              "label": "Adjustable Side Table",
+              "url": "https://www.google.com/search?q=adjustable+side+table+price+drop"
+            },
+            {
+              "label": "Rolling Cart",
+              "url": "https://www.google.com/search?q=rolling+cart+price+drop"
+            },
+            {
+              "label": "Console Table",
+              "url": "https://www.google.com/search?q=console+table+price+drop"
+            },
+            {
+              "label": "Patio Heater",
+              "url": "https://www.google.com/search?q=patio+heater+price+drop"
+            },
+            {
+              "label": "Outdoor Heater",
+              "url": "https://www.google.com/search?q=outdoor+heater+price+drop"
+            },
+            {
+              "label": "Fire Pit",
+              "url": "https://www.google.com/search?q=fire+pit+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Team Gear",
+          "urls": [
+            {
+              "label": "Nfl T Shirt",
+              "url": "https://www.google.com/search?q=nfl+t+shirt+price+drop"
+            },
+            {
+              "label": "Nfl Hoodie",
+              "url": "https://www.google.com/search?q=nfl+hoodie+price+drop"
+            },
+            {
+              "label": "Nfl Sweatshirt",
+              "url": "https://www.google.com/search?q=nfl+sweatshirt+price+drop"
+            },
+            {
+              "label": "Nfl Jacket",
+              "url": "https://www.google.com/search?q=nfl+jacket+price+drop"
+            },
+            {
+              "label": "Nfl Hat",
+              "url": "https://www.google.com/search?q=nfl+hat+price+drop"
+            },
+            {
+              "label": "Nfl Socks",
+              "url": "https://www.google.com/search?q=nfl+socks+price+drop"
+            },
+            {
+              "label": "Nfl Blanket",
+              "url": "https://www.google.com/search?q=nfl+blanket+price+drop"
+            },
+            {
+              "label": "Nfl Cup",
+              "url": "https://www.google.com/search?q=nfl+cup+price+drop"
+            },
+            {
+              "label": "Super Bowl T Shirt",
+              "url": "https://www.google.com/search?q=super+bowl+t+shirt+price+drop"
+            },
+            {
+              "label": "Super Bowl Hoodie",
+              "url": "https://www.google.com/search?q=super+bowl+hoodie+price+drop"
+            },
+            {
+              "label": "Super Bowl Sweatshirt",
+              "url": "https://www.google.com/search?q=super+bowl+sweatshirt+price+drop"
+            },
+            {
+              "label": "Super Bowl Jacket",
+              "url": "https://www.google.com/search?q=super+bowl+jacket+price+drop"
+            },
+            {
+              "label": "Super Bowl Socks",
+              "url": "https://www.google.com/search?q=super+bowl+socks+price+drop"
+            },
+            {
+              "label": "Super Bowl Hat",
+              "url": "https://www.google.com/search?q=super+bowl+hat+price+drop"
+            },
+            {
+              "label": "Super Bowl Blanket",
+              "url": "https://www.google.com/search?q=super+bowl+blanket+price+drop"
+            },
+            {
+              "label": "Super Bowl Cup",
+              "url": "https://www.google.com/search?q=super+bowl+cup+price+drop"
+            },
+            {
+              "label": "Seattle Seahawks T Shirt",
+              "url": "https://www.google.com/search?q=seattle+seahawks+t+shirt+price+drop"
+            },
+            {
+              "label": "Seattle Seahawks Hoodie",
+              "url": "https://www.google.com/search?q=seattle+seahawks+hoodie+price+drop"
+            },
+            {
+              "label": "Seattle Seahawks Sweatshirt",
+              "url": "https://www.google.com/search?q=seattle+seahawks+sweatshirt+price+drop"
+            },
+            {
+              "label": "Seattle Seahawks Jacket",
+              "url": "https://www.google.com/search?q=seattle+seahawks+jacket+price+drop"
+            },
+            {
+              "label": "Seattle Seahawks Hat",
+              "url": "https://www.google.com/search?q=seattle+seahawks+hat+price+drop"
+            },
+            {
+              "label": "Seattle Seahawks Socks",
+              "url": "https://www.google.com/search?q=seattle+seahawks+socks+price+drop"
+            },
+            {
+              "label": "Seattle Seahawks Blanket",
+              "url": "https://www.google.com/search?q=seattle+seahawks+blanket+price+drop"
+            },
+            {
+              "label": "Seattle Seahawks Cup",
+              "url": "https://www.google.com/search?q=seattle+seahawks+cup+price+drop"
+            },
+            {
+              "label": "New England Patriots T Shirt",
+              "url": "https://www.google.com/search?q=new+england+patriots+t+shirt+price+drop"
+            },
+            {
+              "label": "New England Patriots Hoodie",
+              "url": "https://www.google.com/search?q=new+england+patriots+hoodie+price+drop"
+            },
+            {
+              "label": "New England Patriots Sweatshirt",
+              "url": "https://www.google.com/search?q=new+england+patriots+sweatshirt+price+drop"
+            },
+            {
+              "label": "New England Patriots Jacket",
+              "url": "https://www.google.com/search?q=new+england+patriots+jacket+price+drop"
+            },
+            {
+              "label": "New England Patriots Hat",
+              "url": "https://www.google.com/search?q=new+england+patriots+hat+price+drop"
+            },
+            {
+              "label": "New England Patriots Socks",
+              "url": "https://www.google.com/search?q=new+england+patriots+socks+price+drop"
+            },
+            {
+              "label": "New England Patriots Blanket",
+              "url": "https://www.google.com/search?q=new+england+patriots+blanket+price+drop"
+            },
+            {
+              "label": "New England Patriots Cup",
+              "url": "https://www.google.com/search?q=new+england+patriots+cup+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Smart Home & Networking",
+          "urls": [
+            {
+              "label": "Smart Light",
+              "url": "https://www.google.com/search?q=smart+light+price+drop"
+            },
+            {
+              "label": "Smart Bulb",
+              "url": "https://www.google.com/search?q=smart+bulb+price+drop"
+            },
+            {
+              "label": "Led Light Strip",
+              "url": "https://www.google.com/search?q=led+light+strip+price+drop"
+            },
+            {
+              "label": "TV Backlight",
+              "url": "https://www.google.com/search?q=tv+backlight+price+drop"
+            },
+            {
+              "label": "Bias Lighting",
+              "url": "https://www.google.com/search?q=bias+lighting+price+drop"
+            },
+            {
+              "label": "Smart Plug",
+              "url": "https://www.google.com/search?q=smart+plug+price+drop"
+            },
+            {
+              "label": "Wifi Plug",
+              "url": "https://www.google.com/search?q=wifi+plug+price+drop"
+            },
+            {
+              "label": "Smart Power Strip",
+              "url": "https://www.google.com/search?q=smart+power+strip+price+drop"
+            },
+            {
+              "label": "Outdoor Smart Plug",
+              "url": "https://www.google.com/search?q=outdoor+smart+plug+price+drop"
+            },
+            {
+              "label": "Smart Speaker",
+              "url": "https://www.google.com/search?q=smart+speaker+price+drop"
+            },
+            {
+              "label": "Wifi Router",
+              "url": "https://www.google.com/search?q=wifi+router+price+drop"
+            },
+            {
+              "label": "Mesh Wifi System",
+              "url": "https://www.google.com/search?q=mesh+wifi+system+price+drop"
+            },
+            {
+              "label": "Wifi Extender",
+              "url": "https://www.google.com/search?q=wifi+extender+price+drop"
+            },
+            {
+              "label": "Mesh Node",
+              "url": "https://www.google.com/search?q=mesh+node+price+drop"
+            },
+            {
+              "label": "Ethernet Switch",
+              "url": "https://www.google.com/search?q=ethernet+switch+price+drop"
+            },
+            {
+              "label": "Dual Band Router",
+              "url": "https://www.google.com/search?q=dual+band+router+price+drop"
+            },
+            {
+              "label": "Tri Band Router",
+              "url": "https://www.google.com/search?q=tri+band+router+price+drop"
+            }
+          ]
+        },
+        {
+          "name": "Food Pickup & Delivery",
+          "urls": [
+            {
+              "label": "Kcl Anticipated Food Deals",
+              "url": "https://www.google.com/search?q=KCL+Anticipated+Food+Deals+price+drop"
+            },
+            {
+              "label": "Uber Eats Delivery",
+              "url": "https://www.google.com/search?q=uber+eats+delivery+price+drop"
+            },
+            {
+              "label": "Doordash Delivery",
+              "url": "https://www.google.com/search?q=doordash+delivery+price+drop"
+            },
+            {
+              "label": "Grubhub Delivery",
+              "url": "https://www.google.com/search?q=grubhub+delivery+price+drop"
+            },
+            {
+              "label": "Postmates Delivery",
+              "url": "https://www.google.com/search?q=postmates+delivery+price+drop"
+            },
+            {
+              "label": "Instacart Delivery",
+              "url": "https://www.google.com/search?q=instacart+delivery+price+drop"
+            },
+            {
+              "label": "Chick Fil A Catering",
+              "url": "https://www.google.com/search?q=chick+fil+a+catering+price+drop"
+            },
+            {
+              "label": "Chick Fil A Nugget Tray",
+              "url": "https://www.google.com/search?q=chick+fil+a+nugget+tray+price+drop"
+            },
+            {
+              "label": "Chick Fil A Sandwich Tray",
+              "url": "https://www.google.com/search?q=chick+fil+a+sandwich+tray+price+drop"
+            },
+            {
+              "label": "Chick Fil A Pickup",
+              "url": "https://www.google.com/search?q=chick+fil+a+pickup+price+drop"
+            },
+            {
+              "label": "Chick Fil A Delivery",
+              "url": "https://www.google.com/search?q=chick+fil+a+delivery+price+drop"
+            },
+            {
+              "label": "Domino’S Delivery",
+              "url": "https://www.google.com/search?q=domino%E2%80%99s+delivery+price+drop"
+            },
+            {
+              "label": "Domino’S Pickup",
+              "url": "https://www.google.com/search?q=domino%E2%80%99s+pickup+price+drop"
+            },
+            {
+              "label": "Domino’S Carryout",
+              "url": "https://www.google.com/search?q=domino%E2%80%99s+carryout+price+drop"
+            },
+            {
+              "label": "Pizza Hut Delivery",
+              "url": "https://www.google.com/search?q=pizza+hut+delivery+price+drop"
+            },
+            {
+              "label": "Pizza Hut Pickup",
+              "url": "https://www.google.com/search?q=pizza+hut+pickup+price+drop"
+            },
+            {
+              "label": "Papa John’S Delivery",
+              "url": "https://www.google.com/search?q=papa+john%E2%80%99s+delivery+price+drop"
+            },
+            {
+              "label": "Papa John’S Pickup",
+              "url": "https://www.google.com/search?q=papa+john%E2%80%99s+pickup+price+drop"
+            },
+            {
+              "label": "Little Caesars Pickup",
+              "url": "https://www.google.com/search?q=little+caesars+pickup+price+drop"
+            },
+            {
+              "label": "Little Caesars Delivery",
+              "url": "https://www.google.com/search?q=little+caesars+delivery+price+drop"
+            },
+            {
+              "label": "Wingstop Delivery",
+              "url": "https://www.google.com/search?q=wingstop+delivery+price+drop"
+            },
+            {
+              "label": "Wingstop Pickup",
+              "url": "https://www.google.com/search?q=wingstop+pickup+price+drop"
+            },
+            {
+              "label": "Buffalo Wild Wings Delivery",
+              "url": "https://www.google.com/search?q=buffalo+wild+wings+delivery+price+drop"
+            },
+            {
+              "label": "Buffalo Wild Wings Pickup",
+              "url": "https://www.google.com/search?q=buffalo+wild+wings+pickup+price+drop"
+            },
+            {
+              "label": "Hooters Pickup",
+              "url": "https://www.google.com/search?q=hooters+pickup+price+drop"
+            },
+            {
+              "label": "Kfc Delivery",
+              "url": "https://www.google.com/search?q=kfc+delivery+price+drop"
+            },
+            {
+              "label": "Kfc Pickup",
+              "url": "https://www.google.com/search?q=kfc+pickup+price+drop"
+            },
+            {
+              "label": "Popeyes Delivery",
+              "url": "https://www.google.com/search?q=popeyes+delivery+price+drop"
+            },
+            {
+              "label": "Popeyes Pickup",
+              "url": "https://www.google.com/search?q=popeyes+pickup+price+drop"
+            },
+            {
+              "label": "Chipotle Delivery",
+              "url": "https://www.google.com/search?q=chipotle+delivery+price+drop"
+            },
+            {
+              "label": "Chipotle Pickup",
+              "url": "https://www.google.com/search?q=chipotle+pickup+price+drop"
+            },
+            {
+              "label": "Chipotle Catering",
+              "url": "https://www.google.com/search?q=chipotle+catering+price+drop"
+            },
+            {
+              "label": "Qdoba Delivery",
+              "url": "https://www.google.com/search?q=qdoba+delivery+price+drop"
+            },
+            {
+              "label": "Qdoba Pickup",
+              "url": "https://www.google.com/search?q=qdoba+pickup+price+drop"
+            },
+            {
+              "label": "Qdoba Catering",
+              "url": "https://www.google.com/search?q=qdoba+catering+price+drop"
+            },
+            {
+              "label": "Moe’S Catering",
+              "url": "https://www.google.com/search?q=moe%E2%80%99s+catering+price+drop"
+            },
+            {
+              "label": "Moe’S Pickup",
+              "url": "https://www.google.com/search?q=moe%E2%80%99s+pickup+price+drop"
+            },
+            {
+              "label": "Jersey Mike’S Catering",
+              "url": "https://www.google.com/search?q=jersey+mike%E2%80%99s+catering+price+drop"
+            },
+            {
+              "label": "Jersey Mike’S Pickup",
+              "url": "https://www.google.com/search?q=jersey+mike%E2%80%99s+pickup+price+drop"
+            },
+            {
+              "label": "Jimmy John’S Delivery",
+              "url": "https://www.google.com/search?q=jimmy+john%E2%80%99s+delivery+price+drop"
+            },
+            {
+              "label": "Jimmy John’S Catering",
+              "url": "https://www.google.com/search?q=jimmy+john%E2%80%99s+catering+price+drop"
+            },
+            {
+              "label": "Firehouse Subs Catering",
+              "url": "https://www.google.com/search?q=firehouse+subs+catering+price+drop"
+            },
+            {
+              "label": "Firehouse Subs Pickup",
+              "url": "https://www.google.com/search?q=firehouse+subs+pickup+price+drop"
+            },
+            {
+              "label": "Subway Catering",
+              "url": "https://www.google.com/search?q=subway+catering+price+drop"
+            },
+            {
+              "label": "Subway Pickup",
+              "url": "https://www.google.com/search?q=subway+pickup+price+drop"
+            },
+            {
+              "label": "Chili’S Pickup",
+              "url": "https://www.google.com/search?q=chili%E2%80%99s+pickup+price+drop"
+            },
+            {
+              "label": "Chili’S Delivery",
+              "url": "https://www.google.com/search?q=chili%E2%80%99s+delivery+price+drop"
+            },
+            {
+              "label": "Chili’S Party Platter",
+              "url": "https://www.google.com/search?q=chili%E2%80%99s+party+platter+price+drop"
+            },
+            {
+              "label": "Applebee’S Pickup",
+              "url": "https://www.google.com/search?q=applebee%E2%80%99s+pickup+price+drop"
+            },
+            {
+              "label": "Applebee’S Delivery",
+              "url": "https://www.google.com/search?q=applebee%E2%80%99s+delivery+price+drop"
+            },
+            {
+              "label": "Red Robin Pickup",
+              "url": "https://www.google.com/search?q=red+robin+pickup+price+drop"
+            },
+            {
+              "label": "Red Robin Delivery",
+              "url": "https://www.google.com/search?q=red+robin+delivery+price+drop"
+            },
+            {
+              "label": "Marco’S Pizza Delivery",
+              "url": "https://www.google.com/search?q=marco%E2%80%99s+pizza+delivery+price+drop"
+            },
+            {
+              "label": "Marco’S Pizza Pickup",
+              "url": "https://www.google.com/search?q=marco%E2%80%99s+pizza+pickup+price+drop"
+            },
+            {
+              "label": "California Pizza Kitchen Delivery",
+              "url": "https://www.google.com/search?q=california+pizza+kitchen+delivery+price+drop"
+            },
+            {
+              "label": "California Pizza Kitchen Pickup",
+              "url": "https://www.google.com/search?q=california+pizza+kitchen+pickup+price+drop"
+            },
+            {
+              "label": "Zaxby's Delivery",
+              "url": "https://www.google.com/search?q=zaxby%E2%80%99s+delivery+price+drop"
+            },
+            {
+              "label": "Zaxby's Pickup",
+              "url": "https://www.google.com/search?q=zaxby%E2%80%99s+pickup+price+drop"
+            },
+            {
+              "label": "Five Guys Delivery",
+              "url": "https://www.google.com/search?q=five+guys+delivery+price+drop"
+            },
+            {
+              "label": "Five Guys Pickup",
+              "url": "https://www.google.com/search?q=five+guys+pickup+price+drop"
+            },
+            {
+              "label": "Shake Shack Delivery",
+              "url": "https://www.google.com/search?q=shake+shack+delivery+price+drop"
+            },
+            {
+              "label": "Shake Shack Pickup",
+              "url": "https://www.google.com/search?q=shake+shack+pickup+price+drop"
+            },
+            {
+              "label": "Smashburger Delivery",
+              "url": "https://www.google.com/search?q=smashburger+delivery+price+drop"
+            },
+            {
+              "label": "Smashburger Pickup",
+              "url": "https://www.google.com/search?q=smashburger+pickup+price+drop"
+            },
+            {
+              "label": "Taco Bell Delivery",
+              "url": "https://www.google.com/search?q=taco+bell+delivery+price+drop"
+            },
+            {
+              "label": "Taco Bell Pickup",
+              "url": "https://www.google.com/search?q=taco+bell+pickup+price+drop"
+            }
+          ]
+        }
+      ],
+      "brands": [],
+      "stores": []
     }
   }
 }
