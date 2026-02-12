@@ -9498,7 +9498,7 @@
       ]
     },
     "Super Bowl": {
-      "active": true,
+      "active": false,
       "categories": [
         {
           "name": "Large Screen TVs & Accessories",
