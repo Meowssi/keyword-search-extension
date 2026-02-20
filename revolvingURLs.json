@@ -3372,8 +3372,8 @@
               "url": "https://www.google.com/search?q=Bluetooth+headset+price+drop"
             },
             {
-              "label": "True Wireless",
-              "url": "https://www.google.com/search?q=True+wireless+price+drop"
+              "label": " Wireless",
+              "url": "https://www.google.com/search?q=+wireless+price+drop"
             },
             {
               "label": "Open-Ear Earbuds",
@@ -10930,7 +10930,7 @@
       "stores": []
     },
     "Valentine's Day": {
-      "active": true,
+      "active": false,
       "categories": [
         {
           "name": "Bath & Body",
@@ -12224,7 +12224,7 @@
       "stores": []
     },
     "President's Day": {
-      "active": true,
+      "active": false,
       "categories": [
         {
           "name": "Mattresses & Bedding",
